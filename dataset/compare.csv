@@ -1,0 +1,81 @@
+text	object	context	role	contrast
+the intracell/intrapool handoff is exactly same as the spectrum decision proposed in @@citation, and hence out of scope in this paper.	spectrum  decision		B-subj	None
+it is reasonable to compare espvf with the current version of xilinx chipscope @@citation.	xilinx  chipscope		B-subj	None
+gulrajani et al. @@citation proposed a different method which restricts the norm of the gradient of the discriminator.	method	which  restricts  the norm of  the  gradient  of  the  discriminator	B-subj	contrast
+5.3 comparison with sacia the proposed method was compared with sacia @@citation, a prealignment method based on key-point matching, in the case of using four images.	sacia	prealignment  method  based  on  key-point  matching	B-subj	None
+"to do so we are using the same notation as in @@citation; systems are either implicitly specified using a system block, or built out of operators like until/corrects."	notation		B-subj	None
+the gas-burner is very similar to the one used in @@citation.	gas-burner		B-subj	None
+the steps of algorithm 3 are reminiscent of the sequential processing in kalman filter handling multiple measurements @@citation.	kalman  filter	handling  multiple  measurements	B-subj	None
+our additive composition function can be regarded as an instantiation of the weighted addition strategy that performed well in a distributional compositional approach to derivational morphology (@@citation).	weighted  addition  strategy	in  a  distributional  compositional  approach to  derivational  morphology	B-subj	None
+5.6.1 comparison with state-of-the-art algorithms in this section, fas is compared with pls [99] and numvc @@citation, both acknowledged as state-of-the-art algorithms for mvc in the literature.	numvc	mvc	B-subj	None
+for Óµe = 1%, we are 27 times faster than tch (2.94ms @@citation).	tch	27  times  faster  than	B-subj	None
+also, on the profile query we see the difference to the previous time-independent algorithm @@citation that only required one pass.	time-independent  algorithm	on  the  profile  query	B-subj	contrast
+for text data, the linear svms demonstrated superior text classification performance compared to other methods @@citation, and this motivated our use of them.	methods	the  linear  svms  demonstrated  superior  text  classification  performance	B-subj	contrast
+3.2.3 local offset matching (lom) here we propose a new method to overcome this drawback of phm @@citation and obtain more reliable correspondences.	phm		B-subj	contrast
+2.2 impact of candidate selection, prioritization and coordination on throughput to ensure the relay priority among the forwarding candidates, a mac protocol similar to those proposed in @@citation is necessary.	mac  protocol		B-subj	None
+soft-output detector with a reasonable performance/complexity trade-off, and computational complexity that is lower than the receiver proposed in @@citation.	receiver	computational  complexity	B-subj	None
+in phase 2 we compute the actual profiles using an approach similar to the systolic implementation of parallel prefix computation @@citation (see figure 4).	parallel  prefix  computation	systolic  implementation	B-subj	None
+preparata and vitter @@citation presented an algorithm with the same running time and claimed that their algorithm was simpler.	algorithm	same  running  time	B-subj	None
+same approach is used to solve the problem of meeting relative delay guarantees in @@citation.	meeting  relative  delay		B-subj	None
+with load flushing applied, the icount.1.8 result is 9% slower than the icount.2.8 result with four threads for the mix experiments, a result that confirms those in @@citation.	icount		B-subj	None
+our single frame optical flow model achieves an accuracy of 72.2% on split 1, similar to 73.9% reported by @@citation.	single  frame  optical  flow  model		B-subj	None
+11a similar analysis was done in @@citation, but there the stability criteria for steepest gradient descent were applied to the lms algorithm.	analysis	lms  algorithm	B-subj	None
+in fig. 3, we compare the reconstructions and the maps from the proposed low rank and smoothness methods with the iterative approach @@citation and an approach we refer to as the direct method.	iterative  approach		B-subj	None
+thus, its syntactic definition is similar to the concept of ‚Äòamplification‚Äô @@citation, which in turn corresponds to our ÔÅ in lemma 2.	amplification		B-subj	None
+b. equalizer‚Äôs effect on the pdf the eq implemented in this receiver is a linear, split-path equalizer similar to that introduced in @@citation, which creates highfrequency peaking by decreasing low-frequency gain.	linear,  split-path  equalizer	which  creates  highfrequency  peaking  by  decreasing  low-frequency  gain	B-subj	None
+hence, our observations are in accordance with the author‚Äôs recommended settings of ÔÑ = 1, ‚µ = 10 @@citation.	recommended  settings		B-subj	None
+the m2bt approach in @@citation follows a similar way and performs additional m2ss over motion vectors found by 2bt.	m2bt  approach	m2ss  over  motion  vectors	B-subj	None
+as seen in the results, our models outperform both the baseline and traditional convolutional layers for this task, as well as the challenge‚Äôs baseline @@citation.	challenge‚Äôs  baseline	traditional  convolutional  layers	B-subj	None
+(7) and learn the fuzzy measure g. the evolutionary algorithm used in this paper is similar to the method used in @@citation.	method	evolutionary  algorithm	B-subj	None
+exertion cards presented by mueller follow a similar approach to supporting the design process @@citation.	approach	approach  to  supporting  the  design  process	B-subj	None
+thus, more sophisticated methods, than the nn method, can be employed, including probabilistic methods @@citation, neural network-based methods [28] and others.	probabilistic  methods		B-subj	None
+we use color-based segmentation and line-fitting in our work, and a number of authors have investigated similar approaches (e.g., [6], [8], @@citation).	approaches	color-based  segmentation  and  line-fitting	B-subj	None
+our colorization approach outperforms @@citation and [6], whose examples contain only few colors and lack spatial coherency.	colorization  approach		B-subj	contrast
+comparable results with irony et al. on their own example@@citation.	results		B-subj	None
+(67) it can be readily verified that (67) and the problem in @@citation are identical.	problem		B-subj	None
+we use different sizes of extracted rc meshes from industrial applications and compare our hybrid algorithm with the method in @@citation and core [5].	method	sizes of  extracted  rc  meshes from  industrial  applications	B-subj	None
+runtime compared with core, and is 18.3x faster than @@citation for model reduction time and 61.2x faster for simulation time.	core		B-subj	None
+this query now returns results, matching the user‚Äôs original intention by correcting the error in q. the work in @@citation also considered applying ontology-based relaxation to the regular expressions ri.	ontology-based  relaxation	regular  expressions  ri	B-subj	None
+in work, we use common techniques reported in the literature, although there are other methods @@citation.	methods		B-subj	None
+6.6 comparison results with other methods we compare our reconstruction results with recent methods using flexible voxel @@citation and p2c2 [6].	flexible  voxel	reconstruction  results	B-subj	None
+this flm seems performing better with lower false alarm rate (7%) as compared to the glm based regression models (11.7%) developed by @@citation.	glm  based  regression  models		B-subj	None
+d. experimental setup the experimental setup is practically the same as in @@citation, [8].	experimental  setup		B-subj	None
+gpu representation our sparse voxel octree is a very compact pointer-based structure, similar to @@citation.	sparse  voxel  octree		B-subj	None
+remark: our conditional maximum likelihood estimators provide a source estimation that has an additional scaling factor as compared with the previous work of rumor centrality @@citation.	rumor  centrality	conditional  maximum  likelihood  estimators	B-subj	None
+the re module of the alignment system will incorporate a dependency feature-based relation classifier, similar to the one proposed in @@citation.	dependency  feature-based  relation  classifier	re  module  of  the  alignment  system	B-subj	None
+2.3.6 list of constructors the list of constructor view is similar to the underlying view of the replib haskell library @@citation.	replib  haskell  library	list  of  constructor  view	B-subj	None
+the disproportionate sensitivity of stimulus-relative to rule-switching is markedly consistent with a recent observation from an fmri study in which neurologically healthy participants were tested with the same task (@@citation).	disproportionate  sensitivity	fmri  study  in  which  neurologically  healthy  participants	B-subj	None
+‚Ä¢ our empirical study demonstrates that the incremental approach greatly outperforms k-dash @@citation, a batch algorithm that is reported as the best for rwr proximity computing, when networks are constantly updated.	k-dash	rwr  proximity  computing	B-subj	None
+"while our basic idea of twolevel selection might appear similar to the coarseto-fine inference architectures (@@citation; weiss and taskar, 2010), the details differ significantly."	coarseto-fine  inference  architectures		B-subj	None
+"the heap and objects results for the ported java benchmarks are similar to those reported by others using different vms [@@citation; blackburn et al. 2006]."	heap  and  objects  results	java  benchmarks	B-subj	None
+ranking by a pagerank-like algorithm the graph model shares a lot of similarities with the widely known and used pagerank algorithm @@citation.	pagerank  algorithm		B-subj	None
+2we follow the same objective as that in @@citation, where the so-called spacebandwidth product defined in [13] is adopted as the performance metric in the setting of multi-hop crns.	objective	the  performance  metric  in  the  setting  of  multi-hop  crns	B-subj	None
+in relation with the studied problem, we can not ignore the study of (@@citation) which investigated a weighted form of the secretary problem (a special case of the optimal stopping problem).	study	weighted  form  of  the  secretary  problem	B-subj	None
+this creates a situation similar to plurality-$bribery introduced by faliszewski et al. @@citation.	plurality-$bribery	similar  to  plurality-$bribery	B-subj	None
+our scheduling algorithm has lower latencies than the previous best approaches, round heuristic @@citation and tree based algorithm [23] especially for such widespread network model as gtitm transit‚Äìstub.	round  heuristic	for  such  widespread  network  model  as  gtitm  transit‚Äìstub.	B-subj	contrast
+the task has similarities to a study by @@citation.	study		B-subj	None
+in this experiment, showing the information behind the wall using only motion parallax is difficult, and this result is in line with a study from @@citation.	study		B-subj	None
+it is similar to the object used by @@citation.	object		B-subj	None
+frequency and orientation representations of gabor filter are similar to those of human visual system @@citation.	human  visual  system		B-subj	None
+experimental evaluations on a children speech dataset show that the best performing cnn model obtains a 95.5% tone classification accuracy, which is significantly higher when compared with previous models based on manually edited f0 @@citation.	models	based  on  manually  edited  f0	B-subj	None
+in order to comparatively evaluate the effectiveness of the features generated by our method and the features used in the previous methods by xu et al. @@citation, we experimented with the following models: 1.	methods	effectiveness of  the  features  generated features	B-subj	None
+our first results compare pipeline muffling, a priori current ramping, and the current ramping scheme in @@citation.	current  ramping  scheme	pipeline  muffling	B-subj	None
+4.2 comparing techniques in this section, we compare pipeline muffling, a priori current ramping, and the conventional ramping technique of @@citation for configurations which achieve the same reduction in inductive noise.	conventional  ramping  technique	for  configurations  which  achieve  the  same  reduction  in  inductive  noise	B-subj	None
+the performance of the irsfnn is compared with that of recurrent models, including an rsonfin @@citation, a trfn [7], a wrfnn [11], and an rsefnn-lf [14].	rsonfin		B-subj	None
+1e-mail: kaba@dis.titech.ac.jp 2a similar but different approach to an improved algorithm can be found in @@citation.	algorithm		B-subj	contrast
+it successfully coordinates multiple radios in utilizing the same channel pool and providing improved per-radio throughput by leveraging the multiradio diversity compared with previous research work such as oar@@citation and moar[3].	oar	it  successfully  coordinates  multiple  radios  in  utilizing  the  same  channel  pool  and  providing  improved  per-radio  throughput	B-subj	None
+in this section, we compare our results to the numerical observations of luse and zangwill @@citation.	numerical  observations		B-subj	None
+our framework is expressive enough to express the important ideas of previous timed automata frameworks, including @@citation.	timed  automata  frameworks		B-subj	None
+the definition above differs from previous definitions of timed automata @@citation in two major respects.	timed  automata		B-subj	contrast
+the difference between ead and anisotropic diffusion as defined by weickert @@citation is that ead models a non-symmetric tensor in addition to the standard diffusion tensor.	anisotropic  diffusion		B-subj	None
+the form of our signature is similar to bls signature @@citation, which is a short signature in the random oracle model.	bls  signature	which  is  a short  signature  in  the  random  oracle  model	B-subj	None
+to record the entire policy of decisions we would need to store a shorthand form of the entire search tree (including nested search trees) analogous to the approach used in qcop+ @@citation.	qcop+		B-subj	None
+we compare against qecode 2.0 @@citation, which is a state of the art qcop+ solver, on the problems that it supports.	qecode  2.0	on  the  problems  that  it  supports	B-subj	None
+although, the usual multi-index notation used in @@citation, [25], [26] is more elegant, it is difficult to manipulate non unity covariances Ó£ 6= i with it.	multi-index  notation	it  is  difficult  to  manipulate  non  unity  covariances  Ó£  6=  i  with  it	B-subj	None
+also comparing with randomized algorithm described in @@citation our protocol is simpler and has comparable energy complexity, without randomization.	randomized  algorithm	our  protocol  is  simpler  and  has  comparable  energy  complexity,  without  randomization	B-subj	None
+with a similar idea, damiani et al. @@citation introduced the concept of stops and moves, in order to enrich trajectories with semantically annotated data.	concept  of  stops  and  moves	in  order  to  enrich  trajectories  with  semantically  annotated  data	B-subj	None
+bgp networks have also experienced instabilities similar to this propagation mechanism @@citation.	propagation  mechanism		B-subj	None
+all descriptions use a format and level of detail similar to the one used by fowler et al. @@citation (kerievsky took the same approach in [21]).	detail		B-subj	None
+IPSM @@CITATION is similar to our work in that the ATIM window ends when the channel is idle for a specified amount of time.	IPSM		A-subj	None
+Rao et al. @@CITATION compare various IR techniques on bug localization, and report that traditional IR techniques such as VSM and Unigram Model (UM) outperform the more sophisticated LSI and LDA techniques.	IR techniques	on bug localization	B-subj	None
+The corpus given for 2008 differs slightly on the one of the previous year @@CITATION.	corpus		A-subj	None
