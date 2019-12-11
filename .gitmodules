@@ -1,0 +1,3 @@
+[submodule "citexp"]
+	path = citexp
+	url = https://github.com/rogerferrod/citexp
