@@ -17,11 +17,11 @@ To the semantic model we add the concepts of <i>Object</i> and <i>Context</i>, r
 
 The dataset consists of 5 files, corresponding to the five classes of citations, in csv format with values separated by tabs. The first line represents the header.
 ```
-text:         (Peter et al 2019) uses the pm10-2019 dataset for analyze air pollution.
+text:       (Peter et al 2019) uses the pm10-2019 dataset for analyze air pollution.
 object:     pm10-2018
-context:   for analyze air pollution
-role:         B-subj
-flags:       Data
+context:    for analyze air pollution
+role:       B-subj
+flags:      Data
 ```
 
 
