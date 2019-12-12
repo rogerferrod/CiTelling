@@ -1,6 +1,6 @@
 # CiTelling
 
-<b>Structured Semantic Modeling ofCitation Intents</b><br>
+<b>Structured Semantic Modeling of Citation Intents</b><br>
 CiTelling is a radically new model offine-grained semantic structures lying behind citational sentences.
 We provide a dataset of citation intents with 400 instances to be employed within Machine Learning scenarios.
 
