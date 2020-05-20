@@ -27,9 +27,9 @@ flags:      Data
 
 ## Authors
 
-* **Roger Ferrod** - [roger.ferrod@edu.unito.it](mailto:roger.ferrod@edu.unito.it)
-* **Luigi Di Caro** - [dicaro.di.unito.it](mailto:dicaro.di.unito.it)
-* **Claudio Schifanella** - [schi.di.unito.it](mailto:schi.di.unito.it)
+* **Roger Ferrod** - [roger.ferrod@unito.it](mailto:roger.ferrod@unito.it)
+* **Luigi Di Caro** - [luigi.dicaro@unito.it](mailto:luigi.dicaro@unito.it)
+* **Claudio Schifanella** - [claudio.schifanella@unito.it](mailto:claudio.schifanella@unito.it)
 
 ## License
 
