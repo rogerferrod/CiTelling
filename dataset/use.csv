@@ -1,81 +1,277 @@
-text	object	context	role	data
-the brasov pollution dataset @@citation consists of the pollution measurements (e.g., air quality index) in brasov, romania from august 2014 to october 2014.	brasov  pollution  dataset		B-subj	data
-using lemma 2.2 in @@citation, we can conclude that the following holds in our situation.	lemma  2.2		B-subj	None
-the shading model developed by phong @@citation is utilised.	shading  model		B-subj	None
-a. histogram test methodology the conventional histogram method @@citation, [4] is used to measure the dnl and inl specifications of an a/d converter.	conventional  histogram  method	to  measure  the  dnl  and  inl  specifications  of  an  a/d  converter	B-subj	None
-in [20,21], incremental sat @@citation is used to speed up test generation for pdfs.	incremental  sat	to  speed  up  test  generation  for  pdfs	B-subj	None
-as sat solver, minisat v1.14 @@citation is used.	minisat		B-subj	None
-(1) reweighting the random walk to converge to brownian motion: we define weights using the estimators p and � for p(x) and �(x) from @@citation.	estimators		B-subj	None
-v. proof of lemma 1 first, we recall a well-known result (see, e.g., @@citation) that will be useful to prove lemma 1.	result		B-subj	data
-like [9] we use layer normalization @@citation in the discriminator.	layer  normalization		B-subj	None
-magnifying lens and fish-eye – the magnifying lens @@citation and geometrical fish-eye [7] were also added to the system as basic interactors.	magnifying  lens		B-subj	None
-knowing , in the second stage of our solution, we estimate 4 and the coordinates using the procedure of smith and abel @@citation.	procedure  of  smith  and  abel		B-subj	None
-data requiring low signal latency will be sent between the vehicles in the dedicated frequency band, 5.9 ghz, using the wireless communication standard ieee 802.11p @@citation.	ieee  802.11p	wireless  communication  standard	B-subj	None
-updating the regularization parameter when the multi-output model refinement procedure is completed, the regularization parameters can be optimized by the bayesian evidence procedure @@citation, [20].	bayesian  evidence  procedure	when  the  multi-output  model  refinement  procedure  is  completed,  the  regularization  parameters  can  be  optimized  by	B-subj	None
-akaike’s information criterion (aic) @@citation was used as the termination criteria for the mfra and mols again.	akaike’s  information  criterion	termination  criteria  for  the  mfra  and  mols	B-subj	None
-3.1 the notation used in properties the notation used to denote individual properties is essentially that developed by mahony and hayes [5] and used in @@citation.	notation	used  to  denote  individual  properties	B-subj	None
-luminance subtraction stage we used the laplacian pyramid @@citation to implement luminance subtraction.	laplacian  pyramid	to  implement  luminance  subtraction	B-subj	None
-we will work specifically with linear logic @@citation.	linear  logic		B-subj	None
-since xml11 is an xml-based protocol, we have decided to use soap messages (see @@citation) for remote method invocations.	soap  messages	for  remote  method  invocations	B-subj	None
-"6 initial estimates to find the solution of any of the above nonlinear least-squares problems, an iterative technique is used; in practice we use the levenberg-marquardt method (see @@citation)."	levenberg-marquardt  method	nonlinear  least-squares  problems	B-subj	None
-our move selection scheme is from @@citation, which modulates which moves are chosen to best advance the solution at each temperature.	move  selection  scheme		B-subj	None
-post-layout interconnect delays were determined using the rice @@citation awe-based delay evaluation tool.	rice	post-layout  interconnect  delays  were  determined  using	B-subj	None
-genetically anchored physical map and transcript map data the genetically anchored physical map for peach is under development using peach bac libraries @@citation.	peach  bac  libraries		B-subj	None
-it is being constructed using an approach that employs a combination of hybridization of mapped markers and bac fingerprinting @@citation.	bac  fingerprinting		B-subj	None
-the scr library @@citation uses this approach.	approach	scr  library	B-subj	None
-cacheaudit performs a reachability analysis using abstract interpretation @@citation.	abstract  interpretation	reachability  analysis	B-subj	None
-this cache configuration is, e.g., used in the first level cache of the intel skylake architecture @@citation.	cache  configuration	in  the  first  level  cache  of  the  intel  skylake  architecture	B-subj	None
-choose the next pixel xk (using alternating raster scans @@citation) and go back to 2.	alternating  raster  scans		B-subj	None
-we used cplex 12.6 @@citation to solve the ilps.	cplex	to  solve  the  ilp	B-subj	None
-then chen et al. @@citation incorporated the sample-path-based method with novel clustering and localization techniques to detect multiple sources in networks.	sample-path-based  method	with  novel  clustering  and  localization  techniques  to  detect  multiple  sources  in  networks	B-subj	None
-the adult/adolescent sensory profile (aasp) questionnaire @@citation was used to determine the sensory profile of each participant.	adult/adolescent  sensory  profile  (aasp) questionnaire	to  determine  the  sensory  profile  of  each  participant	B-subj	data
-for m3ns, we use structured sequential minimal optimization (@@citation) for model training.	structured  sequential  minimal  optimization	for  model  training	B-subj	None
-the distance values are used to select the appropriate child node (lod model) to use depending upon the object's distance from the viewpoint (@@citation).	distance  values	to  select  the  appropriate  child  node  (lod  model)  to  use  depending  upon  the  object's  distance  from  the  viewpoint	B-subj	None
-we can further use dirichlet distribution to model workers reliability as in @@citation.	dirichlet  distribution	to  model  workers  reliability	B-subj	None
-"figures were generated with the mricro software package (@@citation; www.sph.sc.edu/comd/rorden/mricro.html) using procedures described in brett, leff, rorden, and ashburner (2001)."	mricro  software		B-subj	data
-those values are obtained by synthesizing verilog hdl descriptions using xilinx ise servicepack [7] and vertex-ii pro @@citation.	vertex-ii  pro	by  synthesizing  verilog  hdl  descriptions	B-subj	None
-subtraction profiling was performed as described previously [44,45] using the cds test @@citation.	cds  test	subtraction  profiling	B-subj	None
-suitability of the individual nodes of the models was assessed by automatic relevance detection @@citation.	automatic  relevance  detection	suitability  of  the  individual  nodes  of  the  model	B-subj	None
-: we used three different data sets: reuters [26], spambase, and the malicious urls @@citation data sets, which were obtained from the uci database repository [27].	malicious  urls	obtained  from  the  uci  database  repository	B-subj	data
-a. the adaline perceptron we consider here the adaline perceptron @@citation that arguably has one of the simplest update rules due to its linear activation function.	adaline  perceptron		B-subj	None
-we used histograms of oriented gradient (hog) feature descriptors @@citation and a linear svm classifier [27].	histograms  of  oriented  gradient (hog)		B-subj	None
-the male and female speech signals are taken from dev2 dataset of the sisec'08 “underdetermined speech and music mixtures” task @@citation.	dev2  dataset	male  and  female  speech  signals	B-subj	data
-2.1 corporate strategy for the corporate strategy category we rely on the well-known framework of the balanced scorecard @@citation.	balanced  scorecard		B-subj	None
-(1) for the precomputing (lines 1–5), a heuristic algorithm in @@citation is leveraged for finding bicliques in g, which requires o(|e |log(|v|+ |w|)) time.	heuristic  algorithm	leveraged  for  finding  bicliques  in  g	B-subj	None
-fogaras et al. @@citation adopted a scalable monte carlo sampling approach to estimate simrank by using the first meeting time of two random surfers.	monte  carlo  sampling  approach	to  estimate  simrank  by  using  the  first  meeting  time  of  two  random  surfers	B-subj	None
-we produce the sequence of graphs following the linkage generation model @@citation.	linkage  generation  model	sequence  of  graphs	B-subj	None
-later, lizorkin et al. @@citation utilized the partial sums memoization to chapter 3.	partial  sums  memoization		B-subj	None
-we can use different partitioning policies in hovercut, e.g., greedy @@citation or hdrf [12].	greedy	different  partitioning  policies  in  hovercut	B-subj	None
-a. partitioning policy we can use any vertex-cut partitioning heuristics in hovercut, e.g., dbh [13], powergraph greedy @@citation, or hdrf [12].	powergraph  greedy	vertex-cut  partitioning  heuristics  in  hovercut	B-subj	None
-ja-be-ja @@citation, [29] is a fully distributed algorithm that uses local search and simulated annealing techniques [30] for graph partitioning.	local  search  and  simulated  annealing  techniques	for  graph  partitioning	B-subj	None
-for learning rate optimization we use adam optimizer (@@citation) with initial learning rate 0.001.	adam  optimizer	for  learning  rate  optimization	B-subj	None
-to combine the two models, we merged viterbi search @@citation in both the hmm and the crf using a weighted combination.	viterbi  search	both  the  hmm  and  the  crf  using  a  weighted  combination	B-subj	None
-in tensorflow, the nvidia cudnn-optimized lstm was used (@@citation).	nvidia  cudnn-optimized  lstm		B-subj	None
-we answer this question using the notion of asymptotically level stable functions introduced by auslender @@citation in 2000.	asymptotically  level  stable  functions		B-subj	None
-the stereo acuity of the current system was determined using howarddolman test (@@citation).	howarddolman  test	the  stereo  acuity  of  the  current  system	B-subj	None
-we have developed a number of communication strategies that use the high-level view of node and network activity to guide a node in making these decisions @@citation.	high-level  view  of  node  and  network  activity	to  guide  a  node  in  making  these  decisions	B-subj	None
-three discriminative methods, cascaded adaboost with haar features [24], svm with hog features @@citation, and pbt with filter bank [22] are performed for comparison.	svm	with  hog  features	B-subj	None
-the experiment data come from two public datasets: lhi database @@citation and pascal voc 2008.	lhi  database		B-subj	data
-we use the casia infrared night gait dataset @@citation to facilitate this research.	casia  infrared  night  gait  dataset		B-subj	data
-the model is optimized for its hyper-parameters by a randomized grid search method @@citation.	randomized  grid  search  method		B-subj	None
-the feature we use to represent the image content is the phog (pyramid histogram of oriented gradients) feature @@citation.	phog  (pyramid  histogram  of  oriented  gradients)  feature		B-subj	None
-pretraining sound features after the waveforms are preprocessed into mfcc vectors, we use denoising autoencoders @@citation to learn k features kernels.	denoising  autoencoders	to  learn  k  features  kernels	B-subj	None
-the shanghai region data from the regional accented speech corpus (rasc863) @@citation is used in the evaluation.	regional  accented  speech  corpus  (rasc863)		B-subj	data
-ryant et al. @@citation use a dnn for frame-level 5-tone classification and a single-layer neural network at segment (syllable) level.	dnn	for  frame-level  5-tone  classification	B-subj	None
-the other approach of recurrent fnns @@citation–[14] uses feedback loops from internal state variables as its recurrence structure.	feedback  loops	approach  of  recurrent  fnns	B-subj	None
-determinize the given specification s by the use of subset construction @@citation and denote sdet = (sdet, {s0}, i, o, dets h ) the obtained deterministic ioa.	subset  construction		B-subj	None
-x is substituted using a quadrature formula (for details see @@citation).	quadrature  formula		B-subj	None
-here we use an approach from xie @@citation to achieve this goal.	approach		B-subj	None
-we therefore used a non-parametric wilcoxon rank sum test @@citation to analyze these data.	non-parametric  wilcoxon  rank  sum  test	to  analyze  these  data	B-subj	None
-in figure 4 we show several panels representing the 3d opengl (@@citation) interface used to visualize the estimated fiber pattern in the context of the brain anatomy.	3d  opengl	interface  used  to  visualize  the  estimated  fiber  pattern  in  the  context  of  the  brain  anatomy	B-subj	None
-for directional clustering estimation, we consider a mixture of k von mises-fisher (vmf) distributions (@@citation) that serves as a model for directional odf profile data, corresponding to multiple fiber orientations.	k  von  mises-fisher  (vmf)  distributions	for  directional  clustering  estimation	B-subj	None
-Here, CNNs have been used to detect bone @@CITATION.	CNNs	to detect bone	A-subj	None
-Kohonen NN was also used for image segmentation in @@CITATION.	Kohonen NN	for image segmentation	B-subj	None
-Otsu’s method has been used as a third approach, which chooses the threshold that minimizes the intraclass variance of the black and white voxels in the volume @@CITATION.	Otsu’s method	which chooses the threshold that minimizes the intraclass variance of the black and white voxels in the volume	A-subj	None
-Two datasets were used in the computation of the dictionary for template generation: FaceScrub [19] and BioID @@CITATION.	BioID	in the computation of the dictionary for template generation	A-subj	data
-For faces, we use face data sets from @@CITATION and randomly extract 5000 negative patches from background images.	face data sets	For faces	A-subj	data
-We use CENTRIST as our feature descriptors and build 50 visual code words using the histogram intersection kernel @@CITATION.	CENTRIST	as our feature descriptors	A-subj	None
-NOISE METRIC In this paper, we use the noise immunity curves, NIC, @@CITATION to measure the noise-tolerance of XOR-XNOR circuits.	noise immunity curves, NIC	to measure the noise-tolerance of XOR-XNOR circuits	A-subj	None
-Most of parameters are adopted from @@CITATION.	parameters		A-subj	data
-We use Lyapunov theorem @@CITATION to show the convergence of motion to the state x = [di(t) θi(t) φi(t)] T .	Lyapunov theorem	to show the convergence of motion	A-subj	None
-In Place Engine @@CITATION, signal strength from multiple Wi-Fi access points at each location (i.e., fingerprints) is used for localization of mobile terminals.	signal strength from multiple Wi-Fi access points	used for localization of mobile terminals	B-subj	None
+text	object	context	role	section	flag
+3.3 The simulation model We developed a simulator in Java using the DESMO-J simulation framework @@CITATION.	DESMO-J  simulation  framework 		A-subj	evaluation	0
+The modelling language GAMS 2.0 with the solver CPLEX 7.0 (@@CITATION) was used to solve the mathematical models.	modelling  language  GAMS  2.0 		A-subj	method	0
+Results: We first filtered out outliers using the strategy described in @@CITATION.	strategy 		A-subj	evaluation	0
+For example, a SIR model was used to simulate the transmission of H1N1 virus [5], Dengue virus @@CITATION and Cholera [3].	SIR  model 	simulate  the  transmission  of  H1N1  virus 	B-subj	keywords	0
+For example, a SIR model was used to simulate the transmission of H1N1 virus [5], Dengue virus [2] and Cholera @@CITATION.	SIR  model 	simulate  the  transmission  of  H1N1  virus 	B-subj	keywords	0
+For the stochastic implementation the system of equations was transformed into a set of equivalents stochastic processes that were implemented using the Gillespie’s Algorithm @@CITATION.	Gillespie’s  Algorithm 		B-subj	method	0
+For example, a SIR model was used to simulate the transmission of H1N1 virus @@CITATION, Dengue virus [2] and Cholera [3].	SIR  model 		B-subj	keywords	0
+3.1 Modelling the Spread of Leprosy For simulating the spread dynamics of leprosy, it was used the SIR mathematical model @@CITATION.	SIR  mathematical  model 		A-subj	method	0
+A pre-defined structure of twelve compartments was used in other work @@CITATION to represent health conditions with respect to leprosy, and flows from these compartments are calculated according to Markov transition rates.	other  work 	to  represent  health  conditions  with  respect  to  leprosy,  and  flows  from  these  compartments  are  calculated  according  to  Markov  transition  rates	B-subj	introduction	0
+This model has been implemented and tested with the MRE Project @@CITATION.	MRE  Project 		A-subj	introduction	0
+We consider the computational model @@CITATION to compute the visual salience of each object that is measured by observing individual visual attributes (e.g., size, shape, and color).	computational  model 	to  compute  the  visual  salience  of  each  object  that  is  measured  by  observing  individual  visual  attributes 	A-subj	introduction	0
+We compute the SNR exponent @@CITATION for the buffered transmission.	SNR  exponent 	for  the  buffered  transmission	A-subj	method	0
+We defined the figure of merit of distortion exponent @@CITATION with bandwidth ratio η: α(η) = − lim ρ→inf logD(ρ, η) log ρ .	distortion  exponent 	with  bandwidth  ratio  η:  α(η)  =  −  lim  ρ→inf  logD(ρ,  η)  log  ρ 	A-subj	method	0
+Let the score function () be the tree level ranking function used in SPARK @@CITATION, and the aggregate function be   sum.	ranking  function 		B-subj	method	0
+The tree level ranking function used in SPARK @@CITATION is such an algebraic function based on tfwðT Þ and idfw.	ranking  function 		B-subj	method	0
+3) We apply fluvial erosion and a landsliding algorithm @@CITATION to shape the terrain during mountain growth due to uplift (Section 6).	fluvial  erosion  and  a  landsliding  algorithm 	to  shape  the  terrain  during  mountain  growth  due  to  uplift 	A-subj	method	0
+To simulate the 2D compression, we adapt an existing model of viscous virtual plasticine @@CITATION.	model  of  viscous  virtual  plasticine 		A-subj	method	0
+Folds are generated using sinusoidal interpolation @@CITATION between skeletal curves computed among the edges of a random 2D grid, and then used to compute ui, as described below.	sinusoidal  interpolation 	between  skeletal  curves  computed  among  the  edges  of  a  random  2D  grid,  and  then  used  to  compute  ui,  as  described  below	A-subj	method	0
+Section 4 provides a rigorous mathematical justification of the homogenization process by using the method of two-scale convergence @@CITATION .	method  of  two-scale  convergence 		A-subj	method	0
+Here , we prove a convergence result using the two-scale convergence method @@CITATION .	two-scale  convergence  method 		A-subj	method	0
+To establish our strong convergence result we rely on the usual energy convergence trick (as described in @@CITATION in the context of two-scale convergence) which is inspired from the notion of Γ-convergence [17].	energy  convergence  trick 	in  the  context  of  two-scale  convergence	A-subj	method	0
+Here , we prove a convergence result using the two-scale convergence method @@CITATION .	two-scale  convergence  method 		A-subj	method	0
+Moreover, the application is developed with AIBench, an open-source Java desktop application framework @@CITATION, to ensure a flexible, cross-platform and interoperable development suitable to sustain future interactions with other Biofilms-related tools.	AIBench	to  ensure  a  flexible,  cross-platform  and  interoperable  development  suitable  to  sustain  future  interactions  with  other  Biofilms-related  tools	A-subj	method	0
+The application was developed with AIBen application framework for scientific software developm ional biomedicine @@CITATION.	AIBen  application  framework 		A-subj	method	0
+First, using the technique of Rasiowa-Sikorski from @@CITATION, we design a sound and complete system R-S.	technique 		A-subj	abstract	0
+We used Gradient Information (GI) @@CITATION as a similarity metric and the CMA-ES algorithm [5] as an optimizer.	Gradient  Information 	as  a  similarity  metric 	A-subj	method	0
+We used Gradient Information (GI) [4] as a similarity metric and the CMA-ES algorithm @@CITATION as an optimizer.	CMA-ES  algorithm 	as  an  optimizer	A-subj	method	0
+Performance Evaluation Performance of the proposed method was evaluated with a clinical CT dataset from The Cancer Imaging Archive (TCIA) provided by National Cancer Institute (NCI) @@CITATION.	clinical  CT  dataset 		A-subj	method	1
+We represent a DRSpace using Design Structure Matrix (DSM) @@CITATION, a square matrix whose rows and columns are labeled with the files of the DRSpace in the same order.	Design  Structure  Matrix  (DSM) 	a  square  matrix  whose  rows  and  columns  are  labeled  with  the  files  of  the  DRSpace  in  the  same  order	A-subj	abstract	0
+A Contextual Framework for a Shared Context For modeling and representing contextual linking, we follow the operational definition of @@CITATION for determining the design space of context models.	operational  definition 	for  determining  the  design  space  of  context  models	A-subj	keywords	0
+EEG Analysis Preprocessing Data analysis was performed using EEGLAB v9.0.4.4b (@@CITATION), a free open source toolbox running under Matlab version 7.11.0 (R2010b) in combination with custom scripts.	EEGLAB 		A-subj	method	0
+Independent components representing eye blinks, horizontal eye movements, and electrocardiographic artifacts were then semiautomatically identified using CORRMAP (@@CITATION) and removed from all data sets.	CORRMAP 		A-subj	method	0
+Data were filtered off-line with a 100-Hz low-pass filter using sinc FIR filters windowed with a Hann window function (@@CITATION), downsampled to 500 Hz, and saved for later use.	Hann  window  function 		A-subj	method	0
+In particular, an aspect of transposable elements within a genetic regulatory network (GRN) was explored using an extension of a well-known, simple GRN formalism – random Boolean networks (RBN) [@@CITATION].	random  Boolean  networks  (RBN) 		A-subj	keywords	0
+Adaptive A* Adaptive A* (AA*) (@@CITATION) is a replanning algorithm that uses A* to compute a complete solution each time one is needed.	A* 		B-subj	abstract	0
+We use a tree of Parzen estimators search algorithm (@@CITATION) to sample from parameter space2 and save all models estimated.	Parzen  estimators  search  algorithm 	to  sample  from  parameter  space2  and  save  all  models  estimated.	A-subj	introduction	0
+We take Piao’s GKMS @@CITATION as our example.	Piao’s  GKMS 		B-subj	abstract	0
+We take Purushothama’s schemes @@CITATION, both GKMS and HACS, to show the problem.	Purushothama’s  schemes 		B-subj	abstract	0
+All attacks were conducted using the Checkmark framework @@CITATION with the specific parameters and the results are presented in Table 1.	Checkmark  framework 	with  the  specific  parameters  and  the  results 	A-subj	method	0
+4 Experimental Results In this section, we use the Extended Yale B @@CITATION and AR [17] databases to evaluate the proposed method and compare it with some popular methods dealing with SSPP problem.	Extended  Yale  B 	to  evaluate  the  proposed  method  and  compare  it  with  some  popular  methods  dealing  with  SSPP  problem	A-subj	method	0
+4 Experimental Results In this section, we use the Extended Yale B [16] and AR @@CITATION databases to evaluate the proposed method and compare it with some popular methods dealing with SSPP problem.	AR 	to  evaluate  the  proposed  method  and  compare  it  with  some  popular  methods  dealing  with  SSPP  problem	A-subj	method	0
+The ultrasound back scattering strategy @@CITATION was also exploited for blood typing to monitor the agglutination reaction.	ultrasound  back  scattering  strategy 	to  monitor  the  agglutination  reaction	A-subj	abstract	0
+We trained our model using a Random Forest algorithm with default parameters in the Weka @@CITATION platform.	Random  Forest  algorithm 		A-subj	evaluation	0
+Next, we estimate approximate bounds for the initial angular momentum, following a technique proposed in @@CITATION.	technique 		B-subj	unknown	0
+The analysis, patterned on @@CITATION, makes use of an explicit modeling of the dissipative nature of the interaction forces applied to the system by the external world.	explicit  modeling 		B-subj	method	0
+This inversion can be achieved using a Jacobian algorithm @@CITATION.	Jacobian  algorithm 		A-subj	method	0
+In this paper we consider uniform priors and unigram Language Models with Dirichlet smoothing @@CITATION, see Eq. 2.	Language  Models  with  Dirichlet  smoothing 		A-subj	keywords	0
+Instead, a Ravenscar Profile has been used @@CITATION.	Ravenscar  Profile 		A-subj	method	0
+The order of partition activation is static and fully defined at configuration time using configuration tables @@CITATION.	configuration  tables 		B-subj	method	0
+We decided to use human data for modeling our HR [13][9]@@CITATION.	human  data 		A-subj	method	1
+In our example of Figure 10 the Boolean expression consists only of the variable E. For edge recognition a function block called R_TRIG is provided in @@CITATION.	R_TRIG 	a  function  block 	A-subj	unknown	0
+For every integer j, we call the horizontal line through (0, j) the stabbing line of index j. We apply the shifting technique @@CITATION.	 shifting  technique 		A-subj	method	0
+I-DATA solves the sender side head-of-line-blocking issue by supporting message interleaving [11] and is also used in the WebRTC protocol for the same purpose @@CITATION.	I-DATA 		A-subj	method	0
+If multiple address-protocol candidates are available, NEAT probes all available candidates by using the Happy-Eyeballs algorithm @@CITATION.	Happy-Eyeballs  algorithm 		A-subj	method	0
+As shown in Figure 6, the NEAT Client and the NEAT Server are connected via the router which emulates various network conditions between the two peers by using FreeBSD’s builtin dummynet @@CITATION network emulation tool.	FreeBSD’s  builtin  dummynet 		A-subj	method	0
+All the aforementioned linear and nonlinear DR algorithms can be unified to a graph embedding framework @@CITATION or a patch alignment framework [16].	graph  embedding  framework 		A-subj	abstract	0
+All the aforementioned linear and nonlinear DR algorithms can be unified to a graph embedding framework [15] or a patch alignment framework @@CITATION.	patch  alignment  framework 		A-subj	abstract	0
+In EMR-SLRA, we employ the ensemble manifold regularization @@CITATION to regularize our matrix approximation to fit the intrinsic and nonlinear structure of multiview data.	 ensemble  manifold  regularization 	to  regularize  our  matrix  approximation  to  fit  the  intrinsic  and  nonlinear  structure  of  multiview  data	A-subj	keywords	0
+Instead, we use a Huffman code @@CITATION that maps each binary byte to either 5 or 6 ternary digits.	Huffman  code 		A-subj	method	0
+These sequences were generated using Nupack @@CITATION, software for thermodynamic analysis of interacting nucleic acid strands, in order to avoid the formation of secondary structure that could interfere with the PCR reaction.	Nupack 	software  for  thermodynamic  analysis  of  interacting  nucleic  acid  strands	A-subj	acknowledgments	0
+The algorithm is an Upper Confidence Bound (UCB) procedure (@@CITATION) based on a finite sample version of the LIL.	Upper  Confidence  Bound  (UCB) procedure 		A-subj	introduction	0
+Both PRISM and exponential-gap elimination employ median elimination (@@CITATION) as a subroutine.	median  elimination 		A-subj	introduction	0
+.@@CITATION has been used to create the surfaces, the distance between the corresponding points on the two surfaces can be used.	@@CITATION 	to  create  the  surfaces	A-subj	keywords	0
+Sinha and Pollefeys @@CITATION used silhouettes to calibrate a network of cameras, assuming a single moving silhouette in a video.	silhouettes 	to  calibrate  a  network  of  cameras	B-subj	keywords	0
+As a real dataset we used PETS2009 [13], using @@CITATION for background subtraction.	@@CITATION 	for  background  subtraction	A-subj	method	0
+The accuracy was measured using Symmetric Epipolar Distance @@CITATION.	Symmetric  Epipolar  Distance 		A-subj	conclusions	0
+We created two synthetic datasets: cubes and thin cubes, using the Model Renderer that was developed by Assif and Hassner and was used in @@CITATION.	Model  Renderer 		B-subj	method	0
+As a real dataset we used PETS2009 @@CITATION, using [10] for background subtraction.	PETS2009 		A-subj	method	1
+The proposed technique first locates the head-shoulder region and then locally processes block in the head region and encode active blocks containing edges with the Block Truncation Coding (BTC) @@CITATION technique.	Block  Truncation  Coding  (BTC) 		A-subj	keywords	0
+Computations in quadratic extensions as above were used in the algorithm of @@CITATION that computes the cardinality of the Jacobian of a curve of genus 2, following Schoof’s elliptic curve point counting algorithm [45].	Computations  in  quadratic  extensions 	that  computes  the  cardinality  of  the  Jacobian  of  a  curve  of  genus  2	B-subj	method	0
+As a reference we also tested the external memory tool eGSA @@CITATION that computes the Suffix and LCP arrays for a collection of sequences.	eGSA 	external  memory  tool 	A-subj	method	0
+Instead of using the weighted average, Coorg and Teller @@CITATION use a color computation scheme based on weighted median to cope with color outliers in the observations.	color  computation  scheme 	based  on  weighted  median  to  cope  with  color  outliers  in  the  observations	B-subj	related work	0
+In practice, we mostly use Least Squares Conformal Maps by Levy et al. @@CITATION, or a simple arrangement of the mesh triangles on the texture within a rectangular grid.	Least  Squares  Conformal  Maps 		A-subj	method	0
+We then introduce our 3D reconstruction system based on DVO-SLAM by Kerl et al. [9] and the data fusion into a TSDF volume as used by Newcombe et al. @@CITATION.	TSDF  volume 		B-subj	method	0
+In Appendix A.10 we then follow the approach of @@CITATION to prove the following.	approach 	to  prove  the  following	A-subj	unknown	0
+One possible solution is to use the Gaussian Process Upper-Confidence Bound (GP-UCB) (@@CITATION) with extensions to time-varying functions (Bogunovic, Scarlett, and Cevher 2016).	Gaussian  Process  Upper-Confidence  Bound  (GP-UCB) 		A-subj	abstract	0
+A constraint language, such as OCL, can be used to express these dependencies @@CITATION.	constraint  language	used  to  express  these  dependencies 	A-subj	method	0
+For that we use Eclipse Modeling Framework (EMF) version 2.2.0 @@CITATION and SmartQVT version 0.1.3 [14].	Eclipse  Modeling  Framework  (EMF) 		A-subj	method	0
+For that we use Eclipse Modeling Framework (EMF) version 2.2.0 [13] and SmartQVT version 0.1.3 @@CITATION.	SmartQVT 		A-subj	method	0
+As in Smith et al. (2013), we applied Latent Dirichlet Allocation (@@CITATION) to explore the topics of the crawled dataset.	Latent  Dirichlet  Allocation 	to  explore  the  topics  of  the  crawled  dataset	A-subj	method	0
+We then used the language dependent sentence splitters included in the Morphadorner NLP suite (@@CITATION) to split paragraphs in the XML files into sentences.	Morphadorner  NLP  suite 	to  split  paragraphs  in  the  XML  files  into  sentences	A-subj	method	0
+In Table 1 we select 10 of the 20 topics generated from the 61.5K documents of the English corpus using the Mallet toolkit (@@CITATION).	Mallet  toolkit 		A-subj	method	0
+To simulate the Gibbs process, we use the iterative algorithm of depletion–replacement @@CITATION.	algorithm  of  depletion–replacement 		A-subj	method	0
+We resolve the redundant DOF using null-space optimization @@CITATION.	null-space  optimization 		A-subj	method	0
+Here, we follow the notion of the Emotion Disc developed by Ruttkay et al. @@CITATION.	Emotion  Disc 		A-subj	method	0
+We use the rounding algorithm of @@CITATION, designed for the case in which d is a uniform metric.	 rounding  algorithm 		A-subj	conclusions	0
+The higher-order naturality property arising from this observation was used in @@CITATION to transform an O(n logn)-time algorithm for computing bit-reversal permutations to O(n)-time.	higher-order  naturality  property 	to  transform  an  O(n  logn)-time  algorithm  for  computing  bit-reversal  permutations  to  O(n)-time	B-subj	acknowledgments	0
+We chose the Felzenswalb and Huttenlocher graph-based segmentation @@CITATION, which produces good results to capture areas of similar color and texture.	 graph-based  segmentation 		A-subj	introduction	0
+The SIFT algorithm @@CITATION is a relevant choice to meet these requirements.	SIFT  algorithm 		A-subj	introduction	0
+A simple and efficient solution is the Histogram Intersection similarity measure @@CITATION.	Histogram  Intersection  similarity  measure 		A-subj	method	0
+We can also use Dynamic Time Warping (DTW) [16] or Chamfer Distance @@CITATION.	Chamfer  Distance 		A-subj	introduction	0
+The histogram as shown in Figure 2 @@CITATION is an example of global signature and techniques used in this paper are also global.	global  signature 		A-subj	keywords	0
+We can also use Dynamic Time Warping (DTW) @@CITATION or Chamfer Distance [2].	Dynamic  Time  Warping  (DTW) 		A-subj	introduction	0
+Signatures are then used to compare images @@CITATION.	Signatures 		A-subj	keywords	0
+Using a subset of MARTE Profile, GASPARD2 follows the Model Driven Architecture (MDA) @@CITATION principles to describe systems at different level of abstractions.	Model  Driven  Architecture  (MDA) 		A-subj	method	0
+Accordingly , we combined the clustering with the widely used Vector Space Model ( VSM ) @@CITATION .	Vector  Space  Model  (  VSM  ) 		A-subj	abstract	0
+For the evaluation of the proposed clustering approach, we utilize the Vector Space Model (VSM) with the tf-idf weighting scheme @@CITATION, where tf is the term frequency and idf is the inverse document frequency.	 tf-idf  weighting  scheme 		A-subj	abstract	0
+To identify artifacts that belong to the same feature we apply a spectral partitioning method @@CITATION, which groups the artifact graph of each abstraction level into clusters.	spectral  partitioning  method 	To  identify  artifacts  that  belong  to  the  same  feature 	A-subj	abstract	0
+We included the GenBank files from the genome reannotation @@CITATION since these 6263 locus tags included operon groups, novel proteins and revised start coordinates for 1579 proteins.	genome  reannotation 		A-subj	unknown	1
+EXPERIMENTAL EVALUATION To test and compare our quality estimation metric we employed OMNeT++ (Objective Modular Network Test-bed) simulator @@CITATION.	OMNeT++  (Objective  Modular  Network  Test-bed)  simulator 		A-subj	evaluation	0
+For our experiments we used the INETMANET extension @@CITATION which is specifically dedicated to MANETs and offers a variety of mobility models specifically related to MANET mobility.	INETMANET  extension 		A-subj	evaluation	0
+All the problem instances were solved using the Couenne MINLP solver (@@CITATION) with a time limit of 600 seconds.	Couenne  MINLP  solver 		A-subj	method	0
+In order to make the problem tractable, we adopt the linear heat flow model proposed in (@@CITATION).	 linear  heat  flow  model 		A-subj	method	0
+Works in @@CITATION utilize the MPSoC design methodology to implement SDR systems, treating the modulator as an individual system task.	MPSoC  design  methodology 	to  implement  SDR  systems	B-subj	introduction	0
+We adopt the pairwise matching computation strategy used in @@CITATION, which formulates the matching as a partial curve matching problem.	pairwise  matching  computation  strategy 	which  formulates  the  matching  as  a  partial  curve  matching  problem	A-subj	method	0
+Cho et al. @@CITATION evaluate inter-fragment consistency using the sum-of-squared color difference (SSD) alone the stitching boundary, and used a graphical model to solve the global composition.	sum-of-squared  color  difference  (SSD) 		B-subj	method	0
+EXPERIMENTS We conducted experiments on two public datasets: MIT datasets @@CITATION and BGU datasets [16].	MIT  datasets 		A-subj	method	1
+EXPERIMENTS We conducted experiments on two public datasets: MIT datasets [15] and BGU datasets @@CITATION.	BGU  datasets 		A-subj	method	1
+Tsamoura et al. @@CITATION apply a color-based image retrieval strategy to identify potential adjacent fragments, and then use boundary pixel’s color to build the contour feature.	boundary  pixel’s  color 	to  build  the  contour  feature	B-subj	method	0
+Procedure/participants Participants were recruited from Amazon’s Mechanical Turk (MTurk) platform (@@CITATION).	Amazon’s  Mechanical  Turk  (MTurk)  platform 		A-subj	introduction	0
+2.3 Baseline: Trusted H/W in the Cloud A well-known technique to hide data access patterns is using Oblivious RAM (ORAM) @@CITATION.	Oblivious  RAM  (ORAM) 		A-subj	method	0
+It uses a partitionbased ORAM @@CITATION where each partition is itself a hierarchical ORAM [8].	ORAM 		A-subj	method	0
+This Lemma directly follows from Theorem 5.1 and 5.6 in @@CITATION.	Theorem 		A-subj	method	0
+1.2 Results We implement PRO-ORAM prototype in C/C++ using Intel SGX Linux SDK v1.8 containing 4184 lines of code @@CITATION.	Intel  SGX  Linux  SDK  v1.8 		A-subj	introduction	0
+As a result, we abandoned the Domino-based flow of [31] and adopted a more successful three-step flow, using ideas from Feng Shui 5.1 @@CITATION and the cell-swap method of FastPlace [24].	ideas 		A-subj	evaluation	0
+Second, regarding the sharing structure principle, TDS employs two-dimensional space partitioning derived from DC @@CITATION.	 two-dimensional  space  partitioning 	 regarding  the  sharing  structure  principle	A-subj	keywords	0
+That is, BUS exploits skyline monotonicity to bypass dominance tests for skylines on U , when computing a skyline on V using SFS @@CITATION.	SFS 		A-subj	method	0
+QSkycube then computes a skyline on U using a baseline skyline algorithm @@CITATION.	skyline  algorithm 		A-subj	method	0
+The database correlation method using GSM fingerprints (power scans over a set of carriers) was presented in @@CITATION.	 GSM  fingerprints 	power  scans  over  a  set  of  carriers	B-subj	abstract	0
+In @@CITATION, accurate indoor localization was obtained using fingerprints including measurements of all possible GSM carriers.	fingerprints 		B-subj	abstract	0
+Fix P ∗ = ∑K k=1 π ∗ kδµ∗k ∈ P and P ∈ P. From Birge-Lecam theory @@CITATION, there exists a sequence test functions Φn based on observations Y1, .	Birge-Lecam  theory 		A-subj	method	0
+4.1 Latent Dirichlet allocation We first consider LDA [10], a conditionally conjugate probabilistic topic model @@CITATION for learning the latent On Statistical Optimality of Variational Bayes “topics” contained in a collection of documents.	conditionally  conjugate  probabilistic  topic  model 		A-subj	method	0
+The first one is the Latent Dirichlet Allocation (LDA; @@CITATION), a generative probabilistic model for topic modeling.	 Latent  Dirichlet  Allocation 		A-subj	method	0
+DoD C4ISR Architecture Framework @@CITATION was adopted as the NATO C3 System Architecture Framework [15] in a slightly modified form.	DoD  C4ISR  Architecture  Framework 		A-subj	method	0
+An early version of the library was used to implement an efficient normaliser for the λ -calculus @@CITATION.	library 		A-subj	unknown	0
+It was then made into a separate library, and used in the implementation of the first version of the PML language @@CITATION.	PML  language 		A-subj	unknown	0
+The data were collected from (@@CITATION), a set of six relational databases which contains a very big amount of data from more than 4500 StarCraft replays.	data 	of  data  from  more  than  4500  StarCraft  replays	A-subj	abstract	1
+3.1 Feature Selection The data we use is taken from (@@CITATION), who with their work offer six relational databases of one versus one matches, with all the possible combinations of races that the game offers.	data 		A-subj	method	1
+The difficulty rankings of similar students is combined using social choice theory @@CITATION to produce the best difficulty ranking for the target student.	social  choice  theory 		A-subj	introduction	0
+We did this for our data using Fayyad and Irani's Minimum Description Length method @@CITATION as implemented by Weka, an open source data mining and machine learning tool [24].	Minimum  Description  Length  method 		A-subj	method	0
+The basic idea is to extract all object bounding boxes from an image, and compute an objectness score @@CITATION that can be used to rank and determine interesting objects, with the purpose of posterior classification.	objectness  score 		A-subj	related work	0
+Batch Normalization @@CITATION layers are inserted after each Max-Pooling layer, and after the first FC layer, in order to prevent overfitting and accelerate training.	Batch  Normalization 		A-subj	method	0
+Kang et al. @@CITATION use a data driver approach where regions are matched over a large annotated dataset and objectness is computed from segment properties.	data  driver  approach 		B-subj	related work	0
+5 We use the standard theory of simplices, complexes, abstract complexes, and piecewise-linear (PL) mappings @@CITATION.	theory  of  simplices,  complexes,  abstract  complexes,  and  piecewise-linear  (PL)  mappings 		A-subj	method	0
+To draw attention and entice people to interact, we integrated aspects of proxemic interaction @@CITATION into our visualization.	 proxemic  interaction 		A-subj	categories and subject descriptors	0
+Proxemic Interaction The foci in the overview can be placed using either touch or proxemic interaction @@CITATION, supporting multiple people simultaneously.	proxemic  interaction 		A-subj	categories and subject descriptors	0
+From these we make use of the VecSum algorithm @@CITATION , which is simply a chain of 2Sum that performs an EFT on n FP numbers .	VecSum  algorithm 		A-subj	method	0
+The channel parameters corresponding to these conditional means and standard deviations were estimated from experimental data by using ExpectationMaximization @@CITATION.	ExpectationMaximization 		A-subj	method	0
+The print-scan channel was first characterized by utilizing a set of training images, from which the the parameters for the statistical channel model of Section 3 were obtained via the EM algorithm @@CITATION.	EM  algorithm 		A-subj	evaluation	0
+Channel Decoding Maximum likelihood decoding of convolutional codes can be achieved by the Viterbi algorithm @@CITATION which allows for both hard and soft decoding.	Viterbi  algorithm 		A-subj	method	0
+Approximate maximum aposteriori probability (MAP) decoding for RA codes is accomplished using belief propagation @@CITATION for iterative decoding.	 belief  propagation 	for  iterative  decoding	A-subj	method	0
+In the first part of section 4, we apply the results from our paper @@CITATION to express the leading order expected utility shortfall rate as the sum of the opportunity loss rate and the trading cost rate.	results 		A-subj	method	1
+Given a tree decomposition we apply a dynamic programming algorithm @@CITATION corresponding to the specified semantics (e.g. -s admissible) and reasoning mode (e.g. --cred a).	dynamic  programming  algorithm 		A-subj	unknown	0
+This is explored in CrowdQ @@CITATION, which uses a hybrid machine / crowd approach, producing programmatic suggestions to linked data queries, with the crowd confirming the correct answers.	CrowdQ 		B-subj	method	0
+To measure the complex permittivity of the material, e*  e0ie00, a cavity perturbation method was used @@CITATION, in a rectangular cavity, operating in the TE1,0,11 mode, at about 5 GHz.	cavity  perturbation  method 	To  measure  the  complex  permittivity  of  the  material	A-subj	unknown	0
+Finally, the ontology is parsed with the Jena API @@CITATION, to retrieve classes and properties, hierarchies and annotations.	Jena  API 		A-subj	conclusions	0
+Conceptually, the descriptor works by decomposing the shape into a number of orthogonal 2-D basis functions (complex-valued), defined by the Angular Radial Transform (ART) @@CITATION.	Angular  Radial  Transform  (ART) 		A-subj	introduction	0
+The hand position is then tracked in the binarized frame sequence using the change detection algorithm @@CITATION.	change  detection  algorithm 		A-subj	keywords	0
+Segmentation of hand image In our scheme, we use the inter-frame change detection algorithm @@CITATION for segmenting out hand regions in the input video sequences.	 inter-frame  change  detection  algorithm 	for  segmenting  out  hand  regions  in  the  input  video  sequences	A-subj	introduction	0
+We use the algorithm by Borradaile et al. @@CITATION to compute the face separating cycles.	algorithm 	to  compute  the  face  separating  cycles	A-subj	method	0
+(s3) For each piece containing one fZ with Z ∈ WX , we find a minimum (fZ , fX)-separating cycle using the approaches in @@CITATION.	approaches 		A-subj	method	0
+Given a good-separator A for Z and e0, our algorithm constructs a branch-decomposition of plane hypergraph G|A with width at most k+2h by Lemma 2 shown in @@CITATION.	Lemma 		A-subj	method	0
+We apply the techniques in @@CITATION to decompose HX into pieces (subgraphs), each piece contains face fZ for exactly one Z ∈ WX .	techniques 	to  decompose  HX  into  pieces  (subgraphs)	A-subj	method	0
+From Properties (I)-(VI), the upDDG(S) and lowDDG(S) can be computed as shown in the next lemma (Lemma 18 in @@CITATION).	Lemma 		A-subj	method	0
+To develop the theory of reasoning patterns for Bayesian games, we rely on the graphical representation developed in @@CITATION, in which a game is represented as a set of blocks.	graphical  representation 	in  which  a  game  is  represented  as  a  set  of  blocks	A-subj	method	0
+We use Sethian’s Fast Marching Method (Sethian, 1995, 1996; @@CITATION).	Fast  Marching  Method 		A-subj	method	0
+This kind of approach was used to compute distance maps in ( @@CITATION ) .	approach 	used  to  compute  distance  maps 	B-subj	method	0
+The curve evolution equation is then reformulated and implemented using the Osher-Sethian numerical algorithm (@@CITATION; Sethian, 1996b).	Osher-Sethian  numerical  algorithm 		A-subj	method	0
+We use Sethian’s Fast Marching Method (@@CITATION, 1996; Adalsteinsson et al., 1996).	 Fast  Marching  Method 		A-subj	method	0
+Results on data provided by Georg Fuellen We have also used QuickJoin on two datasets supplied by Georg Fuellen, Integrated Functional Genomics, University Hospital Muenster, who used neighbor-joining to produce large phylogenies as described in @@CITATION.	neighbor-joining 	to  produce  large  phylogenies 	B-subj	abstract	0
+Results on Pfam data The data used for the first experiment were protein sequence alignments taken from the Pfam database @@CITATION, and translated into distance matrices using QuickTree.	Pfam  database 		A-subj	abstract	1
+The SQL dialect produced is that of the SQLite engine, which is the standard used for modern HTML 5 WebSQL Database @@CITATION implementations found in browsers such as Google Chrome, Apple Safari, and Opera.	WebSQL  Database 		A-subj	method	0
+The original ASM formulation uses the Mahalanobis distance to the mean training profile as a boundary similarity measure @@CITATION.	Mahalanobis  distance 	to  the  mean  training  profile 	B-subj	keywords	0
+The shape parameters are more robustly estimated using dynamic programming regularization @@CITATION and a weighted fit.	dynamic  programming  regularization 		A-subj	keywords	0
+We consider the throughput after the ARQ (Automatic Repeat Request) protocol in the receiver and use the specific curves versus SIR from @@CITATION without loss of generality.	pecific  curves  versus  SIR 		A-subj	unknown	0
+If the target shape is restricted to human body, an efficient template mesh-fitting method is proposed in @@CITATION which utilizes 3D sparse marker to reconstruct high-resolution human bodies from uncompleted scanned data.	mesh-fitting  method 	which  utilizes  3D  sparse  marker  to  reconstruct  high-resolution  human  bodies 	A-subj	abstract	0
+Second, our study used the dataset from the Berlin SPARQL Benchmark (BSBM) @@CITATION, which simulated an ecommerce use case involving data about products, vendors, consumers and reviews about the products.	Berlin  SPARQL  Benchmark  (BSBM) 	which  simulated  an  ecommerce  use  case 	A-subj	introduction	1
+An optimized 16 Mel Filter Cepstrum Coefficients for bird identification (according to an extended benchmark @@CITATION) have been computed with their first and second temporal derivatives on the whole set.	benchmark 		A-subj	method	0
+3.3 Network Design 3.3.1 WirelessHART Architecture We adopt a WirelessHART @@CITATION architecture for our WSAN design.	WirelessHART 		A-subj	method	0
+3.2.2 Model Predictive Control with Buffers As a controller for our closed-loop WSAN system, we have adopted a Model Predictive Control scheme (MPC, also referred to as Receding Horizon Control) @@CITATION.	 Model  Predictive  Control  scheme 	also  referred  to  as  Receding  Horizon  Control	A-subj	method	0
+For training the DCGAN model, we follow the training procedure in [32] and use Adam @@CITATION for optimization.	Adam 	for  optimization	A-subj	evaluation	0
+We evaluate our method on three datasets: CelebA [23], SVHN [29] and Stanford Cars @@CITATION, with different forms of missing regions.	 Stanford  Cars 		A-subj	related work	1
+Datasets and Masks We evaluate our method on three dataset: the CelebFaces Attributes Dataset (CelebA) [23], the Street View House Numbers (SVHN) [29] and the Stanford Cars Dataset @@CITATION.	 Stanford  Cars  Dataset  		A-subj	evaluation	1
+We evaluate our method on three datasets: CelebA @@CITATION, SVHN [29] and Stanford Cars [17], with different forms of missing regions.	CelebA 		A-subj	related work	1
+Datasets and Masks We evaluate our method on three dataset: the CelebFaces Attributes Dataset (CelebA) @@CITATION, the Street View House Numbers (SVHN) [29] and the Stanford Cars Dataset [17].	CelebFaces  Attributes  Dataset  (CelebA) 		A-subj	evaluation	1
+Google’s DeepDream uses backpropagation to create dreamlike images @@CITATION.	backpropagation 		B-subj	related work	0
+We evaluate our method on three datasets: CelebA [23], SVHN @@CITATION and Stanford Cars [17], with different forms of missing regions.	SVHN 		A-subj	related work	1
+Datasets and Masks We evaluate our method on three dataset: the CelebFaces Attributes Dataset (CelebA) [23], the Street View House Numbers (SVHN) @@CITATION and the Stanford Cars Dataset [17].	Street  View  House  Numbers  (SVHN)  		A-subj	evaluation	1
+Poisson blending @@CITATION is used to reconstruct our final results.	Poisson  blending 		A-subj	method	0
+We propose to use knowledge compilation (@@CITATION) to first compile the structure into an Arithmetic Circuit (AC) and, next, evaluate the obtained circuit multiple times to compute the messages.	 knowledge  compilation 		A-subj	abstract	0
+To determine the orientation parameters the space resection method is used rather than the bundle adjustment which was used in @@CITATION.	 bundle  adjustment 		B-subj	abstract	0
+In the previous study @@CITATION which used solely correlation matching without least square matching, the root mean square error was 0.21 mm (@@CITATION p.	correlation  matching  without  least  square  matching		B-subj	keywords	0
+The backbone flexibility is modeled by the first 50 normal modes using Fiberdock @@CITATION.	Fiberdock 		A-subj	method	0
+Finally, binding energy scores are found using CHARMM52 force field @@CITATION.	CHARMM52 force  field 		A-subj	method	0
+PREDICTING AND MODELING PROTEIN–PROTEIN INTERACTIONS Surface residues of the target proteins are extracted using the relative accessible surface area values (calculated by NACCESS @@CITATION).	NACCESS 		A-subj	method	0
+PRISM searches whether complementary sides of a template interface are structurally similar to any region on the surface of target structures using the MultiProt structural comparison engine @@CITATION.	MultiProt  structural  comparison  engine 		A-subj	method	0
+These two methods were converted to global methods, using the idea of entropy, in @@CITATION.	entropy		A-subj	keywords	0
+Entropy was used for discretization applied to ranking data @@CITATION.	Entropy 		A-subj	abstract	0
+Experiments were conducted using the MLEM2 (modified learning from examples module, Version 2) rule induction algorithm @@CITATION and the LERS classification system.	MLEM2 		A-subj	abstract	0
+The SIFT algorithm is used for feature extraction and the matching scheme proposed by Kepenekci (@@CITATION) is used for face comparison.	SIFT  algorithm 		A-subj	introduction	0
+We use the well-known approach of the Kalman filter @@CITATION.	Kalman  filter 		A-subj	method	0
+In @@CITATION, Radix5 recoding was combined with BCD code converters using BCD4221 and BCD5211 codes to simplify the partial product generation and reduction.	BCD4221  and  BCD5211  codes 		B-subj	method	0
+The Quasi-Minimal Residual (QMR) method, @@CITATION, is used to solve the resulting large-scale linear systems.	 Quasi-Minimal  Residual  (QMR)  method	 to  solve  the  resulting  large-scale  linear  systems	A-subj	keywords	0
+Here we use the QMR iteration, @@CITATION.	QMR  iteration		A-subj	unknown	0
+TIME-VARYING NATURE OF AGGREGATED VIDEO TRAFFIC To represent traffic arrival process, we use video traffic traces available from the University of Berlin @@CITATION.	video  traffic  traces 		A-subj	method	1
+However, we used the method proposed by Garland and Heckbert @@CITATION, which is based on edge collapse, plus a merging process to form surface patches.	method 		A-subj	method	0
+The first step is the visual feature detection on the monochromatic image using SURF @@CITATION.	SURF 		A-subj	method	0
+Resources along a computed TE path are reserved during label distribution, using protocols such as ConstraintBased Routing Label Distribution Protocol (CR-LDP) and Resource Reservation Protocol with TE (RSVP-TE) @@CITATION.	Resource  Reservation  Protocol  with  TE  (RSVP-TE) 		A-subj	introduction	0
+The vector was computed using the forward-backward least-squares technique from traditional AR signal analysis @@CITATION.	forward-backward  least-squares  technique 		A-subj	method	0
+Also, by employing multi-tags @@CITATION, we reduce the uncertainties when inferring the position of onboard tags.	multi-tags 		A-subj	method	0
+We have built 33 such platforms, and each tag on the platform was calibrated separately using the techniques described by Chawla, Robins, and Zhang @@CITATION.	techniques 		A-subj	method	0
+Event-B and the Rodin Platform We have used the Event-B modelling formalism @@CITATION and the Rodin [5] tools platform.	Event-B  modelling  formalism 		A-subj	method	0
+Event-B and the Rodin Platform We have used the Event-B modelling formalism [4] and the Rodin @@CITATION tools platform.	Rodin 		A-subj	method	0
+The proposed implementation is tested on the color FERET @@CITATION and the Adience CIT data collections ( see Fig . I for an impression ) .	 color  FERET 		A-subj	method	1
+We use Holojam @@CITATION, a system that allows for low-latency data streaming to multiple clients in Samsung GearVR headsets in order to create a nomadic VR application for viewing the network graphs.	Holojam 	a  system  that  allows  for  low-latency  data  streaming 	A-subj	abstract	0
+We use the exemplar proposed for agent-oriented software development methodologies @@CITATION that is based on the Guardian Angel Project [10].	exemplar 	for  agent-oriented  software  development  methodologies 	A-subj	keywords	0
+The Brasov pollution dataset @@CITATION consists of the pollution measurements (e.g., air quality index) in Brasov, Romania from August 2014 to October 2014.	Brasov  pollution  dataset 	pollution  measurements 	A-subj	unknown	1
+Using Lemma 2.2 in @@CITATION, we can conclude that the following holds in our situation.	Lemma  2.2 		A-subj	unknown	0
+The shading model developed by Phong @@CITATION is utilised.	shading  model 		A-subj	unknown	0
+A. Histogram Test Methodology The conventional histogram method @@CITATION, [4] is used to measure the DNL and INL specifications of an A/D converter.	histogram  method 	to  measure  the  DNL  and  INL  specifications  of  an  A/D  converter	A-subj	unknown	0
+In [20,21], Incremental SAT @@CITATION is used to speed up test generation for PDFs.	Incremental  SAT 	to  speed  up  test  generation  for  PDFs	A-subj	unknown	0
+As SAT solver, MiniSat v1.14 @@CITATION is used.	MiniSat 	As  SAT  solver	A-subj	unknown	0
+(1) Reweighting the random walk to converge to Brownian motion: We define weights using the estimators p and Îµ for p(x) and Îµ(x) from @@CITATION.	estimators 		A-subj	unknown	0
+V. Proof of Lemma 1 First, we recall a well-known result (see, e.g., @@CITATION) that will be useful to prove Lemma 1.	result 		A-subj	unknown	1
+Like [9] we use layer normalization @@CITATION in the discriminator.	layer  normalization 	 in  the  discriminator	A-subj	unknown	0
+Magnifying Lens and Fish-eye â€“ The magnifying lens @@CITATION and geometrical fish-eye [7] were also added to the system as basic interactors.	magnifying  lens 	as  basic  interactors	A-subj	unknown	0
+Knowing , in the second stage of our solution, we estimate 4 and the coordinates using the procedure of Smith and Abel @@CITATION.	procedure 		A-subj	unknown	0
+Data requiring low signal latency will be sent between the vehicles in the dedicated frequency band, 5.9 GHz, using the wireless communication standard IEEE 802.11p @@CITATION.	IEEE  802.11p 	wireless  communication  standard 	A-subj	unknown	0
+Updating the regularization parameter When the multi-output model refinement procedure is completed, the regularization parameters can be optimized by the Bayesian evidence procedure @@CITATION, [20].	Bayesian  evidence  procedure 	When  the  multi-output  model  refinement  procedure  is  completed,  the  regularization  parameters  can  be  optimized  by 	A-subj	unknown	0
+Akaikeâ€™s information criterion (AIC) @@CITATION was used as the termination criteria for the MFRA and MOLS again.	Akaikeâ€™s  information  criterion 	used as  the  termination  criteria  for  the  MFRA  and  MOLS 	A-subj	unknown	0
+3.1 The Notation Used in Properties The notation used to denote individual properties is essentially that developed by Mahony and Hayes [5] and used in @@CITATION.	notation 	used  to  denote  individual  properties 	A-subj	unknown	0
+Luminance subtraction stage We used the Laplacian pyramid @@CITATION to implement luminance subtraction.	Laplacian  pyramid 	to  implement  luminance  subtraction	A-subj	unknown	0
+We will work specifically with Linear Logic @@CITATION.	Linear  Logic 		A-subj	unknown	0
+Since XML11 is an XML-based protocol, we have decided to use SOAP messages (see @@CITATION) for remote method invocations.	SOAP 	for  remote  method  invocations	A-subj	unknown	0
+"6 Initial Estimates To find the solution of any of the above nonlinear least-squares problems, an iterative technique is used; in practice we use the Levenberg-Marquardt method (see @@CITATION)."	Levenberg-Marquardt  method 	nonlinear  least-squares  problems	A-subj	unknown	0
+Our move selection scheme is from @@CITATION, which modulates which moves are chosen to best advance the solution at each temperature.	move  selection  scheme 	which  modulates  which  moves  are  chosen 	A-subj	unknown	0
+Post-layout interconnect delays were determined using the RICE @@CITATION AWE-based delay evaluation tool.	RICE 	Post-layout  interconnect  delays  were  determined  using 	A-subj	unknown	0
+Genetically anchored physical map and transcript map data The genetically anchored physical map for peach is under development using peach BAC libraries @@CITATION.	BAC  libraries 	 genetically  anchored  physical  map  for  peach 	A-subj	unknown	0
+It is being constructed using an approach that employs a combination of hybridization of mapped markers and BAC fingerprinting @@CITATION.	approach 		A-subj	unknown	0
+The SCR library @@CITATION uses this approach.	approach	SCR  library 	B-subj	unknown	0
+CacheAudit performs a reachability analysis using abstract interpretation @@CITATION.	abstract  interpretation 	reachability  analysis 	B-subj	unknown	0
+This cache configuration is, e.g., used in the first level cache of the Intel Skylake architecture @@CITATION.	cache  configuration 	in  the  first  level  cache  of  the  Intel  Skylake  architecture 	B-subj	unknown	0
+Choose the next pixel xk (using alternating raster scans @@CITATION) and go back to 2.	alternating  raster  scans 	Choose  the  next  pixel 	A-subj	unknown	0
+We used CPLEX 12.6 @@CITATION to solve the ILPs.	CPLEX 	to  solve  the  ILP	A-subj	unknown	0
+Then Chen et al. @@CITATION incorporated the sample-path-based method with novel clustering and localization techniques to detect multiple sources in networks.	sample-path-based  method 	with  novel  clustering  and  localization  techniques  to  detect  multiple  sources  in  networks	B-subj	unknown	0
+The Adult/Adolescent Sensory Profile (AASP) Questionnaire @@CITATION was used to determine the sensory profile of each participant.	Adult/Adolescent  Sensory  Profile 	to  determine  the  sensory  profile  of  each  participant	A-subj	unknown	1
+For M3Ns, we use Structured Sequential Minimal Optimization (@@CITATION) for model training.	Structured  Sequential  Minimal  Optimization 	for  model  training	A-subj	unknown	0
+The distance values are used to select the appropriate child node (LOD model) to use depending upon the object's distance from the viewpoint (@@CITATION).	distance  values 	to  select  the  appropriate  child  node  (LOD  model)  to  use  depending  upon  the  object's  distance  from  the  viewpoint 	A-subj	unknown	0
+We can further use Dirichlet distribution to model workers reliability as in @@CITATION.	Dirichlet  distribution 	to  model  workers  reliability 	A-subj	unknown	0
+"Figures were generated with the MRIcro software package (@@CITATION; www.sph.sc.edu/comd/rorden/mricro.html) using procedures described in Brett, Leff, Rorden, and Ashburner (2001)."	MRIcro  software 		A-subj	unknown	1
+Those values are obtained by synthesizing Verilog HDL descriptions using Xilinx ISE ServicePack [7] and Vertex-II pro @@CITATION.	Vertex-II  pro 	by  synthesizing  Verilog  HDL  descriptions 	A-subj	unknown	0
+Subtraction profiling was performed as described previously [44,45] using the CDS test @@CITATION.	CDS  test 	Subtraction  profiling 	B-subj	unknown	0
+Suitability of the individual nodes of the models was assessed by automatic relevance detection @@CITATION.	automatic  relevance  detection 	Suitability  of  the  individual  nodes  of  the  model	A-subj	unknown	0
+: We used three different data sets: Reuters [26], Spambase, and the Malicious URLs @@CITATION data sets, which were obtained from the UCI database repository [27].	Malicious  URLs 	obtained  from  the  UCI  database  repository 	A-subj	unknown	1
+A. The Adaline Perceptron We consider here the Adaline perceptron @@CITATION that arguably has one of the simplest update rules due to its linear activation function.	Adaline  perceptron 	one  of  the  simplest  update  rules 	A-subj	unknown	0
+We used Histograms of Oriented Gradient (HOG) feature descriptors @@CITATION and a linear SVM classifier [27].	Histograms  of  Oriented  Gradient 	feature  descriptors 	A-subj	unknown	0
+The male and female speech signals are taken from dev2 dataset of the SiSEC'08 â€œunderdetermined speech and music mixturesâ€ task @@CITATION.	dev2  dataset 	of  the  SiSEC'08  â€underdetermined  speech  and  music  mixturesâ€  task  	B-subj	unknown	1
+2.1 Corporate Strategy For the corporate strategy category we rely on the well-known framework of the Balanced Scorecard @@CITATION.	Balanced  Scorecard 	 For  the  corporate  strategy  category 	A-subj	unknown	0
+(1) For the precomputing (lines 1â€“5), a heuristic algorithm in @@CITATION is leveraged for finding bicliques in G, which requires O(|E |log(|V|+ |W|)) time.	heuristic  algorithm 	leveraged  for  finding  bicliques  in  G	A-subj	unknown	0
+Fogaras et al. @@CITATION adopted a scalable Monte Carlo sampling approach to estimate SimRank by using the first meeting time of two random surfers.	Monte  Carlo  sampling  approach 	to  estimate  SimRank  by  using  the  first  meeting  time  of  two  random  surfers	B-subj	unknown	0
+We produce the sequence of graphs following the linkage generation model @@CITATION.	linkage  generation  model 	sequence  of  graphs 	A-subj	unknown	0
+Later, Lizorkin et al. @@CITATION utilized the partial sums memoization to Chapter 3.	partial  sums  memoization 		B-subj	unknown	0
+We can use different partitioning policies in HoVerCut, e.g., Greedy @@CITATION or HDRF [12].	Greedy 	different  partitioning  policies  in  HoVerCut	A-subj	unknown	0
+A. Partitioning Policy We can use any vertex-cut partitioning heuristics in HoVerCut, e.g., DBH [13], PowerGraph Greedy @@CITATION, or HDRF [12].	PowerGraph  Greedy 	vertex-cut  partitioning  heuristics  in  HoVerCut	A-subj	unknown	0
+Ja-be-Ja @@CITATION, [29] is a fully distributed algorithm that uses local search and simulated annealing techniques [30] for graph partitioning.	local  search  and  simulated  annealing  techniques 	for  graph  partitioning	B-subj	unknown	0
+For learning rate optimization we use Adam optimizer (@@CITATION) with initial learning rate 0.001.	Adam  optimizer 	with  initial  learning  rate  0.001	A-subj	unknown	0
+To combine the two models, we merged Viterbi search @@CITATION in both the HMM and the CRF using a weighted combination.	Viterbi  search 	both  the  HMM  and  the  CRF  using  a  weighted  combination	A-subj	unknown	0
+In TensorFlow, the NVIDIA CuDNN-optimized LSTM was used (@@CITATION).	NVIDIA  CuDNN-optimized  LSTM 	In  TensorFlow	A-subj	unknown	0
+We answer this question using the notion of asymptotically level stable functions introduced by Auslender @@CITATION in 2000.	asymptotically  level  stable  functions 		A-subj	unknown	0
+The stereo acuity of the current system was determined using HowardDolman test (@@CITATION).	HowardDolman  test 	The  stereo  acuity  of  the  current  system 	A-subj	unknown	0
+We have developed a number of communication strategies that use the high-level view of node and network activity to guide a node in making these decisions @@CITATION.	high-level  view  of  node  and  network  activity 	to  guide  a  node  in  making  these  decisions 	B-subj	unknown	0
+Three discriminative methods, Cascaded Adaboost with Haar features [24], SVM with HOG features @@CITATION, and PBT with filter bank [22] are performed for comparison.	SVM 	with  HOG  features 	A-subj	unknown	0
+The experiment data come from two public datasets: LHI database @@CITATION and PASCAL VOC 2008.	LHI  database 		A-subj	unknown	1
+We use the CASIA Infrared Night Gait Dataset @@CITATION to facilitate this research.	CASIA  Infrared  Night  Gait  Dataset 		A-subj	unknown	1
+The model is optimized for its hyper-parameters by a randomized grid search method @@CITATION.	randomized  grid  search  method 		A-subj	unknown	0
+The feature we use to represent the image content is the PHOG (Pyramid Histogram of Oriented Gradients) feature @@CITATION.	PHOG  (Pyramid  Histogram  of  Oriented  Gradients)  feature 	use  to  represent  the  image  content 	A-subj	unknown	0
+Pretraining Sound Features After the waveforms are preprocessed into MFCC vectors, we use denoising autoencoders @@CITATION to learn K features kernels.	denoising  autoencoders 	to  learn  K  features  kernels	A-subj	unknown	0
+The Shanghai region data from the Regional Accented Speech Corpus (RASC863) @@CITATION is used in the evaluation.	Regional  Accented  Speech  Corpus  (RASC863) 	Shanghai  region  data 	A-subj	unknown	1
+Ryant et al. @@CITATION use a DNN for frame-level 5-tone classification and a single-layer neural network at segment (syllable) level.	DNN 	for  frame-level  5-tone  classification 	B-subj	unknown	0
+The other approach of recurrent FNNs @@CITATIONâ€“[14] uses feedback loops from internal state variables as its recurrence structure.	feedback  loops 	approach  of  recurrent  FNNs 	B-subj	unknown	0
+Determinize the given specification S by the use of subset construction @@CITATION and denote Sdet = (Sdet, {s0}, I, O, detS h ) the obtained deterministic IOA.	subset  construction 	Determinize  the  given  specification  S 	A-subj	unknown	0
+x is substituted using a quadrature formula (for details see @@CITATION).	quadrature  formula 		B-subj	unknown	0
+Here we use an approach from Xie @@CITATION to achieve this goal.	approach 		A-subj	unknown	0
+We therefore used a non-parametric Wilcoxon Rank Sum test @@CITATION to analyze these data.	Wilcoxon  Rank  Sum  test 	to  analyze  these  data	A-subj	unknown	0
+In Figure 4 we show several panels representing the 3D OpenGL (@@CITATION) interface used to visualize the estimated fiber pattern in the context of the brain anatomy.	3D  OpenGL 	interface  used  to  visualize  the  estimated  fiber  pattern  in  the  context  of  the  brain  anatomy	A-subj	unknown	0
+For directional clustering estimation, we consider a mixture of k von Mises-Fisher (vMF) distributions (@@CITATION) that serves as a model for directional ODF profile data, corresponding to multiple fiber orientations.	k  von  Mises-Fisher  (vMF)  distributions 	as  a  model  for  directional  ODF  profile  data	A-subj	unknown	0

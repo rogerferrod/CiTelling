@@ -1,81 +1,277 @@
-text	object	context	role	contrast
-the intracell/intrapool handoff is exactly same as the spectrum decision proposed in @@citation, and hence out of scope in this paper.	spectrum  decision		B-subj	None
-it is reasonable to compare espvf with the current version of xilinx chipscope @@citation.	xilinx  chipscope		B-subj	None
-gulrajani et al. @@citation proposed a different method which restricts the norm of the gradient of the discriminator.	method	which  restricts  the norm of  the  gradient  of  the  discriminator	B-subj	contrast
-5.3 comparison with sacia the proposed method was compared with sacia @@citation, a prealignment method based on key-point matching, in the case of using four images.	sacia	prealignment  method  based  on  key-point  matching	B-subj	None
-"to do so we are using the same notation as in @@citation; systems are either implicitly specified using a system block, or built out of operators like until/corrects."	notation		B-subj	None
-the gas-burner is very similar to the one used in @@citation.	gas-burner		B-subj	None
-the steps of algorithm 3 are reminiscent of the sequential processing in kalman filter handling multiple measurements @@citation.	kalman  filter	handling  multiple  measurements	B-subj	None
-our additive composition function can be regarded as an instantiation of the weighted addition strategy that performed well in a distributional compositional approach to derivational morphology (@@citation).	weighted  addition  strategy	in  a  distributional  compositional  approach to  derivational  morphology	B-subj	None
-5.6.1 comparison with state-of-the-art algorithms in this section, fas is compared with pls [99] and numvc @@citation, both acknowledged as state-of-the-art algorithms for mvc in the literature.	numvc	mvc	B-subj	None
-for �e = 1%, we are 27 times faster than tch (2.94ms @@citation).	tch	27  times  faster  than	B-subj	None
-also, on the profile query we see the difference to the previous time-independent algorithm @@citation that only required one pass.	time-independent  algorithm	on  the  profile  query	B-subj	contrast
-for text data, the linear svms demonstrated superior text classification performance compared to other methods @@citation, and this motivated our use of them.	methods	the  linear  svms  demonstrated  superior  text  classification  performance	B-subj	contrast
-3.2.3 local offset matching (lom) here we propose a new method to overcome this drawback of phm @@citation and obtain more reliable correspondences.	phm		B-subj	contrast
-2.2 impact of candidate selection, prioritization and coordination on throughput to ensure the relay priority among the forwarding candidates, a mac protocol similar to those proposed in @@citation is necessary.	mac  protocol		B-subj	None
-soft-output detector with a reasonable performance/complexity trade-off, and computational complexity that is lower than the receiver proposed in @@citation.	receiver	computational  complexity	B-subj	None
-in phase 2 we compute the actual profiles using an approach similar to the systolic implementation of parallel prefix computation @@citation (see figure 4).	parallel  prefix  computation	systolic  implementation	B-subj	None
-preparata and vitter @@citation presented an algorithm with the same running time and claimed that their algorithm was simpler.	algorithm	same  running  time	B-subj	None
-same approach is used to solve the problem of meeting relative delay guarantees in @@citation.	meeting  relative  delay		B-subj	None
-with load flushing applied, the icount.1.8 result is 9% slower than the icount.2.8 result with four threads for the mix experiments, a result that confirms those in @@citation.	icount		B-subj	None
-our single frame optical flow model achieves an accuracy of 72.2% on split 1, similar to 73.9% reported by @@citation.	single  frame  optical  flow  model		B-subj	None
-11a similar analysis was done in @@citation, but there the stability criteria for steepest gradient descent were applied to the lms algorithm.	analysis	lms  algorithm	B-subj	None
-in fig. 3, we compare the reconstructions and the maps from the proposed low rank and smoothness methods with the iterative approach @@citation and an approach we refer to as the direct method.	iterative  approach		B-subj	None
-thus, its syntactic definition is similar to the concept of ‘amplification’ @@citation, which in turn corresponds to our � in lemma 2.	amplification		B-subj	None
-b. equalizer’s effect on the pdf the eq implemented in this receiver is a linear, split-path equalizer similar to that introduced in @@citation, which creates highfrequency peaking by decreasing low-frequency gain.	linear,  split-path  equalizer	which  creates  highfrequency  peaking  by  decreasing  low-frequency  gain	B-subj	None
-hence, our observations are in accordance with the author’s recommended settings of � = 1, � = 10 @@citation.	recommended  settings		B-subj	None
-the m2bt approach in @@citation follows a similar way and performs additional m2ss over motion vectors found by 2bt.	m2bt  approach	m2ss  over  motion  vectors	B-subj	None
-as seen in the results, our models outperform both the baseline and traditional convolutional layers for this task, as well as the challenge’s baseline @@citation.	challenge’s  baseline	traditional  convolutional  layers	B-subj	None
-(7) and learn the fuzzy measure g. the evolutionary algorithm used in this paper is similar to the method used in @@citation.	method	evolutionary  algorithm	B-subj	None
-exertion cards presented by mueller follow a similar approach to supporting the design process @@citation.	approach	approach  to  supporting  the  design  process	B-subj	None
-thus, more sophisticated methods, than the nn method, can be employed, including probabilistic methods @@citation, neural network-based methods [28] and others.	probabilistic  methods		B-subj	None
-we use color-based segmentation and line-fitting in our work, and a number of authors have investigated similar approaches (e.g., [6], [8], @@citation).	approaches	color-based  segmentation  and  line-fitting	B-subj	None
-our colorization approach outperforms @@citation and [6], whose examples contain only few colors and lack spatial coherency.	colorization  approach		B-subj	contrast
-comparable results with irony et al. on their own example@@citation.	results		B-subj	None
-(67) it can be readily verified that (67) and the problem in @@citation are identical.	problem		B-subj	None
-we use different sizes of extracted rc meshes from industrial applications and compare our hybrid algorithm with the method in @@citation and core [5].	method	sizes of  extracted  rc  meshes from  industrial  applications	B-subj	None
-runtime compared with core, and is 18.3x faster than @@citation for model reduction time and 61.2x faster for simulation time.	core		B-subj	None
-this query now returns results, matching the user’s original intention by correcting the error in q. the work in @@citation also considered applying ontology-based relaxation to the regular expressions ri.	ontology-based  relaxation	regular  expressions  ri	B-subj	None
-in work, we use common techniques reported in the literature, although there are other methods @@citation.	methods		B-subj	None
-6.6 comparison results with other methods we compare our reconstruction results with recent methods using flexible voxel @@citation and p2c2 [6].	flexible  voxel	reconstruction  results	B-subj	None
-this flm seems performing better with lower false alarm rate (7%) as compared to the glm based regression models (11.7%) developed by @@citation.	glm  based  regression  models		B-subj	None
-d. experimental setup the experimental setup is practically the same as in @@citation, [8].	experimental  setup		B-subj	None
-gpu representation our sparse voxel octree is a very compact pointer-based structure, similar to @@citation.	sparse  voxel  octree		B-subj	None
-remark: our conditional maximum likelihood estimators provide a source estimation that has an additional scaling factor as compared with the previous work of rumor centrality @@citation.	rumor  centrality	conditional  maximum  likelihood  estimators	B-subj	None
-the re module of the alignment system will incorporate a dependency feature-based relation classifier, similar to the one proposed in @@citation.	dependency  feature-based  relation  classifier	re  module  of  the  alignment  system	B-subj	None
-2.3.6 list of constructors the list of constructor view is similar to the underlying view of the replib haskell library @@citation.	replib  haskell  library	list  of  constructor  view	B-subj	None
-the disproportionate sensitivity of stimulus-relative to rule-switching is markedly consistent with a recent observation from an fmri study in which neurologically healthy participants were tested with the same task (@@citation).	disproportionate  sensitivity	fmri  study  in  which  neurologically  healthy  participants	B-subj	None
-• our empirical study demonstrates that the incremental approach greatly outperforms k-dash @@citation, a batch algorithm that is reported as the best for rwr proximity computing, when networks are constantly updated.	k-dash	rwr  proximity  computing	B-subj	None
-"while our basic idea of twolevel selection might appear similar to the coarseto-fine inference architectures (@@citation; weiss and taskar, 2010), the details differ significantly."	coarseto-fine  inference  architectures		B-subj	None
-"the heap and objects results for the ported java benchmarks are similar to those reported by others using different vms [@@citation; blackburn et al. 2006]."	heap  and  objects  results	java  benchmarks	B-subj	None
-ranking by a pagerank-like algorithm the graph model shares a lot of similarities with the widely known and used pagerank algorithm @@citation.	pagerank  algorithm		B-subj	None
-2we follow the same objective as that in @@citation, where the so-called spacebandwidth product defined in [13] is adopted as the performance metric in the setting of multi-hop crns.	objective	the  performance  metric  in  the  setting  of  multi-hop  crns	B-subj	None
-in relation with the studied problem, we can not ignore the study of (@@citation) which investigated a weighted form of the secretary problem (a special case of the optimal stopping problem).	study	weighted  form  of  the  secretary  problem	B-subj	None
-this creates a situation similar to plurality-$bribery introduced by faliszewski et al. @@citation.	plurality-$bribery	similar  to  plurality-$bribery	B-subj	None
-our scheduling algorithm has lower latencies than the previous best approaches, round heuristic @@citation and tree based algorithm [23] especially for such widespread network model as gtitm transit–stub.	round  heuristic	for  such  widespread  network  model  as  gtitm  transit–stub.	B-subj	contrast
-the task has similarities to a study by @@citation.	study		B-subj	None
-in this experiment, showing the information behind the wall using only motion parallax is difficult, and this result is in line with a study from @@citation.	study		B-subj	None
-it is similar to the object used by @@citation.	object		B-subj	None
-frequency and orientation representations of gabor filter are similar to those of human visual system @@citation.	human  visual  system		B-subj	None
-experimental evaluations on a children speech dataset show that the best performing cnn model obtains a 95.5% tone classification accuracy, which is significantly higher when compared with previous models based on manually edited f0 @@citation.	models	based  on  manually  edited  f0	B-subj	None
-in order to comparatively evaluate the effectiveness of the features generated by our method and the features used in the previous methods by xu et al. @@citation, we experimented with the following models: 1.	methods	effectiveness of  the  features  generated features	B-subj	None
-our first results compare pipeline muffling, a priori current ramping, and the current ramping scheme in @@citation.	current  ramping  scheme	pipeline  muffling	B-subj	None
-4.2 comparing techniques in this section, we compare pipeline muffling, a priori current ramping, and the conventional ramping technique of @@citation for configurations which achieve the same reduction in inductive noise.	conventional  ramping  technique	for  configurations  which  achieve  the  same  reduction  in  inductive  noise	B-subj	None
-the performance of the irsfnn is compared with that of recurrent models, including an rsonfin @@citation, a trfn [7], a wrfnn [11], and an rsefnn-lf [14].	rsonfin		B-subj	None
-1e-mail: kaba@dis.titech.ac.jp 2a similar but different approach to an improved algorithm can be found in @@citation.	algorithm		B-subj	contrast
-it successfully coordinates multiple radios in utilizing the same channel pool and providing improved per-radio throughput by leveraging the multiradio diversity compared with previous research work such as oar@@citation and moar[3].	oar	it  successfully  coordinates  multiple  radios  in  utilizing  the  same  channel  pool  and  providing  improved  per-radio  throughput	B-subj	None
-in this section, we compare our results to the numerical observations of luse and zangwill @@citation.	numerical  observations		B-subj	None
-our framework is expressive enough to express the important ideas of previous timed automata frameworks, including @@citation.	timed  automata  frameworks		B-subj	None
-the definition above differs from previous definitions of timed automata @@citation in two major respects.	timed  automata		B-subj	contrast
-the difference between ead and anisotropic diffusion as defined by weickert @@citation is that ead models a non-symmetric tensor in addition to the standard diffusion tensor.	anisotropic  diffusion		B-subj	None
-the form of our signature is similar to bls signature @@citation, which is a short signature in the random oracle model.	bls  signature	which  is  a short  signature  in  the  random  oracle  model	B-subj	None
-to record the entire policy of decisions we would need to store a shorthand form of the entire search tree (including nested search trees) analogous to the approach used in qcop+ @@citation.	qcop+		B-subj	None
-we compare against qecode 2.0 @@citation, which is a state of the art qcop+ solver, on the problems that it supports.	qecode  2.0	on  the  problems  that  it  supports	B-subj	None
-although, the usual multi-index notation used in @@citation, [25], [26] is more elegant, it is difficult to manipulate non unity covariances � 6= i with it.	multi-index  notation	it  is  difficult  to  manipulate  non  unity  covariances  �  6=  i  with  it	B-subj	None
-also comparing with randomized algorithm described in @@citation our protocol is simpler and has comparable energy complexity, without randomization.	randomized  algorithm	our  protocol  is  simpler  and  has  comparable  energy  complexity,  without  randomization	B-subj	None
-with a similar idea, damiani et al. @@citation introduced the concept of stops and moves, in order to enrich trajectories with semantically annotated data.	concept  of  stops  and  moves	in  order  to  enrich  trajectories  with  semantically  annotated  data	B-subj	None
-bgp networks have also experienced instabilities similar to this propagation mechanism @@citation.	propagation  mechanism		B-subj	None
-all descriptions use a format and level of detail similar to the one used by fowler et al. @@citation (kerievsky took the same approach in [21]).	detail		B-subj	None
-IPSM @@CITATION is similar to our work in that the ATIM window ends when the channel is idle for a specified amount of time.	IPSM		A-subj	None
-Rao et al. @@CITATION compare various IR techniques on bug localization, and report that traditional IR techniques such as VSM and Unigram Model (UM) outperform the more sophisticated LSI and LDA techniques.	IR techniques	on bug localization	B-subj	None
-The corpus given for 2008 differs slightly on the one of the previous year @@CITATION.	corpus		A-subj	None
+text	object	context	role	section	flag
+6 Experimental results The implementation of the proposed algorithms is similar to that of @@CITATION.	@@CITATION		A-subj	evaluation	0
+Different from @@CITATION, our approach is applied to an optimized detailed placement under any conventional placement metrics.	@@CITATION		A-subj	method	1
+We note that the communication complexity of our algorithms scales very well compared with previous algorithms @@CITATION, since it depends mainly on properties of the underlying global popularity distribution and 2 on the desired approximation accuracy.	algorithms 		A-subj	method	0
+We compared our algorithm R with the best known algorithms, namely TA [12] and TPUT @@CITATION.	TPUT 		A-subj	abstract	0
+We compared our algorithm R with the best known algorithms, namely TA @@CITATION and TPUT [6].	TA 		A-subj	introduction	0
+In comparison to our first results @@CITATION, we have introduced efficient context-based learning and parsing, which significantly increases the success rate of the informal-to-formal translation task on the Flyspeck corpus.	results 		A-subj	conclusions	0
+• We have evaluated our design using simulations and compared it to Ostra @@CITATION to illustrate our design’s advantages and shortcomings.	Ostra 	to  illustrate  our  design’s  advantages  and  shortcomings	A-subj	method	0
+A similar approach in @@CITATION, based on dynamic instantiation in honeynets, showed promising results.	approach 		A-subj	method	0
+NUMERICAL RESULTS We now describe some numerical results with which we compare the performance of the and the ILP and graph coloring based algorithm described in @@CITATION.	graph  coloring  based  algorithm 		A-subj	method	0
+It compares the purposes with other literature (such as @@CITATION ) where these are called differently.	@@CITATION 		A-subj	keywords	0
+(1) Team simulation differs from graph simulation @@CITATION and strong simulation [29] in the existence of capacity bounds on pattern graphs and its ability to capture matches on undirected graphs.	graph  simulation 		A-subj	method	1
+(1) Team simulation differs from graph simulation [19] and strong simulation @@CITATION in the existence of capacity bounds on pattern graphs and its ability to capture matches on undirected graphs.	strong  simulation 		A-subj	method	1
+These results are consistent with studies that have found little support for the theory @@CITATION.	theory 		A-subj	related work	0
+However , except the one of Li CIT , all the other experimental evaluations @@CITATION use Linux implementations of CTCP whose behavior differs from the Windows implementation , according to CIT .	@@CITATION 		B-subj	related work	1
+In experiments, our method is favorably compared with the marginalized graph kernel by @@CITATION and the spectral method by Wilson et al. (2005).	marginalized  graph  kernel 		A-subj	abstract	0
+In principle, our task is analogous to feature selection for vectors (@@CITATION), however, the difference is that the features (i.e., patterns) are not explicitly listed.	feature  selection  for  vectors 		A-subj	method	0
+In experiments, our method is favorably compared with the marginalized graph kernel by Kashima et al. (2003) and the spectral method by @@CITATION.	spectral  method 		A-subj	unknown	0
+The analytical results of the average tap energy given by (14) and (17) with IEEE 802.15.3a CM1, CM2, CM3, and CM4 channel parameters specified in @@CITATION are first compared with computer simulations.	channel  parameters 		B-subj	keywords	0
+Nevertheless, differently from our previous proposals (as reported in @@CITATION), we annotate each functional parameter with a concept defined in a shared ontology, and we just require the parameter matching to be type compatible.	proposals 		A-subj	method	1
+This is in constrast to @@CITATION who use only the raw data extracted from the cell centroids.	@@CITATION 	use  only  the  raw  data  extracted  from  the  cell  centroids	A-subj	method	1
+Similarly to the traditional approaches presented in @@CITATION, where readers and tags define ad hoc secrets, the PUF-based approach uses instead the physical structure embedded within tags to generate unique keys.	approaches 		B-subj	method	1
+An alternative protocol is presented in @@CITATION.	protocol 		A-subj	evaluation	1
+A similar conclusion is reached by Vaziri in his PhD thesis @@CITATION and further publications [16].	conclusion 		B-subj	method	0
+To implement the Atkinson condition, item parameters were estimated using data from a previous experiment, in a manner similar to that in @@CITATION.	@@CITATION		A-subj	discussions	0
+This geometry is identical to the geometry used in @@CITATION and is chosen because it leads to geometry-independent results as shown in [28].	geometry 		A-subj	method	0
+The source of this instability is similar to that of the instability occurring in the Pk−Pk−2 spectral element solution scheme for the Navier-Stokes equations reported in @@CITATION.	Navier-Stokes  equations 		A-subj	keywords	0
+Furthermore, our algebraic splitting approach is superior to the Chorin-Temam projection scheme (differential splittings) @@CITATION in the sense that our scheme avoids unphysical boundary conditions for the pressure equation inherent in the differential splittings.	Chorin-Temam  projection  scheme 		A-subj	method	1
+Finally, the MAC protocols proposed in @@CITATION are similar to DCA-PC.	MAC  protocols 		B-subj	conclusions	0
+3.1 Security Policy Our security model is similar to many traditional approaches @@CITATION.	approaches 		A-subj	abstract	0
+On Myrinet, this is an increase by 30 MB/s compared to results published in @@CITATION.	results 		A-subj	unknown	1
+This pragmatic orientation in younger subjects is in line with previous findings @@CITATION.	findings 		A-subj	conclusions	0
+learning strategy that we employ in the methods presented in this paper is in many respects similar to structure learning methods from statistical relational learning such as @@CITATION.	structure  learning  methods 		A-subj	method	0
+We compare the performance of the proposed LRNN structure learning method with the best previously published LRNNs, which contain large generic, yet manually constructed weighted rule sets @@CITATION.	LRNNs	which  contain  large  generic,  yet  manually  constructed  weighted  rule  sets 	A-subj	method	0
+The learned LRNNs are also competitive with the manually constructed LRNNs from @@CITATION, although they do not outperform them.	LRNNs 		A-subj	evaluation	0
+TARGET SYSTEM: AMD MAGNY-COURS We evaluate the benefits that our proposal could achieve in a system similar to AMD Magny-Cours @@CITATION.	AMD  Magny-Cours 		A-subj	method	0
+Chen et al. @@CITATION studied and compared the cache behavior between work-stealing and parallel depth-first scheduler on simulators for cores that share the L2 cache.	cache  behavior 		B-subj	method	0
+The proof techniques are similar to those used in @@CITATION, but are modified to handle the more general model here.	@@CITATION	to  handle  the  more  general  model 	A-subj	method	0
+We note that the methods applied in the present paper are different from @@CITATION.	@@CITATION		A-subj	method	1
+In some sense, our technique is similar to the feedback mechanism based on document surrogates that was proposed by Billerbeck and Zobel @@CITATION.	feedback  mechanism 		A-subj	unknown	0
+Finally, we compared our KLD-based term selection function to the formula proposed by Billerbeck and Zobel @@CITATION.	formula 		A-subj	unknown	0
+DOCUMENT-CENTRIC STATIC INDEX PRUNING The general goal of our pruning technique is the same as that in @@CITATION: Reducing the size of the index so far that it completely fits into main memory.	@@CITATION	Reducing  the  size  of  the  index  so  far  that  it  completely  fits  into  main  memory	A-subj	unknown	0
+Our method is similar to the pseudo-relevance feedback mechanism described by Carpineto et al. @@CITATION.	pseudo-relevance  feedback  mechanism 		A-subj	unknown	0
+A similar qualitative analysis applied to the slightly later stage, of system architectural design, is described by Bass, Clements, and Kazman @@CITATION.	qualitative  analysis 		B-subj	method	0
+A similar approach was followed for fragments of intuitionistic logic in @@CITATION, although this leads to further technicalities when approximating (co-)nondeterministic complexity of a sequent.	approach 		B-subj	method	0
+Instead we follow a similar approach to Statman’s proof that intuitionistic propositional logic is PSPACE-hard @@CITATION, modulo some improvements that are discussed, for the intuitionistic setting, in [7].	Statman’s  proof 		A-subj	method	0
+The design is a 1T2R design, similar to that described in @@CITATION.	@@CITATION		A-subj	method	0
+We modeled the fractured operation as two smaller sized LUTs along with an output mux, similar to the design described in @@CITATION.	design 		A-subj	method	0
+In order to reduce the overhead of the crossbar configuration memory, we replace the SRAM configuration memory cells with 1T2R PCM cells, similar to what is done in related works for global routing @@CITATION.	@@CITATION		A-subj	method	0
+This approach is similar to what is done in multi-agent architectures @@CITATION.	@@CITATION		A-subj	method	0
+The basic approach for the body classifiers is similar to that used in statistical approaches to reference resolution (e.g. @@CITATION).	@@CITATION		B-subj	method	0
+We use an approach similar to the original MAPO paper @@CITATION to approximately resolve fully qualified method names.	MAPO 	to  approximately  resolve  fully  qualified  method  names	A-subj	method	0
+Thus applying the LM-algorithm directly in degree 7 was more challenging and we were forced to exploit a parallelism, following a process similar to that in @@CITATION.	@@CITATION		A-subj	method	0
+4.2 Comparison with Automatic Methods We compare our method to the baseline method of @@CITATION and the recent generative model of [41], which also built a GMM model of the reflectance.	baseline  		A-subj	evaluation	0
+We also compare to the method of @@CITATION that utilizes automatic color naming for intrinsic image decomposition.	method 	that  utilizes  automatic  color  naming  for  intrinsic  image  decomposition	A-subj	evaluation	0
+4.2 Comparison with Automatic Methods We compare our method to the baseline method of [17] and the recent generative model of @@CITATION, which also built a GMM model of the reflectance.	recent  generative  model 		A-subj	evaluation	0
+Note that the formulation of Σk in Equation (16) is slightly different from those in the general EM algorithm for fitting GMM @@CITATION, with an extra term wg in the denominator that reduces the variance.	EM  algorithm for  fitting  GMM 		A-subj	method	1
+Alternative approaches, based more directly on Herbrand’s theorem, e.g., as described in (@@CITATION), are also known.	approaches	based  more  directly  on  Herbrand’s  theorem	A-subj	method	0
+AlPiNA’s data types provide more features than this example shows, like sub-sorting, polymorphism or data type modularity similar to that of @@CITATION.	features 	like  sub-sorting,  polymorphism  or  data  type  modularity 	A-subj	method	0
+Another adaptation of saturation to SDD has been defined by Couvreur & Thierry-Mieg @@CITATION and later improved by Hamez et al. [28].	Another  adaptation  of  saturation  to  SDD  has  been  defined  by  Couvreur  &  Thierry-Mieg  @@CITATION  and  later  improved  by  Hamez  et  al.  [28].		A-subj	method	0
+4.1 Detecting Rain and Snow Using Frequency Space Analysis The frequency model can be used to detect rain and snow in a similar way to notch filtering (@@CITATION).	notch  filtering 	 to  detect  rain  and  snow  	A-subj	method	0
+Since there is a close relationship of our approach to the GTM we also applied the sparse grid method to the oil flow data set which is used in @@CITATION as a benchmark problem for the GTM.	sparse  grid  method to  the  oil  flow  data 	set 	A-subj	abstract	0
+These findings are comparable to those obtained with the GTM approach @@CITATION and the kernel based method from [59].	GTM  approach 		A-subj	abstract	0
+The same method has also been used by @@CITATION in conjunction with syntactic annotations to extract rules that are used for reordering prior to translation .	method 	to  extract  rules  that  are  used  for  reordering  prior  to  translation 	A-subj	keywords	0
+The discontinuous phrases used by @@CITATION have a similar purpose to synchronous grammar rules; but they have variables that stand for single words rather than subderivations, and they can interleave in non-hierarchical ways.	discontinuous  phrases 	to  synchronous  grammar  rules	A-subj	keywords	0
+The system under investigation is a single cell OFDMA one, similar to WiMax systems @@CITATION.	WiMax  systems 		A-subj	method	0
+We observe a significant difference between the results obtained from our approach and the approach in @@CITATION.	results 		A-subj	abstract	1
+We vary the value of Re from 0.01 to 0.99, which is the same range explored in @@CITATION, so that we can compare the results easily.	range 		A-subj	abstract	0
+An automatic HMM segmenter was trained over this material, with units corresponding to &quot;demiphonemes&quot; (unlike the otherwise identical autosegmenter used in @@CITATION, which used phoneme units only).	 identical  autosegmente	which  used  phoneme  units  only	A-subj	unknown	1
+This approach is similar to the email study conducted by Adamic and Adar @@CITATION.	email  study 		A-subj	evaluation	0
+The results seem to agree with Hanneman’s @@CITATION view, in suggesting out-degree as an influential centrality measure when determining a central figure in an information flow.	results 		A-subj	unknown	0
+Moreover, 82.3% is very near to the best figure obtained on the Magnatune corpus, i.e. the 84.1% derived in (@@CITATION).	best  figure 		A-subj	method	0
+The corpus used in our experimentation was also used in (@@CITATION), with a set of spectral features, e.g. MFCC, and a set of advanced features, called fluctuation patterns.	corpus 		A-subj	introduction	0
+Therefore we would compare DISC with the R*-tree @@CITATION indexing under our general scheme to see which one is more efficient.	R*-tree 		A-subj	evaluation	0
+These observations are consistent with previous results @@CITATION.	results 		A-subj	unknown	0
+Our results suggest a higher ratio of &quot;de novo&quot; pseudopods relative to those from splitting during chemotaxis in shallow gradients, compared to previous published results (Additional file 2, @@CITATION).	results 		A-subj	unknown	1
+Compared to the state-of-the-art @@CITATION, which uses time series of the previous price for predicting future price of bitcoin, 0.9504 is significantly higher.	state-of-the-art 		A-subj	unknown	1
+The hybrid dimension-based Star-Cubing approach, proposed in [@@CITATION], outperforms the other approaches in dense, skewed and not so sparse relations.	approaches 		B-subj	method	1
+1 INTRODUCTION We already proposed a similar learning system for object recognition and object reconstruction, which was based on the reinforcement learning (Sutton and Barto, 1998) component only (@@CITATION).	 learning  system 		A-subj	introduction	0
+However, the Poissonian limit is reached as λ/ω0 → ∞ at the resonance point, which is also demonstrated in @@CITATION.	 Poissonian  limit 		A-subj	introduction	0
+Our procedure is similar to that described in @@CITATION, and consists of two stages.	procedure 		A-subj	method	0
+A notable exception is work by Madar, et al. describing an enhancement of the original Inferelator algorithm that is capable of dynamic simulations similar to our approach @@CITATION.	dynamic  simulations 		A-subj	keywords	0
+These results are consistent with previous findings by Dame and Kenny [54], Gross et al. [55], and Wieski and Pennings @@CITATION.	findings 		A-subj	method	0
+These results are consistent with previous findings by Dame and Kenny @@CITATION, Gross et al. [55], and Wieski and Pennings [20].	findings 		A-subj	method	0
+These results are consistent with previous findings by Dame and Kenny [54], Gross et al. @@CITATION, and Wieski and Pennings [20].	findings 		A-subj	method	0
+Similarly, the REMUS @@CITATION project provides a high degree of fault tolerance using asynchronous VM replication.	REMUS 		A-subj	method	0
+Despite differences in mapping procedures, there are resemblances with previous reports in which 46% of the terms in the ICF could be mapped to the ICNP with an exact or partial match @@CITATION.	reports 		A-subj	unknown	0
+The sample median direction for a set of angular observations is different from the “classical” median @@CITATION of these points.	“classical”  median 		A-subj	method	1
+In this paper, we have used a quantitative criterion similar to the edge detection error rate described in @@CITATION in order to evaluate and compare the performance of the proposed edge detectors for various noise types.	edge  detection  error  rate 	in  order  to  evaluate  and  compare  the  performance 	A-subj	method	0
+Consist with the previous studies @@CITATION, text-feature based classifier outperformed the image-feature based classifier 6% (absolute) in accuracy, as shown in Table 3.	studies 		A-subj	unknown	0
+Our results coincide with the nanomedicine report by the @@CITATION, p.	report 		A-subj	abstract	0
+Experimental setup The experiments we report in this article were performed with a similar GA and identical parameter values to those used by Tanese (1989a) (and also in previous work by @@CITATION).	parameter 		A-subj	method	0
+.@@CITATION used a similar nonlinear wave model estimator in a Generic Model control strategy.	nonlinear  wave  model 		A-subj	method	0
+This technique is more closely related to the BOUNDER system developed at MIT @@CITATION than to the traditional SUP-INF method.	BOUNDER  system 		A-subj	unknown	0
+In @@CITATION, an n2 × n2 eigenvalue problem similar in structure to (2.1) is dealt with by rewriting an equation of Kronecker sums into an equation of Lyapunov form, i.e., (1.3).	eigenvalue  problem 		A-subj	method	0
+A similar problem is studied in @@CITATION.	problem 		A-subj	method	0
+On the small data sets, @@CITATION used the exact same protocol, so, although the folds are not the same, the results are directly comparable.	protocol		A-subj	method	0
+Using stumps over Haar filters (Viola & Jones, 2004), boosted trees with four inner nodes and 10000 iterations achieves a test error of 0.85%, comparable to classical convolutional nets (@@CITATION).	convolutional  nets 		A-subj	conclusions	0
+The isolated signals near the Hayward Fault are visible, which possibly corresponds to those identified by @@CITATION in a study of local hillslope motions that spanned 2 years and 17 images.	 isolated  signals 	near  the  Hayward  Fault 	A-subj	method	0
+For the h-convergence the index of algebraic convergence is about 2(p+1), which is consistent with the estimate given in @@CITATION.	index  of  algebraic  convergence 		A-subj	method	0
+A similar technique was used in @@CITATION to account for thermal drift in STM.	technique 		A-subj	method	0
+Tuncer et al. @@CITATION used similar monitoring data to detect node-level anomalies.	monitoring  data  to  detect  node-level  anomalies		B-subj	related work	0
+In order to point out the most appropriate parameters for the fingertip, a parametric study, analogous to @@CITATION, is carried out.	parametric  study	In  order  to  point  out  the  most  appropriate  parameters  for  the  fingertip	B-subj	method	0
+An interesting approach that shares some similarities with DRF techniques is @@CITATION.	DRF  techniques 		B-subj	conclusions	0
+This Picat program is very similar to our constraint programming solution in ECLiPSe CLP @@CITATION.	ECLiPSe  CLP 		B-subj	method	0
+In comparison to EPOVC @@CITATION which has a similar structure as ObMiC our method produces a higher average accuracy.	EPOVC 		B-subj	evaluation	0
+(12) In contrast to @@CITATION, training data for estimating the parameters µ and ς of the probability density functions are in our case not available.	training  data 		B-subj	method	0
+Similar criteria were used in @@CITATION, but apply only to specific representations of the prior model.	criteria 		B-subj	method	0
+Similar to genetic algorithms @@CITATION, our algorithm computes the most plausible explanation of image content given a prior model in terms of segmentation with maximum quality.	 genetic  algorithms 		B-subj	method	0
+In contrast to @@CITATION, where a highly application– specific segmentation plan is carried out by a single “self–aware” deformable agent, our algorithm initialises and optimises multiple model instances in parallel.	algorithm 		B-subj	abstract	1
+The AWGN channel is similar to the LOS multipath channel for 60GHz as discussed in @@CITATION.	LOS  multipath  channel 		B-subj	method	0
+We also compare with the non-adaptive approach @@CITATION which considers the overall workload as a stationary Markov chain with constant an .	non-adaptive  approach 	 which  considers  the  overall  workload  as  a  stationary  Markov  chain  	B-subj	method	0
+This is in contrast to @@CITATION where the latent variables were suggested to be those which minimize a metric distance based on the kernel KI(., .).	latent  variables 	to  be  those  which  minimize  a  metric  distance  based  on  the  kernel  KI(.,  .)	B-subj	method	0
+Overall our results are comparable to @@CITATION.	results 		B-subj	conclusions	0
+Similarly, in @@CITATION an ensemble is used but incremental clustering is performed to maintain information about historical concepts, the proposed framework captures batches of examples from the stream into conceptual vectors.	ensemble 		B-subj	method	0
+This is the same idea used in SI @@CITATION and TSI [14].	SI 		B-subj	method	0
+This is the same idea used in SI [13] and TSI @@CITATION.	TSI 		B-subj	method	0
+In a GP setting , similar ideas are used in @@CITATION for transductive GP regression and multi-category classification , respectively .	ideas 	for  transductive  GP  regression  and  multi-category  classification 	B-subj	abstract	0
+A similar pre-shared key based protocol proposed by Almousa and Barbeau @@CITATION shows Bob does not need to store any qubits, but the linear EPT persists.	pre-shared  key  based  protocol 		B-subj	keywords	0
+Note that unlike IMBE @@CITATION, the frequency domain binary voicing information is not transmitted.	IMBE 		B-subj	method	1
+The algorithms are designed in such a way that they impose no restrictions on the location of the measurement point, similarly to the work presented in @@CITATION, for instance.	work 		B-subj	abstract	0
+We discuss in detail the limitations of TRAT and perform a comparison against our methods in @@CITATION.	TRAT 		B-subj	introduction	0
+A similar task-based approach is seen in the agile movement ( with e.g . user stories ) and in open source projects @@CITATION .	open  source  projects 		B-subj	method	0
+This is different from @@CITATION which suggests that sentiment is associated only with subjective content.	sentiment 		B-subj	method	1
+Since, for dense digraphs, the condition of being a robust outexpander is much weaker than that of being quasirandom, Corollary 1.2 is much more general than the result in @@CITATION mentioned earlier.	result 		B-subj	unknown	0
+We omit the proof as it is almost the same as Lemma 4.7 in @@CITATION.	Lemma 		B-subj	unknown	0
+We can contrast our modelling viewpoint with the OWL language @@CITATION proposed for the Semantic Web [10].	OWL  language 		B-subj	keywords	1
+AAMRP is compared with our previous protocol Ant Based Multicast Routing (AMR) [22] and Multicast for Ad hoc Network with Hybrid Swarm Intelligence (MANHSI) @@CITATION.	Multicast  for  Ad  hoc  Network  with  Hybrid  Swarm  Intelligence  (MANHSI) 		B-subj	method	0
+Besides the fact , that we have been experimenting with document-level classification , rather than sentence-level classification , there are two other significant differences between our work and the work described in @@CITATION .	work 		B-subj	unknown	0
+To the best of our knowledge, @@CITATION is the closest work to ours in terms of latent space description of style; our approach is however based on significantly different tools and our objective is different.	work 	in  terms  of  latent  space  description  of  style	B-subj	introduction	0
+These pressure coefficients are slightly lower than the one reported by Mang et al. @@CITATION (23.6, 24.4 and 26.5 meV/GPa for excitons A, B and C, respectively).	pressure  coefficients 		B-subj	unknown	0
+Thus our algorithm offers flexibility similar to that achieved in the case of finite differences of an arbitrary order with the Fornberg algorithm @@CITATION.	Fornberg  algorithm 		B-subj	introduction	0
+Thus, our algorithm provides one with flexibility similar to that achieved in the case of finite differences of an arbitrary order by, e.g., the Fornberg algorithm @@CITATION.	 Fornberg  algorithm  		B-subj	conclusions	0
+Other researchers @@CITATION also reported similar results, although in [74] a very short vertical crack segment was present.	results		B-subj	conclusions	0
+By comparison ARToolkitPlus is about an order of magnitude faster @@CITATION.	ARToolkitPlus 		B-subj	method	0
+These methods, known as dynamic sampling methods, have been shown to significantly outperform traditional static sampling methods @@CITATION[5][6][7][8].	 static  sampling  methods 		B-subj	abstract	0
+These methods, known as dynamic sampling methods, have been shown to significantly outperform traditional static sampling methods [4]@@CITATION[6][7][8].	static  sampling  method		B-subj	abstract	0
+These methods, known as dynamic sampling methods, have been shown to significantly outperform traditional static sampling methods [4][5]@@CITATION[7][8].	static  sampling  methods 		B-subj	abstract	0
+These methods, known as dynamic sampling methods, have been shown to significantly outperform traditional static sampling methods [4][5][6]@@CITATION[8].	static  sampling  methods 		B-subj	abstract	0
+These methods, known as dynamic sampling methods, have been shown to significantly outperform traditional static sampling methods [4][5][6][7]@@CITATION.	static  sampling  methods 		B-subj	abstract	0
+This is comparable to recent studies for other convolutional networks @@CITATION.	convolutional  networks 		B-subj	method	0
+This approach is similar to @@CITATION, but the two controllers are not combined and operate in a VS/VD switch on different queues and control loops.	approach 		B-subj	method	0
+Similar techniques are also common in style transfer @@CITATION.	style  transfer 		B-subj	related work	0
+This was already pointed out in @@CITATION.	This 		B-subj	abstract	0
+The structure of the algorithm, shown in Fig. 2, is similar to the T-Man framework @@CITATION, however, due to the different neighbourhood models, the two algorithms are not directly comparable.	T-Man  framework 		B-subj	keywords	0
+A similar approach , described in @@CITATION , partitions the P2P system into a set of ontological clusters , using a P2P topology based on hypercubes , in order to efficiently support complex RDF-based search queries .	approach 		B-subj	related work	0
+A migration ontology similar to the one proposed by FIPA @@CITATION has been used for data structure.	FIPA 		B-subj	method	0
+In terms of file formats, the recent ADAM format @@CITATION is most similar to AGD.	ADAM  format 		B-subj	method	0
+The technique used in this paper is similar to that in @@CITATION, where we define a different COUNT matrix for solving the two-pattern queries problem with positive patterns only.	technique 		B-subj	unknown	0
+The average profit per user (APU) would be a better standard point of comparison @@CITATION, but those figures are not publicly available.	average  profit  per  user  (APU) 		B-subj	introduction	0
+This approach is similar to the one proposed for the linear programming case by Goffin and Vial in @@CITATION.	approach 		B-subj	conclusions	0
+The main difference between this paper and @@CITATION is that we not only consider the stability of the closed-loop system but also require the closed-loop system maintaining an adequate level of performance represented by a quadratic cost function.	stability  of  the  closed-loop  system 		B-subj	method	1
+Our results are in accordance with those reported in (@@CITATION), (Li et al. 2007) where numerical methods based on linear matrix inequalities are used to prove the emergence of synchronous behavior.	results 		B-subj	method	0
+Our results are in accordance with those reported in (Li et al. 2006), (@@CITATION) where numerical methods based on linear matrix inequalities are used to prove the emergence of synchronous behavior.	results 		B-subj	method	0
+The definition of concern in our model is similar to what has been defined in @@CITATION.	concern 		A-subj	method	0
+This is consistent with the theoretical proof by Ziegler [67] as well as a recent numerical study @@CITATION that maximal entropy production rate is not a general feature of the standard equations of chemical kinetics.	numerical  study 		A-subj	method	0
+Estimated errors of TEC values associated with the CTIPemodel range between 1 and 12 TEC units , as compared with other estimation methods @@CITATION .	estimation  methods 		A-subj	method	0
+The estimates generated are contrasted with those according to @@CITATION, based on published work in [19], and [35], and are shown in Figure 5.	estimates 		A-subj	method	1
+This in turn contrasts with the computationally easier thin-shell model , as used in the comparison models of @@CITATION .	models 		A-subj	method	1
+However , moving out towards the FoV edge , the presented model estimates of both Faraday rotation and path delay diverge from those of @@CITATION .	model estimates of  both  Faraday  rotation  and  path  delay 		A-subj	method	0
+A comparison has been made with existing theoretical modelling, and by consequence measurement @@CITATION, of Faraday rotation over FoVs centred at the magnetic north and south poles, and at the magnetic equator.	 consequence  measurement 		A-subj	method	0
+They showed that their method is superior to both Shape-DNA and HKS in comparing shapes from the Shape Google database @@CITATION.	Shape-DNA  and  HKS 		B-subj	related work	0
+This type of hybrid approach, called the generalized cyclic coordinate method, con verges substantially faster than the cyclic method and is described in detail in @@CITATION.	cyclic  method 		B-subj	conclusions	0
+We compare our results with a mechanism that implements an RD optimal mode selection policy for streaming with UDP [7], and the methodology reported at @@CITATION, that also considers streaming with TCP.	methodology 		B-subj	evaluation	0
+We compare our results with a mechanism that implements an RD optimal mode selection policy for streaming with UDP @@CITATION, and the methodology reported at [3], that also considers streaming with TCP.	RD  optimal  mode  selection  policy  for  streaming  with  UDP 		B-subj	evaluation	0
+Unlike SITN [31] and FORUM @@CITATION, the Virtual Auditorium does not require a student to explicitly request the audio channel before he can be heard.	FORUM 		B-subj	method	1
+A disadvantage of DirectShow is that unlike previous systems with similar characteristics @@CITATION, it requires the Microsoft Windows operating system.	previous  systems 		A-subj	method	1
+Our result is similar to the Mod II PicturePhone finding where their maximum allowable camerato-display angle for eye contact was 4.5 degrees horizontally and 5.5 degrees vertically @@CITATION.	Mod  II  PicturePhone 		A-subj	discussions	0
+The Lipschitz constant L does not appear in the convergence rate in the above analysis which is different from the standard analysis for optimization algorithms @@CITATION.	standard  analysis  for  optimization  algorithms 		A-subj	method	1
+The agents do not share input data ui ( k ) with each other , which is in contrast to @@CITATION .	agents 		A-subj	method	1
+For the passive SM product, this evaluation’s results are close to the finding of @@CITATION, but SMAP_P SM results in a larger RMSE and ubRMSE over HRB.	evaluation’s  results 		A-subj	unknown	0
+Therefore, Sw has a value of 0.326, which is considerably larger than that for the previously developed robotic fish FOCUS @@CITATION.	robotic  fish  FOCUS 		A-subj	introduction	0
+More specifically the performance of H-DMPS was verified by simulation and it showed satisfactory results when compared to a recent dynamic scheduling method, presented in @@CITATION, which uses fine grain parallelism.	dynamic  scheduling  method		A-subj	keywords	0
+H-DMPS is the compared to the algorithm described in @@CITATION.	algorithm 		A-subj	introduction	0
+This is similar to the strategy suggested by Chan, Ciarlet and Szeto @@CITATION.	strategy 		A-subj	abstract	0
+An algorithmic version of the directed version can be proved in essentially the same way (see @@CITATION for a sketch of the argument proving a similar statement).	algorithmic  version  of  the  directed  version 		B-subj	method	0
+The proof of (ii) is similar to the proof of its analogue for undirected graphs (see Section 2 in @@CITATION).	proof 		A-subj	method	0
+(A weaker version of this lemma was already proved in @@CITATION.)	lemma 		B-subj	method	0
+Babcock et al. @@CITATION proposes an accuracy metric similar to our QS.	 accuracy  metric 		B-subj	conclusions	0
+This approach is similar to the strategy defined in @@CITATION as gap recovery.	strategy 	 as  gap  recovery	B-subj	introduction	0
+Regarding quantum variants of PH, the only previous work we are aware of is that of Yamakami @@CITATION, whose results and definition are largely unrelated to ours (e.g., complete problems are not studied).	results  and  definition 		B-subj	general terms	1
+3.3 Comparison to M-Kernels The processing of M-Kernels @@CITATION is similar to that sketched above.	M-Kernels  		B-subj	method	0
+We have compared the results of the proposed approach with those of two baseline methods: a vectorization-based system in @@CITATION and fork point detector of K. Liu [4].	vectorization-based  system 		A-subj	introduction	0
+We have compared the results of the proposed approach with those of two baseline methods: a vectorization-based system in [3] and fork point detector of K. Liu @@CITATION.	fork  point  detector 		A-subj	introduction	0
+The proposed scheme however differs from the cognitive network @@CITATION approach .	cognitive  network  		B-subj	method	0
+To address these criteria we use a Force Directed Placement algorithm similar to that suggested by Frick et al @@CITATION.	algorithm 		B-subj	method	0
+This paper has goals similar to @@CITATION, namely to develop formal analysis techniques and tools for effective use of scenario-based requirements in software engineering.	goals 		B-subj	introduction	0
+We relax some of these assumptions and extend this model by following similar conclusions to both Hofmann @@CITATION and Marlin [13].	conclusions 		B-subj	method	0
+We relax some of these assumptions and extend this model by following similar conclusions to both Hofmann [10] and Marlin @@CITATION.	conclusions 		B-subj	method	0
+In addition, our designs have better performance densities than others except the results in @@CITATION which exceed 2.	 performance  densities 		B-subj	method	1
+For VGG, our latency is longer than @@CITATION due to 45% frequency gap.	latency 		A-subj	method	1
+The same limitations are shared with participation action research @@CITATION.	limitations 		B-subj	unknown	0
+The most related work to ours is @@CITATION in which Geib and Goldman applied probabilistic reasoning to recognize the attacker’s intentions.	work 		B-subj	related work	0
+This challenge also illustrates the fundamental difference between our work and those that study Locationbased Services (LBS) @@CITATION, which utilize the users’ real-time locations to carry out geographic-aware services.	work 		B-subj	introduction	0
+We also explain how its output differs from the output of SPLITSTREE @@CITATION.	output 		A-subj	method	1
+Lueg’s “Smart Guiding” @@CITATION system for tourists is similar to what we are trying to achieve with the alumni campus guide.	Smart  Guiding		B-subj	related work	0
+8.2 HOMOGENOUS SDF GRAPHS Unlike the techniques in [13]@@CITATION, the buffer merging technique is useful even if there are no rate changes in the graph.	techniques 		B-subj	evaluation	1
+This definition is the same as in Graphplan @@CITATION generalised to SAS+ variables.	Graphplan 		B-subj	method	0
+This approach is also used in GP-CSP @@CITATION and in Planning-asSatisfiability [18].	 GP-CSP 		B-subj	method	0
+Our backward strategy, similar to that used in the Meta-CSP SAT planner @@CITATION, uses the sub-optimal planner, LAMA [20], to find an upper-bound, u, on the optimal plan length.	Meta-CSP  SAT  planner 		B-subj	method	0
+CPT solves more of these instances than the current state of the art optimal planners @@CITATION, while SeP and Constance cannot solve many of them in 30 minutes.	optimal  planners 		B-subj	evaluation	0
+This approach is also used in GP-CSP [6] and in Planning-asSatisfiability @@CITATION.	 Planning-asSatisfiability 		B-subj	method	0
+This coincides with Arutaki and Chiba @@CITATION and Long et al. [10], as the propagation path is in the sea and the attenuation is very large.	@@CITATION 		B-subj	method	0
+The results obtained in this paper agree with those results obtained hitherto for special cases as @@CITATION .	results 		B-subj	method	0
+The intracell/intrapool handoff is exactly same as the spectrum decision proposed in @@CITATION, and hence out of scope in this paper.	spectrum  decision 		A-subj	unknown	0
+It is reasonable to compare ESPVF with the current version of Xilinx Chipscope @@CITATION.	Xilinx  Chipscope 		A-subj	unknown	0
+Gulrajani et al. @@CITATION proposed a different method which restricts the norm of the gradient of the discriminator.	method 	which  restricts  the  norm  of  the  gradient  of  the  discriminator	B-subj	unknown	1
+5.3 Comparison with SACIA The proposed method was compared with SACIA @@CITATION, a prealignment method based on key-point matching, in the case of using four images.	SACIA 	a  prealignment  method based  on  key-point  matching	A-subj	unknown	0
+"To do so we are using the same notation as in @@CITATION; systems are either implicitly specified using a system block, or built out of operators like until/corrects."	notation 		A-subj	unknown	0
+The gas-burner is very similar to the one used in @@CITATION.	gas-burner 		A-subj	unknown	0
+The steps of Algorithm 3 are reminiscent of the sequential processing in Kalman filter handling multiple measurements @@CITATION.	Kalman  filter 	handling  multiple  measurements  	A-subj	unknown	0
+Our additive composition function can be regarded as an instantiation of the weighted addition strategy that performed well in a distributional compositional approach to derivational morphology (@@CITATION).	weighted  addition  strategy 	that  performed  well  in  a  distributional  compositional  approach  to  derivational  morphology 	A-subj	unknown	0
+5.6.1 Comparison with State-of-the-art Algorithms In this section, FAS is compared with PLS [99] and NuMVC @@CITATION, both acknowledged as state-of-the-art algorithms for MVC in the literature.	NuMVC 	state-of-the-art  algorithms  for  MVC  in  the  literature	A-subj	unknown	0
+For εe = 1%, we are 27 times faster than TCH (2.94ms @@CITATION).	TCH 	27  times  faster  than 	A-subj	unknown	0
+Also, on the profile query we see the difference to the previous time-independent algorithm @@CITATION that only required one pass.	time-independent  algorithm 	only  required  one  pass	A-subj	unknown	1
+For text data, the linear SVMs demonstrated superior text classification performance compared to other methods @@CITATION, and this motivated our use of them.	methods 	the  linear  SVMs  demonstrated  superior  text  classification  performance 	A-subj	unknown	1
+3.2.3 Local offset matching (LOM) Here we propose a new method to overcome this drawback of PHM @@CITATION and obtain more reliable correspondences.	PHM 		A-subj	unknown	1
+2.2 Impact of Candidate Selection, Prioritization and Coordination on Throughput To ensure the relay priority among the forwarding candidates, a MAC protocol similar to those proposed in @@CITATION is necessary.	MAC  protocol 	To  ensure  the  relay  priority  among  the  forwarding  candidates	A-subj	unknown	0
+soft-output detector with a reasonable performance/complexity trade-off, and computational complexity that is lower than the receiver proposed in @@CITATION.	receiver 	computational  complexity 	A-subj	unknown	0
+In phase 2 we compute the actual profiles using an approach similar to the systolic implementation of parallel prefix computation @@CITATION (see Figure 4).	parallel  prefix  computation 	systolic  implementation 	A-subj	unknown	0
+Preparata and Vitter @@CITATION presented an algorithm with the same running time and claimed that their algorithm was simpler.	algorithm 	same  running  time 	B-subj	unknown	0
+Same approach is used to solve the problem of meeting relative delay guarantees in @@CITATION.	meeting  relative  delay 		B-subj	unknown	0
+With load flushing applied, the ICOUNT.1.8 result is 9% slower than the ICOUNT.2.8 result with four threads for the MIX experiments, a result that confirms those in @@CITATION.	ICOUNT	With  load  flushing  applied	A-subj	unknown	0
+Our single frame optical flow model achieves an accuracy of 72.2% on split 1, similar to 73.9% reported by @@CITATION.	accuracy 	single  frame  optical  flow  model 	A-subj	unknown	0
+11A similar analysis was done in @@CITATION, but there the stability criteria for steepest gradient descent were applied to the LMS algorithm.	analysis 	LMS  algorithm	A-subj	unknown	0
+In Fig. 3, we compare the reconstructions and the maps from the proposed low rank and smoothness methods with the iterative approach @@CITATION and an approach we refer to as the direct method.	iterative  approach 	reconstructions  and  the  maps from  the  proposed  low  rank  and  smoothness  methods 	A-subj	unknown	0
+Thus, its syntactic definition is similar to the concept of ‘Amplification’ @@CITATION, which in turn corresponds to our ρ in Lemma 2.	Amplification	syntactic  definition 	A-subj	unknown	0
+B. Equalizer’s Effect on the PDF The EQ implemented in this receiver is a linear, split-path equalizer similar to that introduced in @@CITATION, which creates highfrequency peaking by decreasing low-frequency gain.	split-path  equalizer 	which  creates  highfrequency  peaking  by  decreasing  low-frequency  gain	A-subj	unknown	0
+Hence, our observations are in accordance with the author’s recommended settings of τ = 1, µ = 10 @@CITATION.	recommended  settings 		A-subj	unknown	0
+The M2BT approach in @@CITATION follows a similar way and performs additional M2SS over motion vectors found by 2BT.	M2BT  approach 	performs  additional  M2SS  over  motion  vectors found  by  2BT	B-subj	unknown	0
+As seen in the results, our models outperform both the baseline and traditional convolutional layers for this task, as well as the challenge’s baseline @@CITATION.	challenge’s  baseline 	traditional  convolutional  layers 	A-subj	unknown	0
+(7) and learn the fuzzy measure g. The evolutionary algorithm used in this paper is similar to the method used in @@CITATION.	method 	evolutionary  algorithm 	A-subj	unknown	0
+Exertion Cards presented by Mueller follow a similar approach to supporting the design process @@CITATION.	approach 	approach  to  supporting  the  design  process 	A-subj	unknown	0
+Thus, more sophisticated methods, than the NN method, can be employed, including probabilistic methods @@CITATION, neural network-based methods [28] and others.	probabilistic  methods 		A-subj	unknown	0
+We use color-based segmentation and line-fitting in our work, and a number of authors have investigated similar approaches (e.g., [6], [8], @@CITATION).	approaches 	color-based  segmentation  and  line-fitting 	A-subj	unknown	0
+Our colorization approach outperforms @@CITATION and [6], whose examples contain only few colors and lack spatial coherency.	 colorization  approach 	few  colors  and  lack  spatial  coherency	A-subj	unknown	1
+Comparable results with Irony et al. on their own example@@CITATION.	results 		A-subj	unknown	0
+(67) It can be readily verified that (67) and the problem in @@CITATION are identical.	problem 		A-subj	unknown	0
+We use different sizes of extracted RC meshes from industrial applications and compare our hybrid algorithm with the method in @@CITATION and CORE [5].	method 	sizes of  extracted  RC  meshes from  industrial  applications 	A-subj	unknown	0
+runtime compared with CORE, and is 18.3X faster than @@CITATION for model reduction time and 61.2X faster for simulation time.	CORE	for  model  reduction  time 	B-subj	unknown	0
+This query now returns results, matching the user’s original intention by correcting the error in Q. The work in @@CITATION also considered applying ontology-based relaxation to the regular expressions Ri.	work 	ontology-based  relaxation  to  the  regular  expressions  Ri	B-subj	unknown	0
+In work, we use common techniques reported in the literature, although there are other methods @@CITATION.	methods 	common  techniques 	B-subj	unknown	0
+6.6 Comparison Results with Other Methods We compare our reconstruction results with recent methods using flexible voxel @@CITATION and P2C2 [6].	flexible  voxel 	reconstruction  results 	A-subj	unknown	0
+This FLM seems performing better with lower false alarm rate (7%) as compared to the GLM based regression models (11.7%) developed by @@CITATION.	GLM  based  regression  models 	FLM 	A-subj	unknown	0
+D. Experimental Setup The experimental setup is practically the same as in @@CITATION, [8].	experimental  setup 		A-subj	unknown	0
+GPU representation Our sparse voxel octree is a very compact pointer-based structure, similar to @@CITATION.	sparse  voxel  octree 	pointer-based  structure	A-subj	unknown	0
+Remark: Our conditional maximum likelihood estimators provide a source estimation that has an additional scaling factor as compared with the previous work of rumor centrality @@CITATION.	 work 	conditional  maximum  likelihood  estimators 	A-subj	unknown	0
+The RE module of the alignment system will incorporate a dependency feature-based relation classifier, similar to the one proposed in @@CITATION.	 RE  module 	RE  module  of  the  alignment  system 	A-subj	unknown	0
+2.3.6 List of Constructors The list of constructor view is similar to the underlying view of the RepLib Haskell library @@CITATION.	RepLib  Haskell  library 	list  of  constructor  view 	A-subj	unknown	0
+The disproportionate sensitivity of stimulus-relative to rule-switching is markedly consistent with a recent observation from an fMRI study in which neurologically healthy participants were tested with the same task (@@CITATION).	disproportionate  sensitivity 	fMRI  study  in  which  neurologically  healthy  participants 	A-subj	unknown	0
+• Our empirical study demonstrates that the incremental approach greatly outperforms k-dash @@CITATION, a batch algorithm that is reported as the best for RWR proximity computing, when networks are constantly updated.	k-dash 	a  batch  algorithm  that  is  reported  as  the  best  for  RWR  proximity  computing	A-subj	unknown	0
+"While our basic idea of twolevel selection might appear similar to the coarseto-fine inference architectures (@@CITATION; Weiss and Taskar, 2010), the details differ significantly."	coarseto-fine  inference  architectures 	idea of  twolevel  selection 	A-subj	unknown	0
+"The Heap and Objects results for the ported Java benchmarks are similar to those reported by others using different VMs [@@CITATION; Blackburn et al. 2006]."	VMs 	for  the  ported  Java  benchmarks 	A-subj	unknown	0
+Ranking by a PageRank-like Algorithm The graph model shares a lot of similarities with the widely known and used PageRank algorithm @@CITATION.	graph  model 	graph  model 	A-subj	unknown	0
+2We follow the same objective as that in @@CITATION, where the so-called spacebandwidth product defined in [13] is adopted as the performance metric in the setting of multi-hop CRNs.	objective 	the  performance  metric  in  the  setting  of  multi-hop  CRNs	A-subj	unknown	0
+In relation with the studied problem, we can not ignore the study of (@@CITATION) which investigated a weighted form of the secretary problem (a special case of the optimal stopping problem).	study 	a  special  case  of  the  optimal  stopping  problem	B-subj	unknown	0
+This creates a situation similar to plurality-$bribery introduced by Faliszewski et al. @@CITATION.	situation 	similar  to  plurality-$bribery 	A-subj	unknown	0
+Our scheduling algorithm has lower latencies than the previous best approaches, Round Heuristic @@CITATION and Tree Based Algorithm [23] especially for such widespread network model as GTITM Transit–Stub.	Round  Heuristic 	for  such  widespread  network  model  as  GTITM  Transit–Stub.	A-subj	unknown	1
+The task has similarities to a study by @@CITATION.	study 		A-subj	unknown	0
+In this experiment, showing the information behind the wall using only motion parallax is difficult, and this result is in line with a study from @@CITATION.	study 		A-subj	unknown	0
+It is similar to the object used by @@CITATION.	object 		B-subj	unknown	0
+Frequency and orientation representations of Gabor filter are similar to those of human visual system @@CITATION.	human  visual  system 	of  human  visual  system 	A-subj	unknown	0
+Experimental evaluations on a children speech dataset show that the best performing CNN model obtains a 95.5% tone classification accuracy, which is significantly higher when compared with previous models based on manually edited F0 @@CITATION.	models 	Experimental  evaluations  on  a  children  speech  dataset 	A-subj	unknown	0
+In order to comparatively evaluate the effectiveness of the features generated by our method and the features used in the previous methods by Xu et al. @@CITATION, we experimented with the following models: 1.	method 	effectiveness of  the  features  generated features 	A-subj	unknown	0
+Our first results compare pipeline muffling, a priori current ramping, and the current ramping scheme in @@CITATION.	ramping  scheme 	pipeline  muffling	A-subj	unknown	0
+4.2 Comparing techniques In this section, we compare pipeline muffling, a priori current ramping, and the conventional ramping technique of @@CITATION for configurations which achieve the same reduction in inductive noise.	conventional  ramping  technique 	for  configurations  which  achieve  the  same  reduction  in  inductive  noise	A-subj	unknown	0
+The performance of the IRSFNN is compared with that of recurrent models, including an RSONFIN @@CITATION, a TRFN [7], a WRFNN [11], and an RSEFNN-LF [14].	RSONFIN 	performance  of  the  IRSFNN 	A-subj	unknown	0
+1E-mail: kaba@dis.titech.ac.jp 2A similar but different approach to an improved algorithm can be found in @@CITATION.	algorithm 		A-subj	unknown	1
+It successfully coordinates multiple radios in utilizing the same channel pool and providing improved per-radio throughput by leveraging the multiradio diversity compared with previous research work such as OAR@@CITATION and MOAR[3].	OAR	It  successfully  coordinates  multiple  radios  in  utilizing  the  same  channel  pool  and  providing  improved  per-radio  throughput 	B-subj	unknown	0
+In this section, we compare our results to the numerical observations of Luse and Zangwill @@CITATION.	observations 		A-subj	unknown	0
+Our framework is expressive enough to express the important ideas of previous timed automata frameworks, including @@CITATION.	automata  frameworks	framework 	A-subj	unknown	0
+The definition above differs from previous definitions of timed automata @@CITATION in two major respects.	definitions 		A-subj	unknown	1
+The difference between EAD and anisotropic diffusion as defined by Weickert @@CITATION is that EAD models a non-symmetric tensor in addition to the standard diffusion tensor.	anisotropic  diffusion 		B-subj	unknown	0
+The form of our signature is similar to BLS signature @@CITATION, which is a short signature in the random oracle model.	BLS  signature 	which  is  a  short  signature  in  the  random  oracle  model	A-subj	unknown	0
+To record the entire policy of decisions we would need to store a shorthand form of the entire search tree (including nested search trees) analogous to the approach used in QCOP+ @@CITATION.	QCOP+ 	To  record  the  entire  policy  of  decisions 	A-subj	unknown	0
+We compare against QeCode 2.0 @@CITATION, which is a state of the art QCOP+ solver, on the problems that it supports.	QeCode  2.0 	which  is  a  state  of  the  art  QCOP+  solver	A-subj	unknown	0
+Although, the usual multi-index notation used in @@CITATION, [25], [26] is more elegant, it is difficult to manipulate non unity covariances Σ 6= I with it.	multi-index  notation 	it  is  difficult  to  manipulate  non  unity  covariances  Σ  6=  I  with  it	B-subj	unknown	0

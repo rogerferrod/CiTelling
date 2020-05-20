@@ -1,81 +1,277 @@
-text	object	context	role
-9.2), this algorithm is a generalization of the famous min-norm point algorithm (@@citation), the latter being recovered when the hessian is the identity.	min-norm  point  algorithm		B-subj
-distatis is an adaptation of the statis methodology specifically used for the purposes of integrating distance matrices for different input attributes @@citation.	statis  methodology	used  for  the  purposes  of  integrating  distance  matrices  for  different  input  attributes	B-subj
-method our method is an extension of our earlier work @@citation.	work		B-subj
-ip) based cp tracking controller introduced in @@citation, generalizing it to a model that contains vertical com motions and changes in angular momentum.	cp  tracking  controller	that  contains  vertical  com  motions  and  changes  in  angular  momentum	B-subj
-core @@citation extends existing regenerating codes to support the optimal recovery of multi-node failures, and presents a prototype implementation on hdfs.	regenerating  codes	to  support  the  optimal  recovery  of  multi-node  failures	B-subj
-4.2 reachability verification of cdss we extend our earlier work for safety @@citation, by considering reachability.	work	4.2  reachability  verification  of  cdss  by  considering  reachability	B-subj
-4 software framework we build on the work of markosian et al. @@citation.	work		B-subj
-mckenzie et al. @@citation present a global vector field clustering method as an extension to du and wang’s previous work [16].	du  and  wang’s  previous  work		B-subj
-7 2.3 extended causal models following our earlier work (@@citation), we formalize normality using extended causal models.	work	extended  causal  models	B-subj
-musika is based on our previous work @@citation.	work		B-subj
-1.3 previous work in a followup to his original work @@citation, jon kleinberg motivated why the necessary distribution for navigability might arise in nature by means of “group memberships”.	work		B-subj
-roll the robot learning language roll @@citation is an extension to rpl that augments it with capabilities for data acquisition, learning and seamless integration of learned functions into rpl control programs.	rpl	that  augments  it  with  capabilities  for  data  acquisition,  learning  and  seamless  integration  of  learned  functions  into  rpl  control  programs	B-subj
-• trustrank @@citation was proposed to detect web spams, and we adapt it for spammer detection in a microblogging site.	web  spams	for  spammer  detection  in  a  microblogging  site	B-subj
-remy @@citation used an extension of ml with both universally and existentially quantified datatype components to model aspects of object-oriented languages, but did not discuss type inference.	ml	with  both  universally  and  existentially  quantified  datatype  components  to  model  aspects  of  object-oriented  languages	B-subj
-(2) to find the coefficients {�k}ck=1 and the shared svs z, we extend our recent work in @@citation to the multiclass case.	work	to  the  multiclass  case	B-subj
-the dpc scheme expands and improves upon the distributed power management framework we developed earlier @@citation.	distributed  power  management  framework		B-subj
-for a notion of material texturedness we build on the work of @@citation in which it is shown that a weibull parameterization of images results in textural diversification.	work	notion of  material  texturedness	B-subj
-zvi galli @@citation presented a new version of the modified 8m algorithm and, by using the guibas and odlyzko result, showed a 14n character comparison worst case runningtime for his algorithm.	8m algorithm	by  using  the  guibas  and  odlyzko  result	B-subj
-we made small changes to blackscholes, canneal and swaptions benchmark programs as explained in our prior work [@@citationa].	blackscholes,  canneal  and  swaptions  benchmark  programs		B-subj
-tree-lstm is a recent approach, which is an extension of the simple lstm framework (@@citation).	lstm  framework		B-subj
-entanglement measures we build on the previous work of three entanglement measures proposed by renoust et al. @@citation.	entanglement  measures	�	B-subj
-the enriched finite element method we start generalizing the derivation carried out in @@citation.	derivation		B-subj
-our chosen scope follows prior industry work @@citation, which is important in two respects.	industry  work		B-subj
-(18) this follows by combining a theorem of a. abrams @@citation (stating that collision free motion planning on graphs 13 figure 2.	theorem  of  a.  abrams	collision  free  motion  planning  on  graphs	B-subj
-(5c) this modification method is also suitable for our previous mrt models@@citation.	mrt  models		B-subj
-b. the 2-step capturing strategy the 2-step capturing strategy is based on the idea in our former work @@citation.	work		B-subj
-4.2.2 hardware approaches this proposed work is an extension of our prior work described in @@citation.	work	hardware  approaches	B-subj
-the thinkaloud protocol employed in the experiment was based on the coaching approach described by olmsted-hawala et al. @@citation.	coaching  approach	thinkaloud  protocol	B-subj
-the icircles tool is an implementation of the method, presented in @@citation, of inductively drawing euler diagrams using circles.	euler  diagrams		B-subj
-both algorithms are defined by using some auxiliary notions from previous works @@citation.	works		B-subj
-our objective is to develop some of the ideas presented in the seminal paper @@citation.	ideas		B-subj
-our pms component is inspired in a process investigated in [@@citation] which demonstrated to be quite effective in this specific task for collections in the computer science field.	process		B-subj
-methods our brownian dynamics (bd) model extends our previous work in which we investigated the morphology of polymerized and crosslinked actin networks @@citation.	morphology  of  polymerized  and  crosslinked  actin  networks		B-subj
-arnout's [1] research on object-oriented pattern components inspired our proceeding, which is e.g. described in @@citation.	object-oriented  pattern	object-oriented  pattern  components	B-subj
-viola-jones rapid object detection the rapid object detection method presented in @@citation forms the basis of the face and facial feature detection approach considered in this work.	object  detection  method	of  the  face  and  facial  feature  detection approach	B-subj
-∗this paper is an extended version of preliminary results @@citation.	results		B-subj
-while a prior study @@citation examines the impact of early retention loss over only the first 5 minutes after data is written, we examine the impact of early retention loss over the course of 24 days.	retention  loss	over  only  the  first  5  minutes  after  data  is  written	B-subj
-our personal favorite is based on so-called eigenfaces, conceptually a simple idea going back to sirovich and kirby @@citation.	eigenfaces		B-subj
-setup the experiments undertaken were a variant of those employed by hu and atkins @@citation to assess the order of accuracy associated with dispersion and dissipation properties of a dg scheme.	dg  scheme	to  assess  the  order  of  accuracy  associated  with  dispersion  and  dissipation  properties	B-subj
-the worked example is adapted from previous work @@citation.	work		B-subj
-2 context and related work this work is a successor to the author’s earlier work @@citation on demixing with 𝑛 = 2 components in the fully observed 𝑚 = 𝑑 setting.	demixing		B-subj
-the accelerator is built upon our previous work already published in @@citation and [11] but now with further performance and algorithmic improvements.	work	with  further  performance  and  algorithmic  improvements	B-subj
-we improve on our recently reported conversational speech recognition system @@citation by about 0.4%, and now exceed human performance by a small margin.	conversational  speech  recognition  system	now  exceed  human  performance  by  a  small  margin	B-subj
-mac protocol for scheduling concurrent transmissions in this section, we describe an extension of the location-assisted mac protocol presented in our prior work @@citation, for scheduling concurrent transmissions under log-normal shadowing channels.	location-assisted  mac  protocol	for  scheduling  concurrent  transmissions  under  log-normal  shadowing  channels	B-subj
-model we extend our previously proposed model of recurrent visual motion processing (@@citation), which is able to solve the aperture problem in the absence of object occlusions in a temporal sequence of images.	recurrent  visual  motion  processing	able  to  solve  the  aperture  problem  in  the  absence  of  object  occlusions  in  a  temporal  sequence  of  images	B-subj
-these orthogonal codes can be considered as a generalization of alamouti transmission scheme @@citation for an arbitrary number of transmit antennas.	alamouti  transmission  scheme	for  an  arbitrary  number  of  transmit  antennas	B-subj
-19 this is a generalization of use of vector coding presented in @@citation for the case of siso frequency-selective channels.	vector  coding	for  the  case  of  siso  frequency-selective  channels	B-subj
-2 approach the presented system in this paper is based on the idea we presented in (@@citation).	idea		B-subj
-2 the mive system the mive (multi-user intuitive virtual environment) system extends the work done in @@citation by improving the way existing constraints behave, and adding new types of constraints.	work	by  improving  the  way  existing  constraints  behave,  and  adding  new  types  of  constraints	B-subj
-it is based on a method developed by walley @@citation, where an upper-lower probability model is derived from any second-order possibility measure, by using natural extension techniques.	method	an  upper-lower  probability  model  is  derived  from  any  second-order  possibility  measure,  by  using  natural  extension  techniques.	B-subj
-the tracking algorithm follows a strategy inspired by a recently introduced finger tracking algorithm @@citation, with extensions here to identify the larger hand features and segment the two hands.	finger  tracking  algorithm	with  extensions  here  to  identify  the  larger  hand  features  and  segment  the  two  hands	B-subj
-◦ remark 3 the approach given here can be easily seen as a generalization of the construction in @@citation.	construction	generalization	B-subj
-the mechanism we devised is loosely based on the work of castano et al. @@citation.	work		B-subj
-we build on the work of @@citation by deriving theoretical properties and developing a bootstrap method for constructing confidence bands for the svm roc curve.	work	for  constructing  confidence  bands  for  the  svm  roc  curve	B-subj
-this additional contribution is based on our prior research on sram, rram and nvsram bit cells @@citation[9].	sram,  rram  and  nvsram  bit  cells	on  sram,  rram  and  nvsram  bit  cells	B-subj
-it extends the functionality of the controller introduced in @@citation, by automatically adapting its reference trajectory to comply with rigid environments, and to maintain a desired interaction force.	controller	by  automatically  adapting  its  reference  trajectory  to  comply  with  rigid  environments,  and  to  maintain  a  desired  interaction  force	B-subj
-in our model we used multi-dimensional fairness inspired by work report in @@citation and formulate it in the form of an integer programming framework to solve the wdp and resource allocation problem.	work	integer  programming  framework  to  solve  the  wdp  and  resource  allocation  problem	B-subj
-3) inspired by approaches for geometric outlier filtering @@citation, [44], we develop an efficient geometric verification step that can be used to integrate potential pose priors.	geometric  outlier  filtering	efficient  geometric  verification  step  that  can  be  used  to  integrate  potential  pose  priors	B-subj
-• an extension of the simulation model described in @@citation so that it can be automatically built from the application data and the topology of a station.	simulation  model		B-subj
-our contributions this article is an extended and revised version of a previous conference paper @@citation.	paper		B-subj
-as a first contribution, we have extended and improved an urban traffic scenario already provided in the netlogo @@citation distribution.	netlogo	an  urban  traffic  scenario	B-subj
-in (16) can be seen as a generalization of the formulation proposed by gopalan et al. @@citation to a multi-carrier setting.	formulation	generalization	B-subj
-by considering equations involving three palindromes, we obtain results in the spirit of the three squares lemma, which may be seen as extending the results of paquin @@citation for christoffel words.	results	by  considering  equations  involving  three  palindromes	B-subj
-b. main contributions this work extends the contribution in @@citation, where the problem was firstly stated and discussed.	contribution		B-subj
-the nwccn is a variation of wccn @@citation which makes use of the negative data from impostor speakers to estimate the expected within-class covariance matrix.	wccn	which  makes  use  of  the  negative  data  from  impostor  speakers  to  estimate  the  expected  within-class  covariance  matrix	B-subj
-some queries are improved by this method as reported in work@@citation and in our previous work [17].	queries		B-subj
-we have extended our previous stereo work found in @@citation, which accounted only for changes in gain with linear response, to take into account the recovered radiometric response function.	stereo  work	to  take  into  account  the  recovered  radiometric  response  function	B-subj
-to develop evo-lexis, we extend a previously proposed optimization framework, called lexis @@citation, that was designed for structure discovery in sequential data.	lexis		B-subj
-neurally-imprinted stable vector fields this section briefly introduces a technique to implement asymptotic stability into neural networks via sampling based on the recently published paper by lemme et al. @@citation.	paper	technique  to  implement  asymptotic  stability  into  neural  networks  via  sampling  based	B-subj
-followup work @@citation summarized previous works and integrated phatt with a constraint reasoning module for parametrized actions and temporal constraints.	works	integrated  phatt  with  a  constraint  reasoning  module  for  parametrized  actions  and  temporal  constraints	B-subj
-exploration algorithm an exploration procedure was used to establish a set of synaptic connections appropriate to the topology of a particular environment, based on earlier work (@@citation).	work		B-subj
-2 approach the presented system in this paper is based on the idea we presented in (@@citation).	idea		B-subj
-It builds directly on the scheme introduced by Costa in @@CITATION.	scheme		A-subj
-We dealt with another version of the problem of extending visibility polygons in another paper [3] and we improved our results in @@CITATION.	results		A-subj
-4.2 Exploration behavior Using the six front sensors, we designed an exploration behavior that is modified from the ones implemented in our earlier works@@CITATION.	exploration behavior		A-subj
-This agent is an extension of the VMS agent described in (@@CITATION) 2.1.4 DF Agent The DF agent provides a yellow pages service.	VMS agent		A-subj
-(Sketch) The propositional cases are proved in @@CITATION, we only need to extend it for the case of the modal rules.	propositional cases		A-subj
-To set these values, we rely mainly on the findings of @@CITATION and [12].	findings		A-subj
-we extend the neural multitask learning framework @@CITATION to incorporate knowledge into citations from the structure of scientific papers.	neural multitask learning framework		A-subj
-The file system module is based on our past work on one-way isolation @@CITATION.	work	on one-way isolation	A-subj
+text	object	context	role	section
+This algorithm can be seen as an extension of the GrabCut @@CITATION algorithm.	GrabCut 		A-subj	method
+I. INTRODUCTION I N this paper, we study variations and extensions of a model introduced and studied in Cover’s seminal work @@CITATION.	model 		A-subj	unknown
+This survey was adapted from one developed for use with high school students in previous research studies ( @@CITATION ) .	research  studies 		A-subj	unknown
+§This paper expands our work in @@CITATION.	work 		A-subj	related work
+It is based on the kernel language Klaim @@CITATION and is inspired by the coordination language Linda [18], hence it relies on the concept of tuple space.	kernel  language  Klaim 		A-subj	introduction
+It is based on the kernel language Klaim [14] and is inspired by the coordination language Linda @@CITATION, hence it relies on the concept of tuple space.	coordination  language  Linda 		A-subj	introduction
+In this section, we both draw upon our collective experience and earlier work (@@CITATION) and reason deductively to analyse and derive key risks inherent in each area.	work 	 to  analyse  and  derive  key  risks  inherent  in  each  area	A-subj	method
+This work details, integrates, and extends with a description of the ConArg tool the research line previously proposed in @@CITATION.	research  line 		A-subj	introduction
+Their work was based on the results of Ishihara and Yasuura @@CITATION who formulated the processor energy optimization problem as a discrete optimization problem that could be solved using linear integer programming techniques.	results 		B-subj	related work
+The approach is based on a system, which we have published earlier @@CITATION for real-time stitching of the urinary bladder.	system	for  real-time  stitching  of  the  urinary  bladder	A-subj	method
+Feature tracking and frame registration This section is based on a recent publication of ours, describing a hybrid tracking approach for real-time stitching during cystoscopy @@CITATION.	hybrid  tracking  approach 		A-subj	method
+This paper is an extension of work on Mobile Learning Security Concerns from University Students’ Perspectives, reported in proceedings of the International Conference on Interactive Mobile Communication Technologies and Learning @@CITATION.	Mobile  Learning  Security  Concerns 		A-subj	method
+In related work @@CITATION, we extended rrl to capture the magnitude of each rank misordering as well: swapping the rank of two nodes that are 1ms apart is less severe than reordering nodes that are 100ms apart.	rrl 		B-subj	method
+Algorithm II Algorithm II is based on our TS heuristic presented for an open VRP described in @@CITATION, 2006).	TS  heuristic 		A-subj	unknown
+Considering catalysis and inhibition significantly extends the practical applicability over the original algorithm @@CITATION as demonstrated in the present paper.	algorithm 		A-subj	unknown
+The algorithm used in NetFinder is based on our previous work on the virtual network assignment @@CITATION, which developed theoretical algorithms for virtual network assignment aiming at reducing the stress among substrate nodes and links @@CITATION.	virtual  network  assignment 	which  developed  theoretical  algorithms  for  virtual  network  assignment  aiming  at  reducing  the  stress  among  substrate  nodes  and  links 	A-subj	method
+This paper extends a previous publication @@CITATION by providing a black-box reliability analysis and extending the adaptability analysis taking into account design structure.	publication 	by  providing  a  black-box  reliability  analysis  and  extending  the  adaptability  analysis  taking  into  account  design  structure	A-subj	keywords
+We next generalize a technique from @@CITATION showing that adding a little variance to a point estimate does not hurt too much.	technique 	showing  that  adding  a  little  variance  to  a  point  estimate  does  not  hurt  too  much	A-subj	method
+c) Compressed Sampling in networking: Our work is an application of the theory of sparse recovery in compressed sampling @@CITATION, which has several applications in networking.	theory  of  sparse  recovery  in  compressed  sampling 	which  has  several  applications  in  networking	A-subj	unknown
+On the basis of Shen D’s work [23], previous reports @@CITATION further developed this approach by combining clustering and uncertainty-based SQC.	approach 		B-subj	introduction
+We consider this as empirical validation for our previous work that hypothesized that a source code file represents a coherent conceptual grouping of related items @@CITATION.	work 		A-subj	method
+It is an implementation of the method proposed by Milne et al. @@CITATION and was primarily designed to annotate the text with the Wikipedia topics.	method 	to  annotate  the  text  with  the  Wikipedia  topics	A-subj	unknown
+1.1 Contributions This paper extends our previous short papers @@CITATION on the informal-to-formal translation.	papers 	on  the  informal-to-formal  translation	A-subj	method
+Our previous work on this topic @@CITATION was based on modifying QEMU so that a model that would later be synthesized, could be used within QEMU.	QEMU 		B-subj	keywords
+The algorithm is an extension of the well-known α algorithm, one of the very first algorithms for automated process discovery, originally presented in @@CITATION.	α  algorithm		A-subj	method
+We then introduce our network, trust and key distribution models, the latter of which is based upon the previous work of Eschenauer and Gligor @@CITATION.	work 		A-subj	unknown
+In this work, we build on our recent algorithmic investigation of PVD using acoustic and seismic signals @@CITATION.	PVD 		A-subj	method
+It extends the traditional problem of Frequent Itemset Mining (FIM) @@CITATION.	Frequent  Itemset  Mining  (FIM) 		A-subj	abstract
+This work extends our prior work on learning entitativity of robot groups @@CITATION.	learning  entitativity  of  robot  groups 		A-subj	introduction
+Building upon earlier work @@CITATION we introduced a two-stage optimisation approach which seamlessly combines standard direct policy learning with our idea of fitting a model that is consistent with variable constraint data.	work 	two-stage  optimisation  approach 	A-subj	unknown
+(We note the proof of @@CITATION extends to establish its security as a PRF if we are willing to assume the underlying compression function is a PRF.	proof 		B-subj	keywords
+Based on previous experience @@CITATION we developed a novel path planning and obstacle avoidance algorithm adapted to the challenging exhibition environment [20].	experience 	path  planning  and  obstacle  avoidance  algorithm 	A-subj	method
+In @@CITATION, Deng extended the above result to the Ishikawa iteration process.	Ishikawa  iteration  process		B-subj	method
+Periodic DMPs The formulation of DMPs in this paper is based on @@CITATION.	@@CITATION		A-subj	keywords
+Initial results of DMP adaptation methods, expanded on in this paper, were presented in @@CITATION.	DMP  adaptation  methods		A-subj	keywords
+In @@CITATION, we extended this algorithm to deal with pebbles and two-way navigation in (classical) words.	@@CITATION		B-subj	method
+The walk dynamics model is based on the results of Lee @@CITATION, who analysed the movement of someone walking, carrying a load, in a gait lab.	results 	movement  of  someone  walking,  carrying  a  load,  in  a  gait  lab	A-subj	method
+Our implementation is based on the approach to dialogue developed in ( CIT ; Poesio and Traum , 1997 ; @@CITATION ) .	approach 		A-subj	unknown
+4 Proposed Scheme In this section we describe our extension of @@CITATION to prove traceability and to achieve Backward Unlinkability.	@@CITATION 		A-subj	method
+This paper stems from our experience with Varanus @@CITATION, an experiment in on-switch stateful property monitoring.	Varanus 	on-switch  stateful  property  monitoring	B-subj	introduction
+Our technique is a direct generalization of @@CITATION.	@@CITATION		A-subj	introduction
+This paper extends and improves the initial proposal of GeoVanet presented in @@CITATION, including an extensive experimental evaluation, a discussion of the use of maiboxes, and more detailed explanations.	GeoVanet 		A-subj	introduction
+The lazy cache algorithm is a generalization of an algorithm presented previously by Brown @@CITATION.	algorithm 		A-subj	method
+Based on previous work in the field of security patterns @@CITATION, we defined a pattern system that describes patterns for each security goal and their relationship.	security  patterns 		A-subj	method
+It improves on a previous O( √ n) lower bound by Dumitrescu et al. @@CITATION.	lower  bound 		A-subj	keywords
+Second, in Section 3.2, we explain our approach, building on @@CITATION, to integrating cost as a basis for determining choices made during process execution.	@@CITATION		A-subj	unknown
+This modelling framework builds directly on the ideas presented in @@CITATION, in which a mathematical account of the classical view of distributed systems — as described, for example, in [15] — is given.	ideas 		A-subj	introduction
+This work was inspired by our ongoing research involving the Novamente AI Engine @@CITATION, a complex integrative software system aimed at achieving advanced Artificial General Intelligence (AGI) [8].	Novamente  AI  Engine 	a  complex  integrative  software  system  aimed  at  achieving  advanced  Artificial  General  Intelligence 	A-subj	method
+2This article extends a previous conference paper @@CITATION and provides a more thorough and detailed report.	paper 		A-subj	keywords
+The present work substantially extends our preliminary work reported in @@CITATION.	work 		A-subj	method
+The algorithm is based on the earlier implementations of molecular shape comparison described by Masek et al. @@CITATION, which quickly finds and quantifies the maximum overlap of the volume of two molecules [11,12].	molecular  shape  comparison 		A-subj	abstract
+We improved our previous algorithm @@CITATION, called LPSI (Line and Point Sets Intersecting), for resolving the intersection problem.	algorithm 		A-subj	abstract
+We build upon our previous work in acoustic @@CITATION and proprioceptive CIT object recognition .	work 		A-subj	method
+Computing iceberg cube with complex measures, such as average(), can be easily included into our algorithms, based on the technique proposed in [@@CITATION].	technique 		A-subj	conclusions
+Authors in @@CITATION, worked on utilizing FPGAs in implementing a fuzzy logic controller to track the maximum power point of the photovoltaic system.	 FPGAs 	to  track  the  maximum  power  point  of  the  photovoltaic  system	B-subj	introduction
+The experiment is based on the design of @@CITATION.	design 		A-subj	conclusions
+Data and annotation agreement This study followed the same figure-type taxonomy established in our earlier work @@CITATION, and reused the same 767 annotated figures @@CITATION.	figure-type  taxonomy 		A-subj	abstract
+The proposed method is called flock of features and it is based on the work of Kolsch et al. @@CITATION.	work 	 called  flock  of  features 	A-subj	method
+To this end , we build on a long line of prior work that treats constrained optimization as a two-player game [ e.g . @@CITATION ] .	work 		A-subj	introduction
+In @@CITATION, Benedikt and Segoufin extend the well-known result that on strings, it is decidable whether a monadic second-order problem (that is, a regular language) is definable in first-order logic, to trees.	result 		B-subj	unknown
+The high-level idea of the transformation is to use the hash-tree construction of Naor and Yung @@CITATION, extending it to also support special-mode generation.	hash-tree  construction 	transformation 	A-subj	method
+Thus, considering the benefits of pictorial structures and the mixture of models, this paper employs DPM as a baseline and extends it for the KITTI urban scene understanding challenge @@CITATION.	DPM 	for  the  KITTI  urban  scene  understanding  challenge 	A-subj	abstract
+This algorithm is an adaptation of an earlier demonstration algorithm for square matrices @@CITATION, which resembles the standard recursive block algorithm for MM.	demonstration  algorithm for  square  matrices 		A-subj	keywords
+Our x86 instruction model is based on that of Myreen @@CITATION which has been extensively validated in the sequential case; we believe the model is accurate for the concurrent case considered here.	x86  instruction  model 		A-subj	conclusions
+We augment simulation-based abstraction with the notion of reduction, which was first introduced by Lipton @@CITATION.	simulation-based  abstraction 		A-subj	unknown
+In this paper we extend our previous research with CBR real-time adaptive applications @@CITATION, with the evaluation of VBR traffic, and specifically MPEG streams, in MobiWeb’s context.	research 		A-subj	method
+The results, as can be seen in §6, favour the graph-based approach.2 The work here substantially extends the preliminary research in @@CITATION.	research 	graph-based  approach	A-subj	introduction
+Our model is based on the work by Karp et al. @@CITATION who investigate several optimization problems for Internet congestion.	work 	who  investigate  several  optimization  problems  for  Internet  congestion	A-subj	categories and subject descriptors
+Conclusions We have built on the interpretation of dropout as a regularizer in @@CITATION to prove several interesting properties of the dropout regularizer.	dropout  as  a  regularizer 		A-subj	conclusions
+It is an extension of the language µCRL @@CITATION with multi-actions, built-in data types and local communication functions instead of a single global one.	language  µCRL 		A-subj	method
+The goal of a more recent work @@CITATION is to enhance flash photography by introducing a flash imaging model and a gradient projection scheme, to reduce the visual effects of noise.	flash  photography 		B-subj	related work
+This implementation, done using one of the most widely used FIPA-compliant Agent Platforms, JADE, follows previous works of our group on this topic @@CITATION.	works 	of  the  most  widely  used  FIPA-compliant  Agent  Platforms,  JADE	A-subj	method
+This approach builds on our own work @@CITATION that shows the robustness of the weighted ranking approach.	weighted  ranking approach		A-subj	method
+This study complements our prior work @@CITATION.	work 		A-subj	introduction
+4.3 Patch Interface Shape Distribution (PISD) Inspired by previous work in physics/materials science on the characterization of nanoporous gold @@CITATION, we define a patch descriptor that characterizes local shape via its curvature distribution.	work in  physics/materials  science 	on  the  characterization  of  nanoporous  gold 	A-subj	method
+Demir et al. @@CITATION proposed to use a locally most-representative shape together with a region-wise centrality quantification, inspired by previous work on contour variability plots [8].	work on  contour  variability  plots 		B-subj	related work
+Building on @@CITATION, we suggest that faithfulness of appropriation and technology satisfaction are theoretically distinct constructs, and we hypothesize that both subjective and objective faithfulness directly influence satisfaction.	@@CITATION		A-subj	method
+A first strategy is based on the sequential application of these four steps, as in @@CITATION.	 		A-subj	introduction
+In @@CITATION it is proposed the DAM profile for dependability analysis, specialized from MARTE.	MARTE		B-subj	related work
+We build on the general idea of M-Kernels @@CITATION, a previous approach for kernel density estimation over data streams.	M-Kernels 	 a  previous  approach  for  kernel  density  estimation  over  data  streams	A-subj	introduction
+The work in [2] has been further developed in @@CITATION where its main improvements rely on the process of junction optimization by generating the hypothesis of two joint primitives.	work 	on  the  process  of  junction  optimization  by  generating  the  hypothesis  of  two  joint  primitives	B-subj	keywords
+D. Sensor node design The sensor node we designed is based on the Lakon mote that we designed in earlier work @@CITATION.	Lakon  mote 	sensor  node 	A-subj	categories and subject descriptors
+This framework is based on our previous work @@CITATION[8].	framework 		A-subj	abstract
+The presented framework is based on our previous work @@CITATION[8] that provides a formal model for the composition of local participants implementations.	framework 	that  provides  a  formal  model  for  the  composition  of  local  participants  implementations	A-subj	unknown
+This framework is based on our previous work [7]@@CITATION.	framework 		A-subj	abstract
+The presented framework is based on our previous work [7]@@CITATION that provides a formal model for the composition of local participants implementations.	framework 	that  provides  a  formal  model  for  the  composition  of  local  participants  implementations	A-subj	unknown
+These results build on the work of Dennis et al. @@CITATION and Wang et al. [8].	work 		A-subj	unknown
+These results build on the work of Dennis et al. [7] and Wang et al. @@CITATION.	work 		A-subj	unknown
+It is a revised version of the classic register allocation algorithm proposed in @@CITATION.	 register  allocation  algorithm 		A-subj	method
+CONCLUSION In this paper, we proposed a modification of the LFR model designed by Lancichinetti et al. @@CITATION, aiming at improving the realism of the networks it generates.	LFR  model 		A-subj	unknown
+In @@CITATION, which is a starting point for the current paper, we discussed a basic idea of generalizing these techniques to a WS1S decision procedure.	these  techniques 		B-subj	keywords
+In one respect this paper is therefore a continuation of @@CITATION where the unidimensional case is treated .	 @@CITATION 		A-subj	keywords
+This project was a longitudinal extension of an earlier study we performed in 1998 @@CITATION, which was an order of magnitude larger than any prior study of file-system metadata.	study 	of  file-system  metadata	A-subj	keywords
+In another recent work @@CITATION, an R-Tree is extended to support transaction and valid time.	R-Tree 	 to  support  transaction  and  valid  time	B-subj	unknown
+This approach is an extension to the unsupervised way of finding maximal frequent itemsets in @@CITATION, which considered all the input graphs in the maximal frequent itemset mining algorithm irrespective of the class.	unsupervised  way  of  finding maximal  frequent  itemsets 		A-subj	keywords
+Tableur’s math recognition engine is based on prior work developed by colleagues at Brown University @@CITATION.	work 	Tableur’s  math  recognition  engine 	A-subj	categories and subject descriptors
+In this paper we extend our previous work on data-driven haptic rendering @@CITATION in order to handle slipping phenomena that occur during a recording.	data-driven  haptic  rendering 		A-subj	introduction
+This work is an extension to (@@CITATION) where the authors developed a Partial Differential Equation (PDE) model that could solve for the rate at which cash is generated through an infinitesimal time.	Partial  Differential  Equation  (PDE) model 		A-subj	abstract
+This work is an extension of our previous work @@CITATION.	work 		A-subj	unknown
+We build on prior work @@CITATION and propose to use domain-specific topic taxonomies that enable us to capture and conveniently visualize a person’s expertise at any given point in time.	work 	to  use domain-specific  topic  taxonomies 	A-subj	introduction
+The model uses elements of an earlier olfaction model @@CITATION, and includes additional mechanisms for reward modulation in the AL. Stimulus-reward associations are stored in plastic ORN-PN connections governed by a three-factor learning rule.	olfaction  model 	includes  additional  mechanisms  for  reward  modulation  in  the  AL	A-subj	keywords
+Based on our earlier work @@CITATION, we have come to the following conclusions on architectural decisions so far: • They are cross-cutting to a great part or the whole of the design.	work 		A-subj	introduction
+We are experimentally evaluating different policy disclosure strategies and conflict resolution algorithms, building on our previous DARPA and NASA-funded work in this arena @@CITATION.	work 	policy  disclosure  strategies  and  conflict  resolution  algorithms	A-subj	method
+In this paper, we extend another system, S∗3 , which was introduced in @@CITATION.	S∗3 		B-subj	introduction
+It is based on KLEE @@CITATION, but with significant modifications and embellishments to the frontend and core engine as we will explain.	KLEE 		B-subj	method
+This work is an extension of the article “Reasoning from Desires to Intentions: A Dialectical Framework” published in AAAI 2007 by the same authors @@CITATION.	article 		A-subj	abstract
+The work in this paper extends that published in @@CITATION by presenting new results for the fast Rayleigh fading channel.	work 		A-subj	method
+Drawing on the lessons of our field experiment (@@CITATION), we implemented two design features intended to strengthen the external validity of our results.	experiment 		A-subj	abstract
+Based on these components and operators , we can formulate a flexible and customizable reachability algorithm , which is adapted from previous work @@CITATION .	work 		A-subj	abstract
+There has been work @@CITATION on integrating CEGAR into JAVA PATHFINDER, using an approach different from interpolation.	CEGAR 		B-subj	abstract
+The surface-fitting algorithm is an extension of previous work on pulmonary nodule segmentation by Reeves et al. @@CITATION that is designed to specifically address the task of separating nodules from the pleural surface.	pulmonary  nodule  segmentation 		A-subj	introduction
+This extension can be viewed as a generalization of the concept of the extended library @@CITATION where only transitive edges of level 2 are considered.	extended  library 		A-subj	method
+.@@CITATION describe an extension of AdaBoost to structured problems and an extension of CoBoosting is immediate, but we did not implement it due to time constraints.	AdaBoost 		B-subj	evaluation
+These components were derived from earlier research @@CITATION the categories of which are listed in Table 3.	research 		A-subj	method
+Following our work in @@CITATION, we train a single SOM on features from our collection of tracks, first normalising each feature dimension to have zero mean and unit variance.	work 	a  single  SOM 	A-subj	method
+This approach is based on earlier work on the OpenEPC @@CITATION and Open5GCore [30] systems.	 OpenEPC 		A-subj	categories and subject descriptors
+This approach is based on earlier work on the OpenEPC [22] and Open5GCore @@CITATION systems.	Open5GCore 		A-subj	categories and subject descriptors
+The proposed framework is based on the spatial coherence recovery approach proposed in @@CITATION.	spatial  coherence  recovery  approach 		A-subj	method
+The completeness result extends the previous work of Bezem and Coquand @@CITATION by showing that the geometric logic extended with a simple constraint theory (in particular native equational logic) is complete with respect to Tarskian truth.	work 		A-subj	method
+This paper represents an extension beyond our own initial exploration of non uniform data dissemination @@CITATION that also presented some preliminary protocols.	non  uniform  data  dissemination 		A-subj	method
+COATCheck extends existing tools and techniques @@CITATION to allow users to reason about system calls, interrupts, microcode, and so on.	techniques 		A-subj	keywords
+We either derived these from previous work @@CITATION or custom wrote them to test new functionality or scenarios.	work 		A-subj	method
+Later, in @@CITATION, authors extended it to MIMO systems, with a complex Trust Region algorithm, which guarantees convergence and preserves stability.	it 		B-subj	method
+WS-SecurityPolicy is designed as an extension to WSPolicy @@CITATION, a specification used to define the characteristics, capabilities, and requirements for an XMLbased web service.	WSPolicy 		A-subj	introduction
+The questionnaire was designed based on a pervious study @@CITATION.	study 		A-subj	evaluation
+This model can be seen as an extension of a model introduced and evaluated practically in @@CITATION.	model 		A-subj	categories and subject descriptors
+In this regard, this paper is an extension of our previous publication @@CITATION.	publication 		A-subj	introduction
+This feature is a modification to the one used in @@CITATION.	feature 		A-subj	abstract
+This work continues our previous works @@CITATION .	works 		A-subj	method
+Appendix A shows how the semantic rules for StAC in @@CITATION may be extended to deal with parameterised throw.	semantic  rules  for  StAC 		A-subj	method
+While there has been some prior work on evaluating the minimum precision required for error-free rendering @@CITATION, this work significantly extends and generalizes the concept in three ways.	minimum  precision  required  for  error-free  rendering 		A-subj	method
+It should be noted that this paper is an extended study of our previous conference version @@CITATION, which is extended by 70% relative to the prior study.	study 		A-subj	method
+Our choice of a scaling factor of cri was motivated by the systems based on Distributed Hash Table such as Chord @@CITATION in which the distance between a node and its fingers increases exponentially.	Chord 	Distributed  Hash  Table 	A-subj	method
+We use a benchmark similar to the one we have developed in our previous work @@CITATION, enriched with update queries.	benchmark 		A-subj	method
+This article reports an extension of previous presentations/publications in @@CITATION.	presentations/publications 		A-subj	introduction
+Thus, we extended our previous works @@CITATION by capturing the structure of the LBFN over several snapshots.	works 		A-subj	method
+In this paper, the model is an extension of our previously proposed model in @@CITATION.	model 		A-subj	introduction
+A preliminary version of the material from this paper appeared in @@CITATION.	material 		A-subj	method
+A preliminary work @@CITATION to calculate the Fisher information based on various weak measurements for linear Gaussian quantum system was reported recently.	weak  measurements  for  linear  Gaussian  quantum  system 		B-subj	unknown
+In the analytic approach proposed in this paper, by extending the existing analytic approach proposed in @@CITATION, we model individual components of a network as independent SISO (Single-Input SingleOutput) continuous-time systems using fluid-flow approximation.	approach 		A-subj	introduction
+3.1 Studied networks 3.1.1 PGrid Our work extends @@CITATION, which studies one-dimensional range search on PGrid.	 one-dimensional  range  search  on  PGrid		A-subj	method
+We considered situations which are similar to previous studies on human-human collision avoidance and we based our analysis was based on the concept of mpd introduced in @@CITATION to enable comparisons.	concept  of mpd 		A-subj	discussions
+Power @@CITATION offered an extended classification of DSS based on the dominant technology that determines the features of the decision-making: communications-driven DSS, data-driven DSS, document-driven DSS, knowledge-driven DSS, and model-driven DSS.	DSS 		B-subj	categories and subject descriptors
+We have implemented several of these , including raycasting ( CIT ) , cell projection ( @@CITATION ) and splatting ( CIT ) .	cell  projection 		A-subj	discussions
+Our previous publication @@CITATION presents an adapted cost model ContextCost that addresses those challenges.	cost  model  ContextCost 		B-subj	introduction
+Our confirmation protocol is based on Chaum’s method @@CITATION.	method 		A-subj	method
+3 Related Work Our work extends the variational dropout technique originally proposed in @@CITATION.	variational  dropout technique 		A-subj	related work
+Following the original work on GANs (@@CITATION), our analysis focuses on the nonparametric case, where all models are assumed to have infinite capacities.	GANs 		A-subj	unknown
+2The K/2 bound of @@CITATION extends to the fully connected vector case as well.	fully  connected  vector 		B-subj	keywords
+However, for the datasets presented in this paper we find that the following approach based on spectral clustering algorithm of @@CITATION works well.	spectral  clustering  algorithm 		A-subj	method
+A preliminary version of this work appeared in the first author’s Master’s thesis @@CITATION.	thesis 		A-subj	unknown
+Our algorithm can be seen as an extension of the polytree belief updating algorithm (@@CITATION).	polytree  belief  updating  algorithm 		A-subj	unknown
+We extend the approach in @@CITATION to generate instances and bags for representing videos, and make it applicable not only to actions of a single person but also interactions between a pair of people.	approach 		A-subj	method
+The description of the changing form of epistasis given in @@CITATION is the starting point for this work.	changing  form  of  epistasis 		A-subj	abstract
+Offermann et al. @@CITATION extend this and other previous work aiming at increasing the utility of method design artifacts through a better comparability of its elements.	this 		B-subj	introduction
+Our approach follows the initial treatment by Christol @@CITATION, which is based on Furstenberg’s theorem [14, Thm.	treatment 		A-subj	method
+It is based on the concept of the Shapley value @@CITATION which , under certain conditions , ensures that the cooperating mesh nodes will agree to participate in the offloading service .	Shapley  value 		A-subj	method
+It is summarised in Figure 3, showing our extension to the ETSI’s NFV architecture @@CITATION, in which we replaced its centralised orchestrator and VNF manager, with BDI agents.	ETSI’s  NFV  architecture 		A-subj	method
+The paper is an extension of @@CITATION where only the 2.4 GHz range was considered.	@@CITATION 		A-subj	method
+The presented usage scenarios are based on examples from literature @@CITATION.	examples 		A-subj	method
+The IT-artefact is based on two theories : ( a ) the Five Factor personality theory of @@CITATION and ( b ) the product personality – human personality congruency theory by CIT .	Five  Factor  personality  theory 		A-subj	categories and subject descriptors
+In @@CITATION, a distributed relay selection scheme is proposed based on the instantaneous channel estimation and information theoretical analysis is given without considering rate adaptation.	instantaneous  channel  estimation 		B-subj	method
+In order to measure the maturity of SPI implementation process we have adapted an assessment instrument (as shown in Appendix C) that has been developed, tried and tested at Motorola (@@CITATION).	assessment  instrument 		A-subj	unknown
+This contribution follows from our work in @@CITATION and is described in Chapter 3.	work 		A-subj	unknown
+This contribution is an extension from our work in @@CITATION is described in Chapter 4.	work 		A-subj	unknown
+This contribution is described in Chapter 5 and follows from our first attempt at a similar problem in @@CITATION.	attempt 		A-subj	unknown
+PLUS embodies the reference and measurement scans into one scan, which further develops from our previous work @@CITATION.	work 		A-subj	method
+CMMI has been released by SEI that has extended CMM’s practices @@CITATION.	CMM’s  practices 		A-subj	method
+The test algorithm generation is based on TAGS (test algorithm generation by simulation) in our previous work @@CITATION.	TAGS  (test  algorithm  generation  by  simulation) 		A-subj	unknown
+In our implementation, the FedTime class provided by DMSO RTI1.3NG-V6 @@CITATION was extended and the new generated library libFedTime was linked to the DSManager.	DMSO  RTI1.3NG-V6 		A-subj	conclusions
+F. German Research Center for Artificial Intelligence The system is based on the methods introduced in @@CITATION However, we have modified/optimized it in order to fit in the scenarios presented in this signature verification competition.	methods 		A-subj	method
+We began the first part of this program in @@CITATION, but in order to complete it we need to understand the structure of reasonably well-connected cubic graphs that do not topologically contain the Petersen graph.	program 		A-subj	introduction
+This work extends the manuscripts presented in @@CITATION .	manuscripts 		A-subj	method
+As an extension of earlier work (@@CITATION), we will now present a formalization of the design problem and new and extended cohesion and coupling metrics.	work 		A-subj	method
+Our argument follows that of Earley @@CITATION.	argument 		A-subj	method
+.@@CITATION extends the technique to on-line analog testing by monitoring the quiescent voltage level of analog circuits.	 technique  to  on-line  analog  testing 		B-subj	introduction
+This result, is based on the work of Dubuc @@CITATION who proved: Proposition 2.	work 		A-subj	unknown
+Our proposition is based on a possibility/probability transformation we previously proposed @@CITATION[8], and on the notion of possibility distribution specificity ordering [9].	 possibility/probability  transformation 		A-subj	method
+Our proposition is based on a possibility/probability transformation we previously proposed [7]@@CITATION, and on the notion of possibility distribution specificity ordering [9].	possibility/probability  transformation 		A-subj	method
+Our proposition is based on a possibility/probability transformation we previously proposed [7][8], and on the notion of possibility distribution specificity ordering @@CITATION.	possibility/probability  transformation 		A-subj	method
+Furthermore, based on our previous work @@CITATION, we can achieve a high QoS performance through an adequate priority-based routing protocol.	work 		A-subj	method
+Our results are based on extending the general analysis framework outlined in @@CITATION using insights from the geometry of the problem .	analysis  framework 		A-subj	unknown
+A preliminary version of the work presented in this article is published in @@CITATION.	work 		A-subj	unknown
+In this paper we proposed a new class of kernels which extends our previous work presented in @@CITATION in the sense that these kernels are defined over a richer representation language.	work 	kernels 	A-subj	conclusions
+AN INTEGRAL REPRESENTATION FOR FUNCTIONS We summarize the basic starting point of this paper, based on @@CITATION, to which the reader is referred for further details.	@@CITATION		A-subj	method
+We present here a somewhat more elementary proof, relying on simpler concepts and on the results in @@CITATION.	results 		A-subj	method
+In @@CITATION a frame interpolation method based on motion vector estimation for H.263 video streaming is proposed.	motion  vector  estimation 		B-subj	introduction
+Finally, following our previous work (@@CITATION), we employed a further step to remove participants who failed to demonstrate sensitivity to rewards in the decision task.	work 		A-subj	method
+Corpus Construction Basing our research on Daxenberger et al . ( @@CITATION ) , we distinguished between revisions and edits .	@@CITATION 		A-subj	unknown
+Our lab prototyped this approach in prior work @@CITATION.	work 		A-subj	method
+1 Portions of this submission are based on our earlier technical reports @@CITATION To be effective, a solution to this problem must satisfy several constraints: • It must be real.	technical  reports 		A-subj	introduction
+The propagation algorithm is based on the approach suggested in @@CITATION.	approach 		A-subj	abstract
+It integrates and extends our previous middleware-related projects, the Web Services Message Bus (wsBus) @@CITATION and AdaptiveBPEL [7].	 Web  Services  Message  Bus  (wsBus) 		A-subj	keywords
+It integrates and extends our previous middleware-related projects, the Web Services Message Bus (wsBus) [5] and AdaptiveBPEL @@CITATION.	AdaptiveBPEL 		A-subj	keywords
+Our features were derived from @@CITATION ( a work on classifying multiword expressions , a task similar to this one ) , as well as our own observations .	@@CITATION 		A-subj	introduction
+The optimization problem (3) can be viewed as a generalization of the minimum delay routing problem @@CITATION.	minimum  delay  routing  problem 		A-subj	abstract
+The model is constructed based on the characteristics of HBV transmission and the model of Medley et al. @@CITATION.	model 		A-subj	categories and subject descriptors
+Since the original method in @@CITATION was not conceived to maximize image quality, we modify it by embedding the dithering signal in a perceptual-aware fashion.	method 		A-subj	method
+This work is an outgrowth of the research described in @@CITATION.	research 		A-subj	related work
+We extended this concept to the DF process in sensor networks in @@CITATION.	this  concept 		B-subj	method
+2 A Modification of LU Factorizations Adapting the ideas suggested in @@CITATION, we construct a new method for solving linear systems with coefficient matrices of the form (2).	ideas 		A-subj	method
+The envisioned framework in @@CITATION proposes a solution to extend the web service model by introducing and using semantic web services.	web  service  model 		B-subj	categories and subject descriptors
+Our RDF scheme basically follows the RDF encoding approach presented in @@CITATION, which provides an XML-to-RDF mapping of the original DBLP data set.	 RDF  encoding  approach 		A-subj	method
+Section 3 presents the DPOP algorithm from @@CITATION, upon which we will build our present work.	DPOP  algorithm 		A-subj	keywords
+(47c) To treat the system of functional equations (47) we will apply an extension of Theorem 3, which follows from @@CITATION and deals with the situation appearing here.	Theorem  3		A-subj	method
+Some preliminary results of our work were presented in @@CITATION.	results 		A-subj	method
+9.2), this algorithm is a generalization of the famous min-norm point algorithm (@@CITATION), the latter being recovered when the Hessian is the identity.	min-norm  point  algorithm 		A-subj	unknown
+DISTATIS is an adaptation of the STATIS methodology specifically used for the purposes of integrating distance matrices for different input attributes @@CITATION.	STATIS  methodology 	used  for  the  purposes  of  integrating  distance  matrices  for  different  input  attributes 	B-subj	unknown
+Method Our method is an extension of our earlier work @@CITATION.	work 		A-subj	unknown
+IP) based CP tracking controller introduced in @@CITATION, generalizing it to a model that contains vertical CoM motions and changes in angular momentum.	CP  tracking  controller 	that  contains  vertical  CoM  motions  and  changes  in  angular  momentum	A-subj	unknown
+CORE @@CITATION extends existing regenerating codes to support the optimal recovery of multi-node failures, and presents a prototype implementation on HDFS.	regenerating  codes 	to  support  the  optimal  recovery  of  multi-node  failures	B-subj	unknown
+4.2 Reachability Verification of CDSs We extend our earlier work for safety @@CITATION, by considering reachability.	work 	4.2  Reachability  Verification  of  CDSs  by  considering  reachability	A-subj	unknown
+4 Software framework We build on the work of Markosian et al. @@CITATION.	work 		A-subj	unknown
+McKenzie et al. @@CITATION present a global vector field clustering method as an extension to Du and Wangâ€™s previous work [16].	work 		B-subj	unknown
+7 2.3 Extended Causal Models Following our earlier work (@@CITATION), we formalize normality using extended causal models.	work 	Extended  Causal  Models 	A-subj	unknown
+MUSIKA is based on our previous work @@CITATION.	work 		A-subj	unknown
+1.3 Previous Work In a followup to his original work @@CITATION, Jon Kleinberg motivated why the necessary distribution for navigability might arise in nature by means of â€œgroup membershipsâ€.	work 	distribution  for  navigability 	B-subj	unknown
+RoLL The Robot Learning Language RoLL @@CITATION is an extension to RPL that augments it with capabilities for data acquisition, learning and seamless integration of learned functions into RPL control programs.	RPL 	that  augments  it  with  capabilities  for  data  acquisition,  learning  and  seamless  integration  of  learned  functions  into  RPL  control  programs	B-subj	unknown
+â€¢ TrustRank @@CITATION was proposed to detect web spams, and we adapt it for spammer detection in a microblogging site.	TrustRank 	for  spammer  detection  in  a  microblogging  site	A-subj	unknown
+Remy @@CITATION used an extension of ML with both universally and existentially quantified datatype components to model aspects of object-oriented languages, but did not discuss type inference.	ML 	with  both  universally  and  existentially  quantified  datatype  components  to  model  aspects  of  object-oriented  languages	B-subj	unknown
+(2) To find the coefficients {Î²k}ck=1 and the shared SVs z, we extend our recent work in @@CITATION to the multiclass case.	work 	to  the  multiclass  case	A-subj	unknown
+The DPC scheme expands and improves upon the distributed power management framework we developed earlier @@CITATION.	distributed  power  management  framework 		A-subj	unknown
+For a notion of material texturedness we build on the work of @@CITATION in which it is shown that a weibull parameterization of images results in textural diversification.	work 	weibull  parameterization  of  images 	A-subj	unknown
+Zvi GallI @@CITATION presented a new version of the modified 8M algorithm and, by using the Guibas and Odlyzko result, showed a 14n character comparison worst case runningtime for his algorithm.	8M  algorithm 	by  using  the  Guibas  and  Odlyzko  result	A-subj	unknown
+We made small changes to Blackscholes, Canneal and Swaptions benchmark programs as explained in our prior work [@@CITATIONa].	Blackscholes,  Canneal  and  Swaptions  benchmark  programs 		A-subj	unknown
+Tree-LSTM is a recent approach, which is an extension of the simple LSTM framework (@@CITATION).	LSTM  framework 		A-subj	unknown
+Entanglement Measures We build on the previous work of three entanglement measures proposed by Renoust et al. @@CITATION.	entanglement  measures 	ù	A-subj	unknown
+The enriched finite element method We start generalizing the derivation carried out in @@CITATION.	derivation 		A-subj	unknown
+Our chosen scope follows prior industry work @@CITATION, which is important in two respects.	industry  work 		A-subj	unknown
+(18) This follows by combining a theorem of A. Abrams @@CITATION (stating that COLLISION FREE MOTION PLANNING ON GRAPHS 13 Figure 2.	theorem 	COLLISION  FREE  MOTION  PLANNING  ON  GRAPHS 	A-subj	unknown
+(5c) This modification method is also suitable for our previous MRT models@@CITATION.	MRT  models		A-subj	unknown
+B. The 2-step Capturing Strategy The 2-step capturing strategy is based on the idea in our former work @@CITATION.	work 		A-subj	unknown
+4.2.2 Hardware Approaches This proposed work is an extension of our prior work described in @@CITATION.	work 	Hardware  Approaches 	A-subj	unknown
+The thinkaloud protocol employed in the experiment was based on the coaching approach described by Olmsted-Hawala et al. @@CITATION.	coaching  approach 	thinkaloud  protocol 	A-subj	unknown
+The iCircles tool is an implementation of the method, presented in @@CITATION, of inductively drawing Euler diagrams using circles.	method	of  inductively  drawing  Euler  diagrams using  circles	A-subj	unknown
+Both algorithms are defined by using some auxiliary notions from previous works @@CITATION.	works 		A-subj	unknown
+Our objective is to develop some of the ideas presented in the seminal paper @@CITATION.	ideas 		A-subj	unknown
+Our PMS component is inspired in a process investigated in [@@CITATION] which demonstrated to be quite effective in this specific task for collections in the computer science field.	process 	for  collections  in  the  computer  science  field	A-subj	unknown
+Methods Our Brownian dynamics (BD) model extends our previous work in which we investigated the morphology of polymerized and crosslinked actin networks @@CITATION.	work 	 morphology  of  polymerized  and  crosslinked  actin  networks 	A-subj	unknown
+Arnout's [1] research on object-oriented pattern components inspired our proceeding, which is e.g. described in @@CITATION.	proceeding	object-oriented  pattern  components 	A-subj	unknown
+VIOLA-JONES RAPID OBJECT DETECTION The rapid object detection method presented in @@CITATION forms the basis of the face and facial feature detection approach considered in this work.	object  detection  method 	of  the  face  and  facial  feature  detection approach 	A-subj	unknown
+âˆ—This paper is an extended version of preliminary results @@CITATION.	results 		A-subj	unknown
+While a prior study @@CITATION examines the impact of early retention loss over only the first 5 minutes after data is written, we examine the impact of early retention loss over the course of 24 days.	retention  loss 	over  only  the  first  5  minutes  after  data  is  written	A-subj	unknown
+Our personal favorite is based on so-called eigenfaces, conceptually a simple idea going back to Sirovich and Kirby @@CITATION.	eigenfaces		A-subj	unknown
+Setup The experiments undertaken were a variant of those employed by Hu and Atkins @@CITATION to assess the order of accuracy associated with dispersion and dissipation properties of a DG scheme.	experiments 	to  assess  the  order  of  accuracy  associated  with  dispersion  and  dissipation  properties 	A-subj	unknown
+The worked example is adapted from previous work @@CITATION.	work 		A-subj	unknown
+2 Context and related work This work is a successor to the authorâ€™s earlier work @@CITATION on demixing with ð‘› = 2 components in the fully observed ð‘š = ð‘‘ setting.	demixing 		A-subj	unknown
+The accelerator is built upon our previous work already published in @@CITATION and [11] but now with further performance and algorithmic improvements.	work 	with  further  performance  and  algorithmic  improvements	A-subj	unknown
+We improve on our recently reported conversational speech recognition system @@CITATION by about 0.4%, and now exceed human performance by a small margin.	conversational  speech  recognition  system 	now  exceed  human  performance  by  a  small  margin	A-subj	unknown
+MAC Protocol for Scheduling Concurrent Transmissions In this section, we describe an extension of the location-assisted MAC protocol presented in our prior work @@CITATION, for scheduling concurrent transmissions under log-normal shadowing channels.	location-assisted  MAC  protocol 	for  scheduling  concurrent  transmissions  under  log-normal  shadowing  channels	A-subj	unknown
+Model We extend our previously proposed model of recurrent visual motion processing (@@CITATION), which is able to solve the aperture problem in the absence of object occlusions in a temporal sequence of images.	recurrent  visual  motion  processing 	able  to  solve  the  aperture  problem  in  the  absence  of  object  occlusions  in  a  temporal  sequence  of  images	A-subj	unknown
+These orthogonal codes can be considered as a generalization of Alamouti transmission scheme @@CITATION for an arbitrary number of transmit antennas.	Alamouti  transmission  scheme 	for  an  arbitrary  number  of  transmit  antennas	A-subj	unknown
+19 This is a generalization of use of vector coding presented in @@CITATION for the case of SISO frequency-selective channels.	 vector  coding 	for  the  case  of  SISO  frequency-selective  channels	A-subj	unknown
+2 Approach The presented system in this paper is based on the idea we presented in (@@CITATION).	idea 		A-subj	unknown
+2 The MIVE System The MIVE (Multi-user Intuitive Virtual Environment) system extends the work done in @@CITATION by improving the way existing constraints behave, and adding new types of constraints.	work 	by  improving  the  way  existing  constraints  behave,  and  adding  new  types  of  constraints	A-subj	unknown
+It is based on a method developed by Walley @@CITATION, where an upper-lower probability model is derived from any second-order possibility measure, by using natural extension techniques.	method 	an  upper-lower  probability  model  is  derived  from  any  second-order  possibility  measure,  by  using  natural  extension  techniques.	A-subj	unknown
+The tracking algorithm follows a strategy inspired by a recently introduced finger tracking algorithm @@CITATION, with extensions here to identify the larger hand features and segment the two hands.	finger  tracking  algorithm 	with  extensions  here  to  identify  the  larger  hand  features  and  segment  the  two  hands	A-subj	unknown
+â—¦ Remark 3 The approach given here can be easily seen as a generalization of the construction in @@CITATION.	construction 	generalization 	A-subj	unknown
+The mechanism we devised is loosely based on the work of Castano et al. @@CITATION.	work 		A-subj	unknown
+We build on the work of @@CITATION by deriving theoretical properties and developing a bootstrap method for constructing confidence bands for the SVM ROC curve.	work 	by  deriving  theoretical  properties  and  developing  a  bootstrap  method  for  constructing  confidence  bands  for  the  SVM  ROC  curve	A-subj	unknown
+This additional contribution is based on our prior research on SRAM, RRAM and nvSRAM bit cells @@CITATION[9].	research 	on  SRAM,  RRAM  and  nvSRAM  bit  cells 	A-subj	unknown
+It extends the functionality of the controller introduced in @@CITATION, by automatically adapting its reference trajectory to comply with rigid environments, and to maintain a desired interaction force.	controller 	 by  automatically  adapting  its  reference  trajectory  to  comply  with  rigid  environments,  and  to  maintain  a  desired  interaction  force	A-subj	unknown
+In our model we used multi-dimensional fairness inspired by work report in @@CITATION and formulate it in the form of an integer programming framework to solve the WDP and resource allocation problem.	work 	integer  programming  framework  to  solve  the  WDP  and  resource  allocation  problem	A-subj	unknown
+3) Inspired by approaches for geometric outlier filtering @@CITATION, [44], we develop an efficient geometric verification step that can be used to integrate potential pose priors.	geometric  outlier  filtering 	efficient  geometric  verification  step  that  can  be  used  to  integrate  potential  pose  priors	A-subj	unknown
+â€¢ An extension of the simulation model described in @@CITATION so that it can be automatically built from the application data and the topology of a station.	simulation  model 		B-subj	unknown
+Our Contributions This article is an extended and revised version of a previous conference paper @@CITATION.	paper 		A-subj	unknown
+As a first contribution, we have extended and improved an urban traffic scenario already provided in the NetLogo @@CITATION distribution.	NetLogo 	an  urban  traffic  scenario 	A-subj	unknown
+in (16) can be seen as a generalization of the formulation proposed by Gopalan et al. @@CITATION to a multi-carrier setting.	formulation 	 to  a  multi-carrier  setting	B-subj	unknown
+By considering equations involving three palindromes, we obtain results in the spirit of the three squares lemma, which may be seen as extending the results of Paquin @@CITATION for Christoffel words.	results 	in  the  spirit  of  the  three  squares  lemma	A-subj	unknown
+B. Main contributions This work extends the contribution in @@CITATION, where the problem was firstly stated and discussed.	contribution 		A-subj	unknown
+The NWCCN is a variation of WCCN @@CITATION which makes use of the negative data from impostor speakers to estimate the expected within-class covariance matrix.	WCCN 	which  makes  use  of  the  negative  data  from  impostor  speakers  to  estimate  the  expected  within-class  covariance  matrix	A-subj	unknown
+Some queries are improved by this method as reported in work@@CITATION and in our previous work [17].	queries 	queries 	B-subj	unknown
+We have extended our previous stereo work found in @@CITATION, which accounted only for changes in gain with linear response, to take into account the recovered radiometric response function.	stereo  work 	to  take  into  account  the  recovered  radiometric  response  function	A-subj	unknown
+To develop Evo-Lexis, we extend a previously proposed optimization framework, called Lexis @@CITATION, that was designed for structure discovery in sequential data.	Lexis 	that  was  designed  for  structure  discovery  in  sequential  data	A-subj	unknown
+NEURALLY-IMPRINTED STABLE VECTOR FIELDS This section briefly introduces a technique to implement asymptotic stability into neural networks via sampling based on the recently published paper by Lemme et al. @@CITATION.	paper 	technique  to  implement  asymptotic  stability  into  neural  networks  via  sampling  based 	A-subj	unknown
+Followup work @@CITATION summarized previous works and integrated PHATT with a constraint reasoning module for parametrized actions and temporal constraints.	works 	integrated  PHATT  with  a  constraint  reasoning  module  for  parametrized  actions  and  temporal  constraints	A-subj	unknown

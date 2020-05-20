@@ -2,7 +2,7 @@
 
 <b>Structured Semantic Modeling of Citation Intents</b><br>
 CiTelling is a radically new model offine-grained semantic structures lying behind citational sentences.
-We provide a dataset of citation intents with 400 instances to be employed within Machine Learning scenarios.
+We provide a dataset of citation intents with 1380 instances to be employed within Machine Learning scenarios.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ To the semantic model we add the concepts of <i>Object</i> and <i>Context</i>, r
 
 ### Dataset
 
-The dataset consists of 5 files, corresponding to the five classes of citations, in csv format with values separated by tabs. The first line represents the header.
+The dataset consists of 5 files in csv format, corresponding to the five classes of citations, with values separated by tabs. The first line represents the header.
 ```
 text:       (Peter et al 2019) uses the pm10-2019 dataset for analyze air pollution.
 object:     pm10-2018
